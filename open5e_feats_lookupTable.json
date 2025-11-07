@@ -1,0 +1,273 @@
+{
+  "Ace Driver": [
+    "a5e-ag_ace-driver"
+  ],
+  "Athletic": [
+    "a5e-ag_athletic"
+  ],
+  "Attentive": [
+    "a5e-ag_attentive"
+  ],
+  "Battle Caster": [
+    "a5e-ag_battle-caster"
+  ],
+  "Brutal Attack": [
+    "a5e-ag_brutal-attack"
+  ],
+  "Bull Rush": [
+    "a5e-ag_bull-rush"
+  ],
+  "Combat Thievery": [
+    "a5e-ag_combat-thievery"
+  ],
+  "Covert Training": [
+    "a5e-ag_covert-training"
+  ],
+  "Crafting Expert": [
+    "a5e-ag_crafting-expert"
+  ],
+  "Crossbow Expertise": [
+    "a5e-ag_crossbow-expertise"
+  ],
+  "Deadeye": [
+    "a5e-ag_deadeye"
+  ],
+  "Deflector": [
+    "a5e-ag_deflector"
+  ],
+  "Destiny’s Call": [
+    "a5e-ag_destinys-call"
+  ],
+  "Dual-Wielding Expert": [
+    "a5e-ag_dual-wielding-expert"
+  ],
+  "Dungeoneer": [
+    "a5e-ag_dungeoneer"
+  ],
+  "Empathic": [
+    "a5e-ag_empathic"
+  ],
+  "Fear Breaker": [
+    "a5e-ag_fear-breaker"
+  ],
+  "Fortunate": [
+    "a5e-ag_fortunate"
+  ],
+  "Guarded Warrior": [
+    "a5e-ag_guarded-warrior"
+  ],
+  "Hardy Adventurer": [
+    "a5e-ag_hardy-adventurer"
+  ],
+  "Heavily Outfitted": [
+    "a5e-ag_heavily-outfitted"
+  ],
+  "Heavy Armor Expertise": [
+    "a5e-ag_heavy-armor-expertise"
+  ],
+  "Heraldic Training": [
+    "a5e-ag_heraldic-training"
+  ],
+  "Idealistic Leader": [
+    "a5e-ag_idealistic-leader"
+  ],
+  "Intuitive": [
+    "a5e-ag_intuitive"
+  ],
+  "Keen Intellect": [
+    "a5e-ag_keen-intellect"
+  ],
+  "Lightly Outfitted": [
+    "a5e-ag_lightly-outfitted"
+  ],
+  "Linguistics Expert": [
+    "a5e-ag_linguistics-expert"
+  ],
+  "Martial Scholar": [
+    "a5e-ag_martial-scholar"
+  ],
+  "Medium Armor Expert": [
+    "a5e-ag_medium-armor-expert"
+  ],
+  "Moderately Outfitted": [
+    "a5e-ag_moderately-outfitted"
+  ],
+  "Monster Hunter": [
+    "a5e-ag_monster-hunter"
+  ],
+  "Mounted Warrior": [
+    "a5e-ag_mounted-warrior"
+  ],
+  "Mystical Talent": [
+    "a5e-ag_mystical-talent"
+  ],
+  "Natural Warrior": [
+    "a5e-ag_natural-warrior"
+  ],
+  "Physician": [
+    "a5e-ag_physician"
+  ],
+  "Polearm Savant": [
+    "a5e-ag_polearm-savant"
+  ],
+  "Power Caster": [
+    "a5e-ag_power-caster"
+  ],
+  "Powerful Attacker": [
+    "a5e-ag_powerful-attacker"
+  ],
+  "Primordial Caster": [
+    "a5e-ag_primordial-caster"
+  ],
+  "Rallying Speaker": [
+    "a5e-ag_rallying-speaker"
+  ],
+  "Resonant Bond": [
+    "a5e-ag_resonant-bond"
+  ],
+  "Rite Master": [
+    "a5e-ag_rite-master"
+  ],
+  "Shield Focus": [
+    "a5e-ag_shield-focus"
+  ],
+  "Skillful": [
+    "a5e-ag_skillful"
+  ],
+  "Skirmisher": [
+    "a5e-ag_skirmisher"
+  ],
+  "Spellbreaker": [
+    "a5e-ag_spellbreaker"
+  ],
+  "Stalwart": [
+    "a5e-ag_stalwart"
+  ],
+  "Stealth Expert": [
+    "a5e-ag_stealth-expert"
+  ],
+  "Street Fighter": [
+    "a5e-ag_street-fighter"
+  ],
+  "Surgical Combatant": [
+    "a5e-ag_surgical-combatant"
+  ],
+  "Survivor": [
+    "a5e-ag_survivor"
+  ],
+  "Swift Combatant": [
+    "a5e-ag_swift-combatant"
+  ],
+  "Tactical Support": [
+    "a5e-ag_tactical-support"
+  ],
+  "Tenacious": [
+    "a5e-ag_tenacious"
+  ],
+  "Thespian": [
+    "a5e-ag_thespian"
+  ],
+  "Weapons Specialist": [
+    "a5e-ag_weapons-specialist"
+  ],
+  "Well-Heeled": [
+    "a5e-ag_well-heeled"
+  ],
+  "Woodcraft Training": [
+    "a5e-ag_woodcraft-training"
+  ],
+  "Ability Score Improvement": [
+    "srd-2024_ability-score-improvement"
+  ],
+  "Alert": [
+    "srd-2024_alert"
+  ],
+  "Archery": [
+    "srd-2024_archery"
+  ],
+  "Boon of Combat Prowess": [
+    "srd-2024_boon-of-combat-prowess"
+  ],
+  "Boon of Dimensional Travel": [
+    "srd-2024_boon-of-dimensional-travel"
+  ],
+  "Boon of Fate": [
+    "srd-2024_boon-of-fate"
+  ],
+  "Boon of Irresistible Offense": [
+    "srd-2024_boon-of-irresistible-offense"
+  ],
+  "Boon of Spell Recall": [
+    "srd-2024_boon-of-spell-recall"
+  ],
+  "Boon of the Night Spirit": [
+    "srd-2024_boon-of-the-night-spirit"
+  ],
+  "Boon of the Truesight": [
+    "srd-2024_boon-of-truesight"
+  ],
+  "Defense": [
+    "srd-2024_defense"
+  ],
+  "Grappler": [
+    "srd-2024_grappler",
+    "srd_grappler"
+  ],
+  "Great Weapon Fighting": [
+    "srd-2024_great-weapon-fighting"
+  ],
+  "Magic Initiate": [
+    "srd-2024_magic-initiate"
+  ],
+  "Savage Attacker": [
+    "srd-2024_savage-attacker"
+  ],
+  "Skilled": [
+    "srd-2024_skilled"
+  ],
+  "Two-Weapon Fighting": [
+    "srd-2024_two-weapon-fighting"
+  ],
+  "Rapid Drinker": [
+    "tdcs_rapid-drinker"
+  ],
+  "Boundless Reserves": [
+    "toh_boundless-reserves"
+  ],
+  "Diehard": [
+    "toh_diehard"
+  ],
+  "Floriographer": [
+    "toh_floriographer"
+  ],
+  "Forest Denizen": [
+    "toh_forest-denizen"
+  ],
+  "Friend of the Forest": [
+    "toh_friend-of-the-forest"
+  ],
+  "Giant Foe": [
+    "toh_giant-foe"
+  ],
+  "Harrier": [
+    "toh_harrier"
+  ],
+  "Inner Resilience": [
+    "toh_inner-resilience"
+  ],
+  "Part of the Pack": [
+    "toh_part-of-the-pack"
+  ],
+  "Rimecaster": [
+    "toh_rimecaster"
+  ],
+  "Sorcerous Vigor": [
+    "toh_sorcerous-vigor"
+  ],
+  "Stalker": [
+    "toh_stalker"
+  ],
+  "Stunning Sniper": [
+    "toh_stunning-sniper"
+  ]
+}

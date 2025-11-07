@@ -1,0 +1,4 @@
+requests
+tqdm 
+sqlite-utils
+openai

@@ -1,0 +1,160 @@
+{
+  "Acolyte": [
+    "a5e-ag_acolyte",
+    "srd_acolyte"
+  ],
+  "Artisan": [
+    "a5e-ag_artisan"
+  ],
+  "Charlatan": [
+    "a5e-ag_charlatan"
+  ],
+  "Criminal": [
+    "a5e-ag_criminal"
+  ],
+  "Cultist": [
+    "a5e-ag_cultist"
+  ],
+  "Entertainer": [
+    "a5e-ag_entertainer"
+  ],
+  "Exile": [
+    "a5e-ag_exile"
+  ],
+  "Farmer": [
+    "a5e-ag_farmer"
+  ],
+  "Folk Hero": [
+    "a5e-ag_folk-hero"
+  ],
+  "Gambler": [
+    "a5e-ag_gambler"
+  ],
+  "Guard": [
+    "a5e-ag_guard"
+  ],
+  "Guildmember": [
+    "a5e-ag_guildmember"
+  ],
+  "Hermit": [
+    "a5e-ag_hermit"
+  ],
+  "Marauder": [
+    "a5e-ag_marauder"
+  ],
+  "Noble": [
+    "a5e-ag_noble"
+  ],
+  "Outlander": [
+    "a5e-ag_outlander"
+  ],
+  "Sage": [
+    "a5e-ag_sage"
+  ],
+  "Sailor": [
+    "a5e-ag_sailor"
+  ],
+  "Soldier": [
+    "a5e-ag_soldier"
+  ],
+  "Trader": [
+    "a5e-ag_trader"
+  ],
+  "Urchin": [
+    "a5e-ag_urchin"
+  ],
+  "Deep Hunter": [
+    "a5e-ddg_deep-hunter"
+  ],
+  "Dungeon Robber": [
+    "a5e-ddg_dungeon-robber"
+  ],
+  "Escapee from Below": [
+    "a5e-ddg_escapee-from-below"
+  ],
+  "Imposter": [
+    "a5e-ddg_imposter"
+  ],
+  "Cursed": [
+    "a5e-gpg_cursed"
+  ],
+  "Haunted": [
+    "a5e-gpg_haunted"
+  ],
+  "Con Artist": [
+    "open5e_con-artist"
+  ],
+  "Scoundrel": [
+    "open5e_scoundrel",
+    "toh_scoundrel"
+  ],
+  "Crime Syndicate Member": [
+    "tdcs_crime-syndicate-member"
+  ],
+  "Elemental Warden": [
+    "tdcs_elemental-warden"
+  ],
+  "Fate-Touched": [
+    "tdcs_fate-touched"
+  ],
+  "Lyceum Student": [
+    "tdcs_lyceum-student"
+  ],
+  "Recovered Cultist": [
+    "tdcs_recovered-cultist"
+  ],
+  "Court Servant": [
+    "toh_court-servant"
+  ],
+  "Desert Runner": [
+    "toh_desert-runner"
+  ],
+  "Destined": [
+    "toh_destined"
+  ],
+  "Diplomat": [
+    "toh_diplomat"
+  ],
+  "Forest Dweller": [
+    "toh_forest-dweller"
+  ],
+  "Former Adventurer": [
+    "toh_former-adventurer"
+  ],
+  "Freebooter": [
+    "toh_freebooter"
+  ],
+  "Gamekeeper": [
+    "toh_gamekeeper"
+  ],
+  "Innkeeper": [
+    "toh_innkeeper"
+  ],
+  "Mercenary Company Scion": [
+    "toh_mercenary-company-scion"
+  ],
+  "Mercenary Recruit": [
+    "toh_mercenary-recruit"
+  ],
+  "Monstrous Adoptee": [
+    "toh_monstrous-adoptee"
+  ],
+  "Mysterious Origins": [
+    "toh_mysterious-origins"
+  ],
+  "Northern Minstrel": [
+    "toh_northern-minstrel"
+  ],
+  "Occultist": [
+    "toh_occultist"
+  ],
+  "Parfumier": [
+    "toh_parfumier"
+  ],
+  "Sentry": [
+    "toh_sentry"
+  ],
+  "Trophy Hunter": [
+    "toh_trophy-hunter"
+  ]
+}

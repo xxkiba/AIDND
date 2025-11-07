@@ -1,0 +1,23 @@
+{
+  "bard": [
+    "bard"
+  ],
+  "cleric": [
+    "cleric"
+  ],
+  "druid": [
+    "druid"
+  ],
+  "ranger": [
+    "ranger"
+  ],
+  "sorcerer": [
+    "sorcerer"
+  ],
+  "warlock": [
+    "warlock"
+  ],
+  "wizard": [
+    "wizard"
+  ]
+}

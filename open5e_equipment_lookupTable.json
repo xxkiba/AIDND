@@ -1,0 +1,4634 @@
+{
+  "Aberrant Agreement": [
+    "aberrant-agreement"
+  ],
+  "Absurdist Web": [
+    "absurdist-web-a5e"
+  ],
+  "Accursed Idol": [
+    "accursed-idol"
+  ],
+  "Adamantine Armor": [
+    "adamantine-armor"
+  ],
+  "Aegis of the Eternal Moon": [
+    "aegis-of-the-eternal-moon-a5e"
+  ],
+  "Aerodite the Autumn Queen’s True Name": [
+    "aerodite-the-autumn-queens-true-name-a5e"
+  ],
+  "Agile Armor": [
+    "agile-armor"
+  ],
+  "Air Charm": [
+    "air-charm-a5e"
+  ],
+  "Air Seed": [
+    "air-seed"
+  ],
+  "Akaasit Blade": [
+    "akaasit-blade"
+  ],
+  "Alabaster Salt Shaker": [
+    "alabaster-salt-shaker"
+  ],
+  "Alchemical Lantern": [
+    "alchemical-lantern"
+  ],
+  "Alembic of Unmaking": [
+    "alembic-of-unmaking"
+  ],
+  "Alliance Rings": [
+    "alliance-rings-a5e"
+  ],
+  "Almanac of Common Wisdom": [
+    "almanac-of-common-wisdom"
+  ],
+  "Amber Wings": [
+    "amber-wings-a5e"
+  ],
+  "Ammunition +1": [
+    "ammunition-1-a5e"
+  ],
+  "Ammunition +2": [
+    "ammunition-2-a5e"
+  ],
+  "Ammunition +3": [
+    "ammunition-3-a5e"
+  ],
+  "Amulet of Health": [
+    "amulet-of-health",
+    "amulet-of-health-a5e"
+  ],
+  "Amulet of Memory": [
+    "amulet-of-memory"
+  ],
+  "Amulet of Proof against Detection and Location": [
+    "amulet-of-proof-against-detection-and-location",
+    "amulet-of-proof-against-detection-and-location-a5e"
+  ],
+  "Amulet of Sustaining Health": [
+    "amulet-of-sustaining-health"
+  ],
+  "Amulet of the Oracle": [
+    "amulet-of-the-oracle"
+  ],
+  "Amulet of the Planes": [
+    "amulet-of-the-planes",
+    "amulet-of-the-planes-a5e"
+  ],
+  "Amulet of the Pleasing Bouquet": [
+    "amulet-of-the-pleasing-bouquet-a5e"
+  ],
+  "Amulet of Whirlwinds": [
+    "amulet-of-whirlwinds"
+  ],
+  "Anchor of Striking": [
+    "anchor-of-striking"
+  ],
+  "Ancient Broom": [
+    "ancient-broom-a5e"
+  ],
+  "Angel Eyes": [
+    "angel-eyes-a5e"
+  ],
+  "Angelic Earrings": [
+    "angelic-earrings"
+  ],
+  "Angry Hornet": [
+    "angry-hornet"
+  ],
+  "Angurvadal, the Stream of Anguish": [
+    "angurvadal-the-stream-of-anguish-a5e"
+  ],
+  "Animated Abacus": [
+    "animated-abacus"
+  ],
+  "Animated Chain Mail": [
+    "animated-chain-mail"
+  ],
+  "Animated Shield": [
+    "animated-shield",
+    "animated-shield-a5e"
+  ],
+  "Ankh of Aten": [
+    "ankh-of-aten"
+  ],
+  "Anointing Mace": [
+    "anointing-mace"
+  ],
+  "Anthology of Enhanced Radiance": [
+    "anthology-of-enhanced-radiance-a5e"
+  ],
+  "Apparatus of the Crab": [
+    "apparatus-of-the-crab",
+    "apparatus-of-the-crab-a5e"
+  ],
+  "Apron of the Eager Artisan": [
+    "apron-of-the-eager-artisan"
+  ],
+  "Arcanaphage Stone": [
+    "arcanaphage-stone"
+  ],
+  "Archaic Creed": [
+    "archaic-creed-a5e"
+  ],
+  "Argent Mantle": [
+    "argent-mantle"
+  ],
+  "Armor +1, +2, or +3": [
+    "armor-1-2-or-3-a5e"
+  ],
+  "Armor of Cushioning": [
+    "armor-of-cushioning"
+  ],
+  "Armor of Invulnerability": [
+    "armor-of-invulnerability",
+    "armor-of-invulnerability-a5e"
+  ],
+  "Armor of Resistance": [
+    "armor-of-resistance",
+    "armor-of-resistance-a5e"
+  ],
+  "Armor of Spite": [
+    "armor-of-spite"
+  ],
+  "Armor of the Leaf": [
+    "armor-of-the-leaf"
+  ],
+  "Armor of the Ngobou": [
+    "armor-of-the-ngobou"
+  ],
+  "Armor of Vulnerability": [
+    "armor-of-vulnerability",
+    "armor-of-vulnerability-a5e"
+  ],
+  "Armor of Warding": [
+    "armor-of-warding"
+  ],
+  "Armored Corset": [
+    "armored-corset-a5e"
+  ],
+  "Arrow-Catching Shield": [
+    "arrow-catching-shield",
+    "arrow-catching-shield-a5e"
+  ],
+  "Arrow of Grabbing": [
+    "arrow-of-grabbing"
+  ],
+  "Arrow of Slaying": [
+    "arrow-of-slaying",
+    "arrow-of-slaying-a5e"
+  ],
+  "Arrow of Unpleasant Herbs": [
+    "arrow-of-unpleasant-herbs"
+  ],
+  "Ash of the Ebon Birch": [
+    "ash-of-the-ebon-birch"
+  ],
+  "Ashes of the Fallen": [
+    "ashes-of-the-fallen"
+  ],
+  "Ashwood Wand": [
+    "ashwood-wand"
+  ],
+  "Asi": [
+    "asi-a5e"
+  ],
+  "Asp's Kiss": [
+    "asps-kiss"
+  ],
+  "Assassin’s Ring": [
+    "assassins-ring-a5e"
+  ],
+  "Assembling Armor": [
+    "assembling-armor-a5e"
+  ],
+  "Atlas to Libation": [
+    "atlas-to-libation-a5e"
+  ],
+  "Aurochs Bracers": [
+    "aurochs-bracers"
+  ],
+  "Axe of Chilling Fear": [
+    "axe-of-chilling-fear-a5e"
+  ],
+  "Axe of Many Strikes": [
+    "axe-of-many-strikes"
+  ],
+  "Axe of the Ancients": [
+    "axe-of-the-ancients"
+  ],
+  "Baba Yaga's Cinderskull": [
+    "baba-yagas-cinderskull"
+  ],
+  "Badge of Seasons": [
+    "badge-of-seasons-a5e"
+  ],
+  "Badger Hide": [
+    "badger-hide"
+  ],
+  "Bag of Beans": [
+    "bag-of-beans",
+    "bag-of-beans-a5e"
+  ],
+  "Bag of Bramble Beasts": [
+    "bag-of-bramble-beasts"
+  ],
+  "Bag of Cheese": [
+    "bag-of-cheese-a5e"
+  ],
+  "Bag of Devouring": [
+    "bag-of-devouring",
+    "bag-of-devouring-a5e"
+  ],
+  "Bag of Holding": [
+    "bag-of-holding",
+    "bag-of-holding-a5e"
+  ],
+  "Bag of Traps": [
+    "bag-of-traps"
+  ],
+  "Bag of Tricks": [
+    "bag-of-tricks",
+    "bag-of-tricks-a5e"
+  ],
+  "Bagpipes of Battle": [
+    "bagpipes-of-battle"
+  ],
+  "Baleful Wardrums": [
+    "baleful-wardrums"
+  ],
+  "Band of Iron Thorns": [
+    "band-of-iron-thorns"
+  ],
+  "Band of Restraint": [
+    "band-of-restraint"
+  ],
+  "Bandana of Brachiation": [
+    "bandana-of-brachiation"
+  ],
+  "Bandana of Bravado": [
+    "bandana-of-bravado"
+  ],
+  "Banner of the Fortunate": [
+    "banner-of-the-fortunate"
+  ],
+  "Barbed Devil’s Bracelet": [
+    "barbed-devils-bracelet-a5e"
+  ],
+  "Barrow Bread": [
+    "barrow-bread-a5e"
+  ],
+  "Battle Standard of Passage": [
+    "battle-standard-of-passage"
+  ],
+  "Bead of Exsanguination": [
+    "bead-of-exsanguination"
+  ],
+  "Bead of Force": [
+    "bead-of-force",
+    "bead-of-force-a5e"
+  ],
+  "Bead of Tracking": [
+    "bead-of-tracking-a5e"
+  ],
+  "Beads of Contemplation": [
+    "beads-of-contemplation"
+  ],
+  "Bear Paws": [
+    "bear-paws"
+  ],
+  "Bed of Spikes": [
+    "bed-of-spikes"
+  ],
+  "Belt of Dwarvenkind": [
+    "belt-of-dwarvenkind",
+    "belt-of-dwarvenkind-a5e"
+  ],
+  "Belt of Giant Strength": [
+    "belt-of-giant-strength",
+    "belt-of-giant-strength-a5e"
+  ],
+  "Belt of the Wilds": [
+    "belt-of-the-wilds"
+  ],
+  "Berserker Axe": [
+    "berserker-axe",
+    "berserker-axe-a5e"
+  ],
+  "Berserker's Kilt": [
+    "berserkers-kilt"
+  ],
+  "Bicycle Bell of Flight": [
+    "bicycle-bell-of-flight-a5e"
+  ],
+  "Big Dipper": [
+    "big-dipper"
+  ],
+  "Binding Oath": [
+    "binding-oath"
+  ],
+  "Birdsong Whistle": [
+    "birdsong-whistle-a5e"
+  ],
+  "Bituminous Orb": [
+    "bituminous-orb"
+  ],
+  "Black and White Daggers": [
+    "black-and-white-daggers"
+  ],
+  "Black Dragon Oil": [
+    "black-dragon-oil"
+  ],
+  "Black Phial": [
+    "black-phial"
+  ],
+  "Blackbird Pie": [
+    "blackbird-pie-a5e"
+  ],
+  "Blackguard's Blade": [
+    "blackguards-blade"
+  ],
+  "Blacktooth": [
+    "blacktooth"
+  ],
+  "Blade of Petals": [
+    "blade-of-petals"
+  ],
+  "Blade of the Dervish": [
+    "blade-of-the-dervish"
+  ],
+  "Blade of the Temple Guardian": [
+    "blade-of-the-temple-guardian"
+  ],
+  "Blasphemous Writ": [
+    "blasphemous-writ"
+  ],
+  "Blessed Pauper's Purse": [
+    "blessed-paupers-purse"
+  ],
+  "Blinding Lantern": [
+    "blinding-lantern"
+  ],
+  "Blood Mark": [
+    "blood-mark"
+  ],
+  "Blood Pearl": [
+    "blood-pearl"
+  ],
+  "Blood-Soaked Hide": [
+    "blood-soaked-hide"
+  ],
+  "Bloodbow": [
+    "bloodbow"
+  ],
+  "Blooddrinker Spear": [
+    "blooddrinker-spear"
+  ],
+  "Bloodfuel Weapon": [
+    "bloodfuel-weapon"
+  ],
+  "Bloodiron Band": [
+    "bloodiron-band-a5e"
+  ],
+  "Bloodlink Potion": [
+    "bloodlink-potion"
+  ],
+  "Bloodpearl Bracelet": [
+    "bloodpearl-bracelet"
+  ],
+  "Bloodprice Armor": [
+    "bloodprice-armor"
+  ],
+  "Bloodspeed Elixir": [
+    "bloodspeed-elixir"
+  ],
+  "Bloodthirsty Weapon": [
+    "bloodthirsty-weapon"
+  ],
+  "Bloodwhisper Cauldron": [
+    "bloodwhisper-cauldron"
+  ],
+  "Bludgeon of Nightmares": [
+    "bludgeon-of-nightmares"
+  ],
+  "Blue Rose": [
+    "blue-rose"
+  ],
+  "Blue Willow Cloak": [
+    "blue-willow-cloak"
+  ],
+  "Bone Whip": [
+    "bone-whip"
+  ],
+  "Bonebreaker Mace": [
+    "bonebreaker-mace"
+  ],
+  "Book of Ebon Tides": [
+    "book-of-ebon-tides"
+  ],
+  "Book of Eibon": [
+    "book-of-eibon"
+  ],
+  "Book of Storing": [
+    "book-of-storing-a5e"
+  ],
+  "Book Shroud": [
+    "book-shroud"
+  ],
+  "Bookkeeper Inkpot": [
+    "bookkeeper-inkpot"
+  ],
+  "Bookmark of Eldritch Insight": [
+    "bookmark-of-eldritch-insight"
+  ],
+  "Boots of Elvenkind": [
+    "boots-of-elvenkind",
+    "boots-of-elvenkind-a5e"
+  ],
+  "Boots of Levitation": [
+    "boots-of-levitation",
+    "boots-of-levitation-a5e"
+  ],
+  "Boots of Pouncing": [
+    "boots-of-pouncing"
+  ],
+  "Boots of Quaking": [
+    "boots-of-quaking"
+  ],
+  "Boots of Solid Footing": [
+    "boots-of-solid-footing"
+  ],
+  "Boots of Speed": [
+    "boots-of-speed",
+    "boots-of-speed-a5e"
+  ],
+  "Boots of Striding and Springing": [
+    "boots-of-striding-and-springing",
+    "boots-of-striding-and-springing-a5e"
+  ],
+  "Boots of the Grandmother": [
+    "boots-of-the-grandmother"
+  ],
+  "Boots of the Swift Striker": [
+    "boots-of-the-swift-striker"
+  ],
+  "Boots of the Winterlands": [
+    "boots-of-the-winterlands",
+    "boots-of-the-winterlands-a5e"
+  ],
+  "Borrower’s Bookmark": [
+    "borrowers-bookmark-a5e"
+  ],
+  "Bottle of Fizz": [
+    "bottle-of-fizz-a5e"
+  ],
+  "Bottled Boat": [
+    "bottled-boat"
+  ],
+  "Bountiful Cauldron": [
+    "bountiful-cauldron"
+  ],
+  "Bouquet of Wisdom": [
+    "bouquet-of-wisdom-a5e"
+  ],
+  "Bow of Accuracy": [
+    "bow-of-accuracy"
+  ],
+  "Bow of the Viper": [
+    "bow-of-the-viper-a5e"
+  ],
+  "Bowl of Commanding Water Elementals": [
+    "bowl-of-commanding-water-elementals",
+    "bowl-of-commanding-water-elementals-a5e"
+  ],
+  "Box of Bees": [
+    "box-of-bees-a5e"
+  ],
+  "Box of Party Tricks": [
+    "box-of-party-tricks-a5e"
+  ],
+  "Box of Secrets": [
+    "box-of-secrets"
+  ],
+  "Bracelet of the Fire Tender": [
+    "bracelet-of-the-fire-tender"
+  ],
+  "Bracers of Archery": [
+    "bracers-of-archery",
+    "bracers-of-archery-a5e"
+  ],
+  "Bracers of Defense": [
+    "bracers-of-defense",
+    "bracers-of-defense-a5e"
+  ],
+  "Braid Whip Clasp": [
+    "braid-whip-clasp"
+  ],
+  "Brain Juice": [
+    "brain-juice"
+  ],
+  "Brass Clockwork Staff": [
+    "brass-clockwork-staff"
+  ],
+  "Brass Snake Ball": [
+    "brass-snake-ball"
+  ],
+  "Brawler's Leather": [
+    "brawlers-leather"
+  ],
+  "Brawn Armor": [
+    "brawn-armor"
+  ],
+  "Brazen Band": [
+    "brazen-band"
+  ],
+  "Brazen Bulwark": [
+    "brazen-bulwark"
+  ],
+  "Brazier of Commanding Fire Elementals": [
+    "brazier-of-commanding-fire-elementals",
+    "brazier-of-commanding-fire-elementals-a5e"
+  ],
+  "Breaker Lance": [
+    "breaker-lance"
+  ],
+  "Breathing Reed": [
+    "breathing-reed"
+  ],
+  "Briarthorn Bracers": [
+    "briarthorn-bracers"
+  ],
+  "Brighella's Guitar": [
+    "brighellas-guitar-a5e"
+  ],
+  "Broken Fang Talisman": [
+    "broken-fang-talisman"
+  ],
+  "Brooch of Shielding": [
+    "brooch-of-shielding",
+    "brooch-of-shielding-a5e"
+  ],
+  "Broom of Flying": [
+    "broom-of-flying",
+    "broom-of-flying-a5e"
+  ],
+  "Broom of Sweeping": [
+    "broom-of-sweeping"
+  ],
+  "Brotherhood of Fezzes": [
+    "brotherhood-of-fezzes"
+  ],
+  "Bubble Wand": [
+    "bubble-wand-a5e"
+  ],
+  "Bubbling Retort": [
+    "bubbling-retort"
+  ],
+  "Buckle of Blasting": [
+    "buckle-of-blasting"
+  ],
+  "Bullseye Arrow": [
+    "bullseye-arrow"
+  ],
+  "Burglar's Lock and Key": [
+    "burglars-lock-and-key"
+  ],
+  "Burning Skull": [
+    "burning-skull"
+  ],
+  "Butter of Disbelief": [
+    "butter-of-disbelief"
+  ],
+  "Butterfly Clips": [
+    "butterfly-clips-a5e"
+  ],
+  "Buzzing Blade": [
+    "buzzing-blade"
+  ],
+  "Cage of Folly": [
+    "cage-of-folly-a5e"
+  ],
+  "Campaign Field Tent": [
+    "campaign-field-tent"
+  ],
+  "Candied Axe": [
+    "candied-axe"
+  ],
+  "Candle of Communion": [
+    "candle-of-communion"
+  ],
+  "Candle of Invocation": [
+    "candle-of-invocation",
+    "candle-of-invocation-a5e"
+  ],
+  "Candle of Summoning": [
+    "candle-of-summoning"
+  ],
+  "Candle of the Surreptitious Scholar": [
+    "candle-of-the-surreptitious-scholar-a5e"
+  ],
+  "Candle of Visions": [
+    "candle-of-visions"
+  ],
+  "Cane of Chaos": [
+    "cane-of-chaos-a5e"
+  ],
+  "Cantrip Wand": [
+    "cantrip-wand-a5e"
+  ],
+  "Cap of Thorns": [
+    "cap-of-thorns"
+  ],
+  "Cape of Targeting": [
+    "cape-of-targeting"
+  ],
+  "Cape of the Mountebank": [
+    "cape-of-the-mountebank",
+    "cape-of-the-mountebank-a5e"
+  ],
+  "Captain's Flag": [
+    "captains-flag"
+  ],
+  "Captain's Goggles": [
+    "captains-goggles"
+  ],
+  "Carpet of Flying": [
+    "carpet-of-flying",
+    "carpet-of-flying-a5e"
+  ],
+  "Case of Preservation": [
+    "case-of-preservation"
+  ],
+  "Cataloguing Book": [
+    "cataloguing-book"
+  ],
+  "Catalyst Oil": [
+    "catalyst-oil"
+  ],
+  "Cauldron of Dymwch": [
+    "cauldron-of-dymwch-a5e"
+  ],
+  "Celestial Aegis": [
+    "celestial-aegis-a5e"
+  ],
+  "Celestial Charter": [
+    "celestial-charter"
+  ],
+  "Celestial Sextant": [
+    "celestial-sextant"
+  ],
+  "Censer of Controlling Air Elementals": [
+    "censer-of-controlling-air-elementals",
+    "censer-of-controlling-air-elementals-a5e"
+  ],
+  "Censer of Dark Shadows": [
+    "censer-of-dark-shadows"
+  ],
+  "Centaur Wrist-Wraps": [
+    "centaur-wrist-wraps"
+  ],
+  "Cephalopod Breastplate": [
+    "cephalopod-breastplate"
+  ],
+  "Cestus": [
+    "cestus"
+  ],
+  "Chain Cilice": [
+    "chain-cilice"
+  ],
+  "Chainbreaker Blade": [
+    "chainbreaker-blade"
+  ],
+  "Chalice of Forbidden Ecstasies": [
+    "chalice-of-forbidden-ecstasies"
+  ],
+  "Chalk of Exodus": [
+    "chalk-of-exodus"
+  ],
+  "Chamrosh Salve": [
+    "chamrosh-salve"
+  ],
+  "Charcoal Stick of Aversion": [
+    "charcoal-stick-of-aversion-a5e"
+  ],
+  "Chariot a la Calabaza": [
+    "chariot-a-la-calabaza-a5e"
+  ],
+  "Charlatan's Veneer": [
+    "charlatans-veneer"
+  ],
+  "Charm of Restoration": [
+    "charm-of-restoration"
+  ],
+  "Chessboard of Gwenddoleu Ap Ceido": [
+    "chessboard-of-gwenddoleu-ap-ceido-a5e"
+  ],
+  "Chieftain's Axe": [
+    "chieftains-axe"
+  ],
+  "Chillblain Armor": [
+    "chillblain-armor"
+  ],
+  "Chime of Opening": [
+    "chime-of-opening",
+    "chime-of-opening-a5e"
+  ],
+  "Chronomancer's Pocket Clock": [
+    "chronomancers-pocket-clock"
+  ],
+  "Cinch of the Wolfmother": [
+    "cinch-of-the-wolfmother"
+  ],
+  "Cipher Sword": [
+    "cipher-sword-a5e"
+  ],
+  "Circlet of Blasting": [
+    "circlet-of-blasting",
+    "circlet-of-blasting-a5e"
+  ],
+  "Circlet of Holly": [
+    "circlet-of-holly"
+  ],
+  "Circlet of Persuasion": [
+    "circlet-of-persuasion"
+  ],
+  "Circlet of the Apprentice": [
+    "circlet-of-the-apprentice-a5e"
+  ],
+  "Clacking Teeth": [
+    "clacking-teeth"
+  ],
+  "Clamor Bell": [
+    "clamor-bell"
+  ],
+  "Clarifying Goggles": [
+    "clarifying-goggles"
+  ],
+  "Cleaning Concoction": [
+    "cleaning-concoction"
+  ],
+  "Cloak of Arachnida": [
+    "cloak-of-arachnida",
+    "cloak-of-arachnida-a5e"
+  ],
+  "Cloak of Coagulation": [
+    "cloak-of-coagulation"
+  ],
+  "Cloak of Displacement": [
+    "cloak-of-displacement",
+    "cloak-of-displacement-a5e"
+  ],
+  "Cloak of Elvenkind": [
+    "cloak-of-elvenkind",
+    "cloak-of-elvenkind-a5e"
+  ],
+  "Cloak of Petals": [
+    "cloak-of-petals"
+  ],
+  "Cloak of Protection": [
+    "cloak-of-protection",
+    "cloak-of-protection-a5e"
+  ],
+  "Cloak of Sails": [
+    "cloak-of-sails"
+  ],
+  "Cloak of Squirrels": [
+    "cloak-of-squirrels"
+  ],
+  "Cloak of Tentacles": [
+    "cloak-of-tentacles"
+  ],
+  "Cloak of the Bat": [
+    "cloak-of-the-bat",
+    "cloak-of-the-bat-a5e"
+  ],
+  "Cloak of the Bearfolk": [
+    "cloak-of-the-bearfolk"
+  ],
+  "Cloak of the Eel": [
+    "cloak-of-the-eel"
+  ],
+  "Cloak of the Empire": [
+    "cloak-of-the-empire"
+  ],
+  "Cloak of the Inconspicuous Rake": [
+    "cloak-of-the-inconspicuous-rake"
+  ],
+  "Cloak of the Manta Ray": [
+    "cloak-of-the-manta-ray",
+    "cloak-of-the-manta-ray-a5e"
+  ],
+  "Cloak of the Ram": [
+    "cloak-of-the-ram"
+  ],
+  "Cloak of the Rat": [
+    "cloak-of-the-rat"
+  ],
+  "Cloak of the Shadowcaster": [
+    "cloak-of-the-shadowcaster-a5e"
+  ],
+  "Cloak of Wicked Wings": [
+    "cloak-of-wicked-wings"
+  ],
+  "Clock of Opening": [
+    "clock-of-opening-a5e"
+  ],
+  "Clockwork Calendar": [
+    "clockwork-calendar-a5e"
+  ],
+  "Clockwork Gauntlet": [
+    "clockwork-gauntlet"
+  ],
+  "Clockwork Hand": [
+    "clockwork-hand"
+  ],
+  "Clockwork Hare": [
+    "clockwork-hare"
+  ],
+  "Clockwork Mace of Divinity": [
+    "clockwork-mace-of-divinity"
+  ],
+  "Clockwork Mynah Bird": [
+    "clockwork-mynah-bird"
+  ],
+  "Clockwork Pendant": [
+    "clockwork-pendant"
+  ],
+  "Clockwork Rogue Ring": [
+    "clockwork-rogue-ring"
+  ],
+  "Clockwork Spider Cloak": [
+    "clockwork-spider-cloak"
+  ],
+  "Coat of Padarn Beisrudd": [
+    "coat-of-padarn-beisrudd-a5e"
+  ],
+  "Coffer of Memory": [
+    "coffer-of-memory"
+  ],
+  "Collar of Beast Armor": [
+    "collar-of-beast-armor"
+  ],
+  "Comfy Slippers": [
+    "comfy-slippers"
+  ],
+  "Commander's Helm": [
+    "commanders-helm"
+  ],
+  "Commander's Plate": [
+    "commanders-plate"
+  ],
+  "Commander's Visage": [
+    "commanders-visage"
+  ],
+  "Commoner's Veneer": [
+    "commoners-veneer"
+  ],
+  "Communal Flute": [
+    "communal-flute"
+  ],
+  "Companion's Broth": [
+    "companions-broth"
+  ],
+  "Compendium of Many Colors": [
+    "compendium-of-many-colors-a5e"
+  ],
+  "Confidante’s Journal": [
+    "confidantes-journal-a5e"
+  ],
+  "Constant Dagger": [
+    "constant-dagger"
+  ],
+  "Consuming Rod": [
+    "consuming-rod"
+  ],
+  "Contract of Indentured Service": [
+    "contract-of-indentured-service-a5e"
+  ],
+  "Coral of Enchanted Colors": [
+    "coral-of-enchanted-colors"
+  ],
+  "Cord of Spirit Stealing": [
+    "cord-of-spirit-stealing-a5e"
+  ],
+  "Cordial of Understanding": [
+    "cordial-of-understanding"
+  ],
+  "Corpsehunter's Medallion": [
+    "corpsehunters-medallion"
+  ],
+  "Countermelody Crystals": [
+    "countermelody-crystals"
+  ],
+  "Courtesan's Allure": [
+    "courtesans-allure"
+  ],
+  "Crab Gloves": [
+    "crab-gloves"
+  ],
+  "Crafter’s Codex": [
+    "crafters-codex-a5e"
+  ],
+  "Cravat of Strangling": [
+    "cravat-of-strangling-a5e"
+  ],
+  "Craven's Heart": [
+    "cravens-heart"
+  ],
+  "Crawling Cloak": [
+    "crawling-cloak"
+  ],
+  "Crest of Putrid Endurance": [
+    "crest-of-putrid-endurance-a5e"
+  ],
+  "Crimson Carpet": [
+    "crimson-carpet"
+  ],
+  "Crimson Starfall Arrow": [
+    "crimson-starfall-arrow"
+  ],
+  "Crock and Dish of Rhygenydd Ysgolhaig": [
+    "crock-and-dish-of-rhygenydd-ysgolhaig-a5e"
+  ],
+  "Crocodile Armor": [
+    "crocodile-armor"
+  ],
+  "Crook of the Flock": [
+    "crook-of-the-flock"
+  ],
+  "Crown of the Crystal Sovereign": [
+    "crown-of-the-crystal-sovereign-a5e"
+  ],
+  "Crown of the Pharaoh": [
+    "crown-of-the-pharaoh"
+  ],
+  "Crusader's Shield": [
+    "crusaders-shield"
+  ],
+  "Crystal Ball": [
+    "crystal-ball",
+    "crystal-ball-a5e"
+  ],
+  "Crystal Staff": [
+    "crystal-staff"
+  ],
+  "Cube of Force": [
+    "cube-of-force",
+    "cube-of-force-a5e"
+  ],
+  "Cubic Gate": [
+    "cubic-gate",
+    "cubic-gate-a5e"
+  ],
+  "Culdarath the Ninth Ring’s True Name": [
+    "culdarath-the-ninth-rings-true-name-a5e"
+  ],
+  "Cunning Tools": [
+    "cunning-tools-a5e"
+  ],
+  "Dagger of the Barbed Devil": [
+    "dagger-of-the-barbed-devil"
+  ],
+  "Dagger of Venom": [
+    "dagger-of-venom",
+    "dagger-of-venom-a5e"
+  ],
+  "Dancing Caltrops": [
+    "dancing-caltrops"
+  ],
+  "Dancing Floret": [
+    "dancing-floret"
+  ],
+  "Dancing Ink": [
+    "dancing-ink"
+  ],
+  "Dancing Shoes": [
+    "dancing-shoes-a5e"
+  ],
+  "Dancing Sword": [
+    "dancing-sword",
+    "dancing-sword-a5e"
+  ],
+  "Dark Stone": [
+    "dark-stone-a5e"
+  ],
+  "Dastardly Quill and Parchment": [
+    "dastardly-quill-and-parchment"
+  ],
+  "Dawn Shard": [
+    "dawn-shard"
+  ],
+  "Deadfall Arrow": [
+    "deadfall-arrow"
+  ],
+  "Death’s Essence Pendant": [
+    "deaths-essence-pendant-a5e"
+  ],
+  "Death's Mirror": [
+    "deaths-mirror"
+  ],
+  "Decanter of Endless Water": [
+    "decanter-of-endless-water",
+    "decanter-of-endless-water-a5e"
+  ],
+  "Deck of Illusions": [
+    "deck-of-illusions",
+    "deck-of-illusions-a5e"
+  ],
+  "Deck of Many Things": [
+    "deck-of-many-things",
+    "deck-of-many-things-a5e"
+  ],
+  "Decoy Card": [
+    "decoy-card"
+  ],
+  "Deepchill Orb": [
+    "deepchill-orb"
+  ],
+  "Deepstone Cestus": [
+    "deepstone-cestus"
+  ],
+  "Defender": [
+    "defender",
+    "defender-a5e"
+  ],
+  "Defensive Umbrella": [
+    "defensive-umbrella-a5e"
+  ],
+  "Demon Armor": [
+    "demon-armor",
+    "demon-armor-a5e"
+  ],
+  "Describing Gremlins": [
+    "describing-gremlins-a5e"
+  ],
+  "Deserter's Boots": [
+    "deserters-boots"
+  ],
+  "Devil Shark Mask": [
+    "devil-shark-mask"
+  ],
+  "Devilish Doubloon": [
+    "devilish-doubloon"
+  ],
+  "Devil's Barb": [
+    "devils-barb"
+  ],
+  "Devil’s Eye Ring": [
+    "devils-eye-ring-a5e"
+  ],
+  "Dial of Dal": [
+    "dial-of-dal-a5e"
+  ],
+  "Dimensional Net": [
+    "dimensional-net"
+  ],
+  "Dimensional Shackles": [
+    "dimensional-shackles",
+    "dimensional-shackles-a5e"
+  ],
+  "Dirgeblade": [
+    "dirgeblade"
+  ],
+  "Dirk of Daring": [
+    "dirk-of-daring"
+  ],
+  "Distracting Doubloon": [
+    "distracting-doubloon"
+  ],
+  "Djinn Vessel": [
+    "djinn-vessel"
+  ],
+  "Doorbreaker": [
+    "doorbreaker-a5e"
+  ],
+  "Doppelganger Ointment": [
+    "doppelganger-ointment"
+  ],
+  "Draconic Diorama": [
+    "draconic-diorama-a5e"
+  ],
+  "Dragon Scale Mail": [
+    "dragon-scale-mail",
+    "dragon-scale-mail-a5e"
+  ],
+  "Dragon Slayer": [
+    "dragon-slayer",
+    "dragon-slayer-a5e"
+  ],
+  "Dragonslaying Lance": [
+    "dragonslaying-lance-a5e"
+  ],
+  "Dragonstooth Blade": [
+    "dragonstooth-blade"
+  ],
+  "Draught of Ambrosia": [
+    "draught-of-ambrosia"
+  ],
+  "Draught of the Black Owl": [
+    "draught-of-the-black-owl"
+  ],
+  "Dread Caduceus": [
+    "dread-caduceus-a5e"
+  ],
+  "Dread Scarab": [
+    "dread-scarab"
+  ],
+  "Dreamscrying Bowl": [
+    "dreamscrying-bowl-a5e"
+  ],
+  "Dungeon Delver's Guide": [
+    "dungeon-delvers-guide-a5e"
+  ],
+  "Dust of Desiccation": [
+    "dust-of-desiccation"
+  ],
+  "Dust of Disappearance": [
+    "dust-of-disappearance",
+    "dust-of-disappearance-a5e"
+  ],
+  "Dust of Dryness": [
+    "dust-of-dryness",
+    "dust-of-dryness-a5e"
+  ],
+  "Dust of Muffling": [
+    "dust-of-muffling"
+  ],
+  "Dust of Sneezing and Choking": [
+    "dust-of-sneezing-and-choking",
+    "dust-of-sneezing-and-choking-a5e"
+  ],
+  "Dust of the Dead": [
+    "dust-of-the-dead"
+  ],
+  "Dwarven Plate": [
+    "dwarven-plate",
+    "dwarven-plate-a5e"
+  ],
+  "Dwarven Thrower": [
+    "dwarven-thrower",
+    "dwarven-thrower-a5e"
+  ],
+  "Eagle Cape": [
+    "eagle-cape"
+  ],
+  "Earrings of the Agent": [
+    "earrings-of-the-agent"
+  ],
+  "Earrings of the Eclipse": [
+    "earrings-of-the-eclipse"
+  ],
+  "Earrings of the Storm Oyster": [
+    "earrings-of-the-storm-oyster"
+  ],
+  "Earth Charm": [
+    "earth-charm-a5e"
+  ],
+  "Ebon Shards": [
+    "ebon-shards"
+  ],
+  "Echo Force": [
+    "echo-force-a5e"
+  ],
+  "Efficacious Eyewash": [
+    "efficacious-eyewash"
+  ],
+  "Efficient Quiver": [
+    "efficient-quiver",
+    "efficient-quiver-a5e"
+  ],
+  "Efreeti Bottle": [
+    "efreeti-bottle",
+    "efreeti-bottle-a5e"
+  ],
+  "Eldritch Rod": [
+    "eldritch-rod"
+  ],
+  "Elemental Gem": [
+    "elemental-gem",
+    "elemental-gem-a5e"
+  ],
+  "Elemental Quiver": [
+    "elemental-quiver-a5e"
+  ],
+  "Elemental Wraps": [
+    "elemental-wraps"
+  ],
+  "Elixir of Corruption": [
+    "elixir-of-corruption"
+  ],
+  "Elixir of Deep Slumber": [
+    "elixir-of-deep-slumber"
+  ],
+  "Elixir of Focus": [
+    "elixir-of-focus"
+  ],
+  "Elixir of Mimicry": [
+    "elixir-of-mimicry"
+  ],
+  "Elixir of Oracular Delirium": [
+    "elixir-of-oracular-delirium"
+  ],
+  "Elixir of Spike Skin": [
+    "elixir-of-spike-skin"
+  ],
+  "Elixir of the Clear Mind": [
+    "elixir-of-the-clear-mind"
+  ],
+  "Elixir of the Deep": [
+    "elixir-of-the-deep"
+  ],
+  "Elixir of Wakefulness": [
+    "elixir-of-wakefulness"
+  ],
+  "Elk Horn Rod": [
+    "elk-horn-rod"
+  ],
+  "Elven Chain": [
+    "elven-chain",
+    "elven-chain-a5e"
+  ],
+  "Emperor’s Blade": [
+    "emperors-blade-a5e"
+  ],
+  "Enchanted Music Sheet": [
+    "enchanted-music-sheet-a5e"
+  ],
+  "Encouraging Armor": [
+    "encouraging-armor"
+  ],
+  "Enraging Ammunition": [
+    "enraging-ammunition"
+  ],
+  "Ensnaring Ammunition": [
+    "ensnaring-ammunition"
+  ],
+  "Entrenching Mattock": [
+    "entrenching-mattock"
+  ],
+  "Esquire's Rowels": [
+    "esquires-rowels"
+  ],
+  "Essay on Efficient Armor Management": [
+    "essay-on-efficient-armor-management-a5e"
+  ],
+  "Ever-Shifting Map": [
+    "ever-shifting-map-a5e"
+  ],
+  "Everflowing Bowl": [
+    "everflowing-bowl"
+  ],
+  "Eversmoking Bottle": [
+    "eversmoking-bottle",
+    "eversmoking-bottle-a5e"
+  ],
+  "Excalibur": [
+    "excalibur-a5e"
+  ],
+  "Excalibur’s Scabbard": [
+    "excaliburs-scabbard-a5e"
+  ],
+  "Explorer’s Chalk": [
+    "explorers-chalk-a5e"
+  ],
+  "Exsanguinating Blade": [
+    "exsanguinating-blade"
+  ],
+  "Extract of Dual-Mindedness": [
+    "extract-of-dual-mindedness"
+  ],
+  "Eye of Elsewhere": [
+    "eye-of-elsewhere-a5e"
+  ],
+  "Eye of Horus": [
+    "eye-of-horus"
+  ],
+  "Eye of the Golden God": [
+    "eye-of-the-golden-god"
+  ],
+  "Eyes of Charming": [
+    "eyes-of-charming",
+    "eyes-of-charming-a5e"
+  ],
+  "Eyes of Minute Seeing": [
+    "eyes-of-minute-seeing",
+    "eyes-of-minute-seeing-a5e"
+  ],
+  "Eyes of the Eagle": [
+    "eyes-of-the-eagle",
+    "eyes-of-the-eagle-a5e"
+  ],
+  "Eyes of the Outer Dark": [
+    "eyes-of-the-outer-dark"
+  ],
+  "Eyes of the Portal Masters": [
+    "eyes-of-the-portal-masters"
+  ],
+  "Faerie Love Letter": [
+    "faerie-love-letter-a5e"
+  ],
+  "Family Scrapbook": [
+    "family-scrapbook-a5e"
+  ],
+  "Fan of Whispering": [
+    "fan-of-whispering-a5e"
+  ],
+  "Fanged Mask": [
+    "fanged-mask"
+  ],
+  "Farhealing Bandages": [
+    "farhealing-bandages"
+  ],
+  "Fathomer’s Ring": [
+    "fathomers-ring-a5e"
+  ],
+  "Fear-Eater's Mask": [
+    "fear-eaters-mask"
+  ],
+  "Feather Token": [
+    "feather-token",
+    "feather-token-a5e"
+  ],
+  "Fellforged Armor": [
+    "fellforged-armor"
+  ],
+  "Fellow Candlestick": [
+    "fellow-candlestick-a5e"
+  ],
+  "Ferryman's Coins": [
+    "ferrymans-coins"
+  ],
+  "Feysworn Contract": [
+    "feysworn-contract"
+  ],
+  "Fiendish Charter": [
+    "fiendish-charter"
+  ],
+  "Figurehead of Prowess": [
+    "figurehead-of-prowess"
+  ],
+  "Figurine of Shared Affliction": [
+    "figurine-of-shared-affliction-a5e"
+  ],
+  "Figurine of Wondrous Power": [
+    "figurine-of-wondrous-power",
+    "figurine-of-wondrous-power-a5e"
+  ],
+  "Finder Gremlin": [
+    "finder-gremlin-a5e"
+  ],
+  "Fire Charm": [
+    "fire-charm-a5e"
+  ],
+  "Firebird Feather": [
+    "firebird-feather"
+  ],
+  "Fizzy Lifter": [
+    "fizzy-lifter-a5e"
+  ],
+  "Fizzy Rocks": [
+    "fizzy-rocks-a5e"
+  ],
+  "Flag of the Cursed Fleet": [
+    "flag-of-the-cursed-fleet"
+  ],
+  "Flame Tongue": [
+    "flame-tongue",
+    "flame-tongue-a5e"
+  ],
+  "Flash Bullet": [
+    "flash-bullet"
+  ],
+  "Flask of Epiphanies": [
+    "flask-of-epiphanies"
+  ],
+  "Flask of Inebriation": [
+    "flask-of-inebriation-a5e"
+  ],
+  "Fleshspurned Mask": [
+    "fleshspurned-mask"
+  ],
+  "Fletcher's Retort Gloves": [
+    "fletchers-retort-gloves"
+  ],
+  "Flicker Dagger": [
+    "flicker-dagger-a5e"
+  ],
+  "Flood Charm": [
+    "flood-charm"
+  ],
+  "Flute of Saurian Summoning": [
+    "flute-of-saurian-summoning"
+  ],
+  "Fly Whisk of Authority": [
+    "fly-whisk-of-authority"
+  ],
+  "Focusing Eye": [
+    "focusing-eye-a5e"
+  ],
+  "Fog Stone": [
+    "fog-stone"
+  ],
+  "Folding Boat": [
+    "folding-boat",
+    "folding-boat-a5e"
+  ],
+  "Fool's Hat": [
+    "fools-hat-a5e"
+  ],
+  "Forgefire Hammer": [
+    "forgefire-hammer"
+  ],
+  "Fountmail": [
+    "fountmail"
+  ],
+  "Freerunner Rod": [
+    "freerunner-rod"
+  ],
+  "Friendly Joybuzzer": [
+    "friendly-joybuzzer-a5e"
+  ],
+  "Frost Brand": [
+    "frost-brand",
+    "frost-brand-a5e"
+  ],
+  "Frost Giant’s Plate": [
+    "frost-giants-plate-a5e"
+  ],
+  "Frost Pellet": [
+    "frost-pellet"
+  ],
+  "Frostfire Lantern": [
+    "frostfire-lantern"
+  ],
+  "Frungilator": [
+    "frungilator"
+  ],
+  "Fulminar Bracers": [
+    "fulminar-bracers"
+  ],
+  "Gale Javelin": [
+    "gale-javelin"
+  ],
+  "Gallow Hand": [
+    "gallow-hand-a5e"
+  ],
+  "Garments of Winter's Knight": [
+    "garments-of-winters-knight"
+  ],
+  "Gauntlet of Dominion": [
+    "gauntlet-of-dominion-a5e"
+  ],
+  "Gauntlet of the Iron Sphere": [
+    "gauntlet-of-the-iron-sphere"
+  ],
+  "Gauntlets of Ogre Power": [
+    "gauntlets-of-ogre-power",
+    "gauntlets-of-ogre-power-a5e"
+  ],
+  "Gauntlets of Summer": [
+    "gauntlets-of-summer-a5e"
+  ],
+  "Gazebo of Shade and Shelter": [
+    "gazebo-of-shade-and-shelter"
+  ],
+  "Gem of Brightness": [
+    "gem-of-brightness",
+    "gem-of-brightness-a5e"
+  ],
+  "Gem of Seeing": [
+    "gem-of-seeing",
+    "gem-of-seeing-a5e"
+  ],
+  "Ghost Barding": [
+    "ghost-barding"
+  ],
+  "Ghost Dragon Horn": [
+    "ghost-dragon-horn"
+  ],
+  "Ghost Metal Axe": [
+    "ghost-metal-axe-a5e"
+  ],
+  "Ghost Thread": [
+    "ghost-thread"
+  ],
+  "Ghoul Light": [
+    "ghoul-light"
+  ],
+  "Ghoulbane Oil": [
+    "ghoulbane-oil"
+  ],
+  "Ghoulbane Rod": [
+    "ghoulbane-rod"
+  ],
+  "Giant Slayer": [
+    "giant-slayer",
+    "giant-slayer-a5e"
+  ],
+  "Giantstrike Cestus": [
+    "giantstrike-cestus"
+  ],
+  "Giggling Orb": [
+    "giggling-orb"
+  ],
+  "Girdle of Traveling Alchemy": [
+    "girdle-of-traveling-alchemy"
+  ],
+  "Glamour Rings": [
+    "glamour-rings"
+  ],
+  "Glamoured Padded Leather": [
+    "glamoured-padded-leather-a5e"
+  ],
+  "Glamoured Studded Leather": [
+    "glamoured-studded-leather"
+  ],
+  "Glass Ring": [
+    "glass-ring-a5e"
+  ],
+  "Glass Wand of Leng": [
+    "glass-wand-of-leng"
+  ],
+  "Glasses of Rodentius": [
+    "glasses-of-rodentius-a5e"
+  ],
+  "Glazed Blade": [
+    "glazed-blade"
+  ],
+  "Gliding Cloak": [
+    "gliding-cloak"
+  ],
+  "Gloam Bread": [
+    "gloam-bread-a5e"
+  ],
+  "Gloomflower Corsage": [
+    "gloomflower-corsage"
+  ],
+  "Glory’s Glaive": [
+    "glorys-glaive-a5e"
+  ],
+  "Glove of Swift Return": [
+    "glove-of-swift-return-a5e"
+  ],
+  "Gloves of Missile Snaring": [
+    "gloves-of-missile-snaring",
+    "gloves-of-missile-snaring-a5e"
+  ],
+  "Gloves of Swimming and Climbing": [
+    "gloves-of-swimming-and-climbing",
+    "gloves-of-swimming-and-climbing-a5e"
+  ],
+  "Gloves of the Magister": [
+    "gloves-of-the-magister"
+  ],
+  "Gloves of the Walking Shade": [
+    "gloves-of-the-walking-shade"
+  ],
+  "Gnawing Spear": [
+    "gnawing-spear"
+  ],
+  "Goblin Mask": [
+    "goblin-mask-a5e"
+  ],
+  "Goblin Shield": [
+    "goblin-shield"
+  ],
+  "Goggles of Firesight": [
+    "goggles-of-firesight"
+  ],
+  "Goggles of Night": [
+    "goggles-of-night",
+    "goggles-of-night-a5e"
+  ],
+  "Goggles of Shade": [
+    "goggles-of-shade"
+  ],
+  "Golden Bolt": [
+    "golden-bolt"
+  ],
+  "Golden Chain Shirt": [
+    "golden-chain-shirt-a5e"
+  ],
+  "Gong of Alarm": [
+    "gong-of-alarm-a5e"
+  ],
+  "Gorgon Scale": [
+    "gorgon-scale"
+  ],
+  "Gossip Earring": [
+    "gossip-earring-a5e"
+  ],
+  "Gram, the Sword of Grief": [
+    "gram-the-sword-of-grief-a5e"
+  ],
+  "Granny Wax": [
+    "granny-wax"
+  ],
+  "Grappling Gun": [
+    "grappling-gun-a5e"
+  ],
+  "Grasping Cap": [
+    "grasping-cap"
+  ],
+  "Grasping Cloak": [
+    "grasping-cloak"
+  ],
+  "Grasping Shield": [
+    "grasping-shield"
+  ],
+  "Grave Reagent": [
+    "grave-reagent"
+  ],
+  "Grave Ward Armor": [
+    "grave-ward-armor"
+  ],
+  "Greater Potion of Troll Blood": [
+    "greater-potion-of-troll-blood"
+  ],
+  "Green Mantle": [
+    "green-mantle"
+  ],
+  "Green Scale Shield": [
+    "green-scale-shield-a5e"
+  ],
+  "Gremlin Translator": [
+    "gremlin-translator-a5e"
+  ],
+  "Gremlin's Paw": [
+    "gremlins-paw"
+  ],
+  "Grifter's Deck": [
+    "grifters-deck"
+  ],
+  "Grim Escutcheon": [
+    "grim-escutcheon"
+  ],
+  "Gritless Grease": [
+    "gritless-grease"
+  ],
+  "Guide to Respecting Social Mores": [
+    "guide-to-respecting-social-mores-a5e"
+  ],
+  "Hair Fuses": [
+    "hair-fuses-a5e"
+  ],
+  "Hair Pick of Protection": [
+    "hair-pick-of-protection"
+  ],
+  "Hallowed Effigy": [
+    "hallowed-effigy"
+  ],
+  "Hallucinatory Dust": [
+    "hallucinatory-dust"
+  ],
+  "Hammer of Decrees": [
+    "hammer-of-decrees"
+  ],
+  "Hammer of Throwing": [
+    "hammer-of-throwing"
+  ],
+  "Hammer of Thunderbolts": [
+    "hammer-of-thunderbolts",
+    "hammer-of-thunderbolts-a5e"
+  ],
+  "Hamper of Gwyddno Garanhir & Knife of Llawfrodedd the Horseman": [
+    "hamper-of-gwyddno-garanhir-and-knife-of-llawfrodedd-the-horseman-a5e"
+  ],
+  "Hand of the Night": [
+    "hand-of-the-night-a5e"
+  ],
+  "Handy Halter": [
+    "handy-halter-a5e"
+  ],
+  "Handy Haversack": [
+    "handy-haversack",
+    "handy-haversack-a5e"
+  ],
+  "Handy Scroll Quiver": [
+    "handy-scroll-quiver"
+  ],
+  "Hangman's Noose": [
+    "hangmans-noose"
+  ],
+  "Hardening Polish": [
+    "hardening-polish"
+  ],
+  "Harlequin's Cards": [
+    "harlequins-cards-a5e"
+  ],
+  "Harmonizing Instrument": [
+    "harmonizing-instrument"
+  ],
+  "Harvest": [
+    "harvest-a5e"
+  ],
+  "Hat of Disguise": [
+    "hat-of-disguise",
+    "hat-of-disguise-a5e"
+  ],
+  "Hat of Grand Entrances": [
+    "hat-of-grand-entrances-a5e"
+  ],
+  "Hat of Mental Acuity": [
+    "hat-of-mental-acuity"
+  ],
+  "Hazelwood Wand": [
+    "hazelwood-wand"
+  ],
+  "Headband of Intellect": [
+    "headband-of-intellect",
+    "headband-of-intellect-a5e"
+  ],
+  "Headdress of Majesty": [
+    "headdress-of-majesty"
+  ],
+  "Headrest of the Cattle Queens": [
+    "headrest-of-the-cattle-queens"
+  ],
+  "Headscarf of the Oasis": [
+    "headscarf-of-the-oasis"
+  ],
+  "Healthful Honeypot": [
+    "healthful-honeypot"
+  ],
+  "Heartbreak's Dagger": [
+    "heartbreaks-dagger-a5e"
+  ],
+  "Heartglow Lantern": [
+    "heartglow-lantern"
+  ],
+  "Heat Stone": [
+    "heat-stone"
+  ],
+  "Heaven's Roof Ring": [
+    "heavens-roof-ring-a5e"
+  ],
+  "Heliotrope Heart": [
+    "heliotrope-heart"
+  ],
+  "Hellfire Armor": [
+    "hellfire-armor"
+  ],
+  "Helm of Brilliance": [
+    "helm-of-brilliance",
+    "helm-of-brilliance-a5e"
+  ],
+  "Helm of Comprehending Languages": [
+    "helm-of-comprehending-languages",
+    "helm-of-comprehending-languages-a5e"
+  ],
+  "Helm of Telepathy": [
+    "helm-of-telepathy",
+    "helm-of-telepathy-a5e"
+  ],
+  "Helm of Teleportation": [
+    "helm-of-teleportation",
+    "helm-of-teleportation-a5e"
+  ],
+  "Helm of the Slashing Fin": [
+    "helm-of-the-slashing-fin"
+  ],
+  "Hewer's Draught": [
+    "hewers-draught"
+  ],
+  "Hexen Blade": [
+    "hexen-blade"
+  ],
+  "Hidden Armament": [
+    "hidden-armament"
+  ],
+  "Holy Avenger": [
+    "holy-avenger",
+    "holy-avenger-a5e"
+  ],
+  "Holy Verdant Bat Droppings": [
+    "holy-verdant-bat-droppings"
+  ],
+  "Honey Buckle": [
+    "honey-buckle"
+  ],
+  "Honey Lamp": [
+    "honey-lamp"
+  ],
+  "Honey of the Warped Wildflowers": [
+    "honey-of-the-warped-wildflowers"
+  ],
+  "Honey Trap": [
+    "honey-trap"
+  ],
+  "Honeypot of Awakening": [
+    "honeypot-of-awakening"
+  ],
+  "Hopeful Slippers": [
+    "hopeful-slippers-a5e"
+  ],
+  "Hope's Final Light": [
+    "hopes-final-light-a5e"
+  ],
+  "Horn of Blasting": [
+    "horn-of-blasting",
+    "horn-of-blasting-a5e"
+  ],
+  "Horn of Valhalla": [
+    "horn-of-valhalla",
+    "horn-of-valhalla-a5e"
+  ],
+  "Horseshoes of a Zephyr": [
+    "horseshoes-of-a-zephyr",
+    "horseshoes-of-a-zephyr-a5e"
+  ],
+  "Horseshoes of Speed": [
+    "horseshoes-of-speed",
+    "horseshoes-of-speed-a5e"
+  ],
+  "How to Make Fiends and Influence People": [
+    "how-to-make-fiends-and-influence-people-a5e"
+  ],
+  "Howling Rod": [
+    "howling-rod"
+  ],
+  "Humble Cudgel of Temperance": [
+    "humble-cudgel-of-temperance"
+  ],
+  "Humour Realignment Transfiguration": [
+    "humour-realignment-transfiguration-a5e"
+  ],
+  "Hungry Quasit": [
+    "hungry-quasit-a5e"
+  ],
+  "Hunter's Charm": [
+    "hunters-charm"
+  ],
+  "Hunter's Quiver": [
+    "hunters-quiver-a5e"
+  ],
+  "Ice Riders": [
+    "ice-riders-a5e"
+  ],
+  "Iceblink": [
+    "iceblink"
+  ],
+  "Idol of Light": [
+    "idol-of-light-a5e"
+  ],
+  "Immovable Rod": [
+    "immovable-rod",
+    "immovable-rod-a5e"
+  ],
+  "Impact Club": [
+    "impact-club"
+  ],
+  "Impaling Weapon": [
+    "impaling-weapon"
+  ],
+  "Impossible Cube": [
+    "impossible-cube-a5e"
+  ],
+  "Incense of Recovery": [
+    "incense-of-recovery"
+  ],
+  "Infernal Carapace": [
+    "infernal-carapace-a5e"
+  ],
+  "Inkpot of the Thrifty Apprentice": [
+    "inkpot-of-the-thrifty-apprentice-a5e"
+  ],
+  "Inspiring Pahu": [
+    "inspiring-pahu-a5e"
+  ],
+  "Instant Fortress": [
+    "instant-fortress",
+    "instant-fortress-a5e"
+  ],
+  "Instrument of Irresistible Symphonies": [
+    "instrument-of-irresistible-symphonies-a5e"
+  ],
+  "Interplanar Paint": [
+    "interplanar-paint"
+  ],
+  "Ioun Stone": [
+    "ioun-stone",
+    "ioun-stone-a5e"
+  ],
+  "Iron Bands of Binding": [
+    "iron-bands-of-binding",
+    "iron-bands-of-binding-a5e"
+  ],
+  "Iron Flask": [
+    "iron-flask",
+    "iron-flask-a5e"
+  ],
+  "Iron Foe Mace": [
+    "iron-foe-mace-a5e"
+  ],
+  "Ironskin Oil": [
+    "ironskin-oil"
+  ],
+  "Ironweed Rope": [
+    "ironweed-rope-a5e"
+  ],
+  "Ivory Knights": [
+    "ivory-knights-a5e"
+  ],
+  "Ivy Crown of Prophecy": [
+    "ivy-crown-of-prophecy"
+  ],
+  "Jade Tiger": [
+    "jade-tiger-a5e"
+  ],
+  "Járngreipr": [
+    "jarngreipr-a5e"
+  ],
+  "Jarred Brain": [
+    "jarred-brain-a5e"
+  ],
+  "Javelin of Lightning": [
+    "javelin-of-lightning",
+    "javelin-of-lightning-a5e"
+  ],
+  "Javelin of Teleportation": [
+    "javelin-of-teleportation"
+  ],
+  "Jeweler's Anvil": [
+    "jewelers-anvil"
+  ],
+  "Jungle Mess Kit": [
+    "jungle-mess-kit"
+  ],
+  "Justicar's Mask": [
+    "justicars-mask"
+  ],
+  "Keffiyeh of Serendipitous Escape": [
+    "keffiyeh-of-serendipitous-escape"
+  ],
+  "Knight-Sergeant's Surcoat": [
+    "knight-sergeants-surcoat"
+  ],
+  "Knockabout Billet": [
+    "knockabout-billet"
+  ],
+  "Kobold Firework": [
+    "kobold-firework"
+  ],
+  "Kraken Clutch Ring": [
+    "kraken-clutch-ring"
+  ],
+  "Kraken Scale": [
+    "kraken-scale-a5e"
+  ],
+  "Kyshaarth's Fang": [
+    "kyshaarths-fang"
+  ],
+  "Labyrs of the Raging Bull": [
+    "labyrs-of-the-raging-bull"
+  ],
+  "Lævateinn": [
+    "laevateinn-a5e"
+  ],
+  "Language Pyramid": [
+    "language-pyramid"
+  ],
+  "Lantern of Auspex": [
+    "lantern-of-auspex"
+  ],
+  "Lantern of Judgment": [
+    "lantern-of-judgment"
+  ],
+  "Lantern of Revealing": [
+    "lantern-of-revealing",
+    "lantern-of-revealing-a5e"
+  ],
+  "Lantern of Selective Illumination": [
+    "lantern-of-selective-illumination"
+  ],
+  "Larkmail": [
+    "larkmail"
+  ],
+  "Last Chance Quiver": [
+    "last-chance-quiver"
+  ],
+  "Leaf-Bladed Sword": [
+    "leaf-bladed-sword"
+  ],
+  "Legerdemain Gloves": [
+    "legerdemain-gloves-a5e"
+  ],
+  "Leonino Wings": [
+    "leonino-wings"
+  ],
+  "Letter-Lift Paper": [
+    "letter-lift-paper-a5e"
+  ],
+  "Library Scarf": [
+    "library-scarf-a5e"
+  ],
+  "Life-Catching Portrait": [
+    "life-catching-portrait-a5e"
+  ],
+  "Lifeblood Gear": [
+    "lifeblood-gear"
+  ],
+  "Lightning Rod": [
+    "lightning-rod"
+  ],
+  "Linguist's Cap": [
+    "linguists-cap"
+  ],
+  "Liquid Courage": [
+    "liquid-courage"
+  ],
+  "Liquid Luck": [
+    "liquid-luck-a5e"
+  ],
+  "Liquid Shadow": [
+    "liquid-shadow"
+  ],
+  "Listening Quills": [
+    "listening-quills-a5e"
+  ],
+  "Living Juggernaut": [
+    "living-juggernaut"
+  ],
+  "Living Stake": [
+    "living-stake"
+  ],
+  "Lockbreaker": [
+    "lockbreaker"
+  ],
+  "Locket of Dragon Vitality": [
+    "locket-of-dragon-vitality"
+  ],
+  "Locket of Remembrance": [
+    "locket-of-remembrance"
+  ],
+  "Lockpicks of Memory": [
+    "lockpicks-of-memory-a5e"
+  ],
+  "Locksmith's Oil": [
+    "locksmiths-oil"
+  ],
+  "Lodestone Caltrops": [
+    "lodestone-caltrops"
+  ],
+  "Long Fang of the Moon": [
+    "long-fang-of-the-moon-a5e"
+  ],
+  "Loom of Fate": [
+    "loom-of-fate"
+  ],
+  "Luck Blade": [
+    "luck-blade",
+    "luck-blade-a5e"
+  ],
+  "Lucky Charm of the Monkey King": [
+    "lucky-charm-of-the-monkey-king"
+  ],
+  "Lucky Coin": [
+    "lucky-coin"
+  ],
+  "Lucky Eyepatch": [
+    "lucky-eyepatch"
+  ],
+  "Lucky Halfling Foot": [
+    "lucky-halfling-foot-a5e"
+  ],
+  "Luminescent Gum": [
+    "luminescent-gum-a5e"
+  ],
+  "Lupine Crown": [
+    "lupine-crown"
+  ],
+  "Luring Perfume": [
+    "luring-perfume"
+  ],
+  "Mace of Disruption": [
+    "mace-of-disruption",
+    "mace-of-disruption-a5e"
+  ],
+  "Mace of Smiting": [
+    "mace-of-smiting",
+    "mace-of-smiting-a5e"
+  ],
+  "Mace of Terror": [
+    "mace-of-terror",
+    "mace-of-terror-a5e"
+  ],
+  "Madam Yolanda’s Prison": [
+    "madam-yolandas-prison-a5e"
+  ],
+  "Magic Mirror": [
+    "magic-mirror-a5e"
+  ],
+  "Magma Mantle": [
+    "magma-mantle"
+  ],
+  "Maiden's Tears": [
+    "maidens-tears"
+  ],
+  "Mail of the Sword Master": [
+    "mail-of-the-sword-master"
+  ],
+  "Manticore's Tail": [
+    "manticores-tail"
+  ],
+  "Mantle of Blood Vengeance": [
+    "mantle-of-blood-vengeance"
+  ],
+  "Mantle of Spell Resistance": [
+    "mantle-of-spell-resistance",
+    "mantle-of-spell-resistance-a5e"
+  ],
+  "Mantle of the Forest Lord": [
+    "mantle-of-the-forest-lord"
+  ],
+  "Mantle of the Lion": [
+    "mantle-of-the-lion"
+  ],
+  "Mantle of the Void": [
+    "mantle-of-the-void"
+  ],
+  "Manual of Bodily Health": [
+    "manual-of-bodily-health",
+    "manual-of-bodily-health-a5e"
+  ],
+  "Manual of Exercise": [
+    "manual-of-exercise"
+  ],
+  "Manual of Gainful Exercise": [
+    "manual-of-gainful-exercise",
+    "manual-of-gainful-exercise-a5e"
+  ],
+  "Manual of Golems": [
+    "manual-of-golems"
+  ],
+  "Manual of Guardians": [
+    "manual-of-guardians-a5e"
+  ],
+  "Manual of Quickness of Action": [
+    "manual-of-quickness-of-action",
+    "manual-of-quickness-of-action-a5e"
+  ],
+  "Manual of the Lesser Golem": [
+    "manual-of-the-lesser-golem"
+  ],
+  "Manual of Vine Golem": [
+    "manual-of-vine-golem"
+  ],
+  "Mapping Ink": [
+    "mapping-ink"
+  ],
+  "Marble of Direction": [
+    "marble-of-direction-a5e"
+  ],
+  "Marvelous Clockwork Mallard": [
+    "marvelous-clockwork-mallard"
+  ],
+  "Marvelous Pigments": [
+    "marvelous-pigments",
+    "marvelous-pigments-a5e"
+  ],
+  "Masher Basher": [
+    "masher-basher"
+  ],
+  "Mask of Anonymity": [
+    "mask-of-anonymity-a5e"
+  ],
+  "Mask of Relentless Fury": [
+    "mask-of-relentless-fury-a5e"
+  ],
+  "Mask of the Leaping Gazelle": [
+    "mask-of-the-leaping-gazelle"
+  ],
+  "Mask of the War Chief": [
+    "mask-of-the-war-chief"
+  ],
+  "Mask of the White Stag": [
+    "mask-of-the-white-stag-a5e"
+  ],
+  "Master Angler's Tackle": [
+    "master-anglers-tackle"
+  ],
+  "Maternal Cameo": [
+    "maternal-cameo-a5e"
+  ],
+  "Matryoshka Dolls": [
+    "matryoshka-dolls"
+  ],
+  "Mayhem Mask": [
+    "mayhem-mask"
+  ],
+  "Medal of Valor": [
+    "medal-of-valor"
+  ],
+  "Medallion of Thoughts": [
+    "medallion-of-thoughts",
+    "medallion-of-thoughts-a5e"
+  ],
+  "Medic's Sash": [
+    "medics-sash"
+  ],
+  "Megingjörð": [
+    "megingjord-a5e"
+  ],
+  "Memory Leaf": [
+    "memory-leaf-a5e"
+  ],
+  "Memory Philter": [
+    "memory-philter"
+  ],
+  "Mender's Mark": [
+    "menders-mark"
+  ],
+  "Message Stones": [
+    "message-stones-a5e"
+  ],
+  "Message Whistle": [
+    "message-whistle-a5e"
+  ],
+  "Meteoric Plate": [
+    "meteoric-plate"
+  ],
+  "Meteorological Map": [
+    "meteorological-map-a5e"
+  ],
+  "Midir's Trident": [
+    "midirs-trident-a5e"
+  ],
+  "Midnight Pearls": [
+    "midnight-pearls-a5e"
+  ],
+  "Mindblade": [
+    "mindblade-a5e"
+  ],
+  "Mindrazor": [
+    "mindrazor-a5e"
+  ],
+  "Minor Minstrel": [
+    "minor-minstrel"
+  ],
+  "Mirror of Eavesdropping": [
+    "mirror-of-eavesdropping"
+  ],
+  "Mirror of Life Trapping": [
+    "mirror-of-life-trapping",
+    "mirror-of-life-trapping-a5e"
+  ],
+  "Mirror Shield": [
+    "mirror-shield-a5e"
+  ],
+  "Mirrored Armor": [
+    "mirrored-armor"
+  ],
+  "Mithral Armor": [
+    "mithral-armor"
+  ],
+  "Mjölnir": [
+    "mjolnir-a5e"
+  ],
+  "Mnemonic Fob": [
+    "mnemonic-fob"
+  ],
+  "Mock Box": [
+    "mock-box"
+  ],
+  "Molten Hellfire Armor": [
+    "molten-hellfire-armor"
+  ],
+  "Momentblade": [
+    "momentblade"
+  ],
+  "Mongrelmaker's Handbook": [
+    "mongrelmakers-handbook"
+  ],
+  "Monkey's Paw of Fortune": [
+    "monkeys-paw-of-fortune"
+  ],
+  "Moon Through the Trees": [
+    "moon-through-the-trees"
+  ],
+  "Moonfield Lens": [
+    "moonfield-lens"
+  ],
+  "Moonsteel Weapon": [
+    "moonsteel-weapon"
+  ],
+  "Mordant Blade": [
+    "mordant-blade"
+  ],
+  "Mountain Hewer": [
+    "mountain-hewer"
+  ],
+  "Mountaineer's Crossbow": [
+    "mountaineers-crossbow"
+  ],
+  "Mourning Medallion": [
+    "mourning-medallion-a5e"
+  ],
+  "Muffled Armor": [
+    "muffled-armor"
+  ],
+  "Mug of Merry Drinking": [
+    "mug-of-merry-drinking"
+  ],
+  "Mug of Warming": [
+    "mug-of-warming-a5e"
+  ],
+  "Murderous Straight Razor": [
+    "murderous-straight-razor-a5e"
+  ],
+  "Mutineer's Blade": [
+    "mutineers-blade"
+  ],
+  "Nameless Cults": [
+    "nameless-cults"
+  ],
+  "Nautilus": [
+    "nautilus-a5e"
+  ],
+  "Necklace of Adaptation": [
+    "necklace-of-adaptation",
+    "necklace-of-adaptation-a5e"
+  ],
+  "Necklace of Fireballs": [
+    "necklace-of-fireballs",
+    "necklace-of-fireballs-a5e"
+  ],
+  "Necklace of Hunger": [
+    "necklace-of-hunger-a5e"
+  ],
+  "Necklace of Prayer Beads": [
+    "necklace-of-prayer-beads",
+    "necklace-of-prayer-beads-a5e"
+  ],
+  "Necromantic Ink": [
+    "necromantic-ink"
+  ],
+  "Neutralizing Bead": [
+    "neutralizing-bead"
+  ],
+  "Nine Lives Stealer": [
+    "nine-lives-stealer",
+    "nine-lives-stealer-a5e"
+  ],
+  "Ninefold Swarmdagger": [
+    "ninefold-swarmdagger"
+  ],
+  "Nithing Pole": [
+    "nithing-pole"
+  ],
+  "Nullifier's Lexicon": [
+    "nullifiers-lexicon"
+  ],
+  "Oakwood Wand": [
+    "oakwood-wand"
+  ],
+  "Oathbow": [
+    "oathbow",
+    "oathbow-a5e"
+  ],
+  "Obsidian Butterfly Knife": [
+    "obsidian-butterfly-knife-a5e"
+  ],
+  "Octopus Bracers": [
+    "octopus-bracers"
+  ],
+  "Oculi of the Ancestor": [
+    "oculi-of-the-ancestor"
+  ],
+  "Odd Bodkin": [
+    "odd-bodkin"
+  ],
+  "Odorless Oil": [
+    "odorless-oil"
+  ],
+  "Ogre's Pot": [
+    "ogres-pot"
+  ],
+  "Oil of Concussion": [
+    "oil-of-concussion"
+  ],
+  "Oil of Cosmetic Enhancement": [
+    "oil-of-cosmetic-enhancement-a5e"
+  ],
+  "Oil of Defoliation": [
+    "oil-of-defoliation"
+  ],
+  "Oil of Etherealness": [
+    "oil-of-etherealness",
+    "oil-of-etherealness-a5e"
+  ],
+  "Oil of Extreme Bludgeoning": [
+    "oil-of-extreme-bludgeoning"
+  ],
+  "Oil of Numbing": [
+    "oil-of-numbing"
+  ],
+  "Oil of Sharpening": [
+    "oil-of-sharpening"
+  ],
+  "Oil of Sharpness": [
+    "oil-of-sharpness",
+    "oil-of-sharpness-a5e"
+  ],
+  "Oil of Slipperiness": [
+    "oil-of-slipperiness",
+    "oil-of-slipperiness-a5e"
+  ],
+  "Oni Mask": [
+    "oni-mask"
+  ],
+  "Opera-Goer’s Guise": [
+    "opera-goers-guise-a5e"
+  ],
+  "Opus Maleficarum": [
+    "opus-maleficarum-a5e"
+  ],
+  "Oracle Charm": [
+    "oracle-charm"
+  ],
+  "Orb of Chaotic Assault": [
+    "orb-of-chaotic-assault-a5e"
+  ],
+  "Orb of Dragonkind": [
+    "orb-of-dragonkind",
+    "orb-of-dragonkind-a5e"
+  ],
+  "Orb of Elsewhere": [
+    "orb-of-elsewhere-a5e"
+  ],
+  "Orb of Enthralling Patterns": [
+    "orb-of-enthralling-patterns"
+  ],
+  "Orb of Obfuscation": [
+    "orb-of-obfuscation"
+  ],
+  "Orb of the Dragon Breaker": [
+    "orb-of-the-dragon-breaker-a5e"
+  ],
+  "Organizer Gremlin": [
+    "organizer-gremlin-a5e"
+  ],
+  "Osseous Plate": [
+    "osseous-plate-a5e"
+  ],
+  "Osseous Warhammer": [
+    "osseous-warhammer-a5e"
+  ],
+  "Ouroboros Amulet": [
+    "ouroboros-amulet"
+  ],
+  "Pact Paper": [
+    "pact-paper"
+  ],
+  "Paired Gauntlets of Striking": [
+    "paired-gauntlets-of-striking"
+  ],
+  "Paramour’s Daisy": [
+    "paramours-daisy-a5e"
+  ],
+  "Parasol of Temperate Weather": [
+    "parasol-of-temperate-weather"
+  ],
+  "Parasol of the Blade": [
+    "parasol-of-the-blade-a5e"
+  ],
+  "Pavilion of Dreams": [
+    "pavilion-of-dreams"
+  ],
+  "Pearl of Diving": [
+    "pearl-of-diving"
+  ],
+  "Pearl of Power": [
+    "pearl-of-power",
+    "pearl-of-power-a5e"
+  ],
+  "Perdita Ravenwing’s True Name": [
+    "perdita-ravenwings-true-name-a5e"
+  ],
+  "Perfect Disguise": [
+    "perfect-disguise-a5e"
+  ],
+  "Perfume Vile": [
+    "perfume-vile-a5e"
+  ],
+  "Periapt of Eldritch Knowledge": [
+    "periapt-of-eldritch-knowledge"
+  ],
+  "Periapt of Health": [
+    "periapt-of-health",
+    "periapt-of-health-a5e"
+  ],
+  "Periapt of Proof Against Lies": [
+    "periapt-of-proof-against-lies"
+  ],
+  "Periapt of Proof against Poison": [
+    "periapt-of-proof-against-poison"
+  ],
+  "Periapt of Proof Against Poison": [
+    "periapt-of-proof-against-poison-a5e"
+  ],
+  "Periapt of Wound Closure": [
+    "periapt-of-wound-closure",
+    "periapt-of-wound-closure-a5e"
+  ],
+  "Pestilent Spear": [
+    "pestilent-spear"
+  ],
+  "Phase Arrow": [
+    "phase-arrow"
+  ],
+  "Phase Mirror": [
+    "phase-mirror"
+  ],
+  "Phidjetz Spinner": [
+    "phidjetz-spinner"
+  ],
+  "Philter of Love": [
+    "philter-of-love",
+    "philter-of-love-a5e"
+  ],
+  "Philter of Luck": [
+    "philter-of-luck"
+  ],
+  "Phoenix Ember": [
+    "phoenix-ember"
+  ],
+  "Phoenix-Feather Cap": [
+    "phoenix-feather-cap-a5e"
+  ],
+  "Pick of Ice Breaking": [
+    "pick-of-ice-breaking"
+  ],
+  "Pipes of Haunting": [
+    "pipes-of-haunting",
+    "pipes-of-haunting-a5e"
+  ],
+  "Pipes of Madness": [
+    "pipes-of-madness"
+  ],
+  "Pipes of the Sewers": [
+    "pipes-of-the-sewers",
+    "pipes-of-the-sewers-a5e"
+  ],
+  "Pistol of the Umbral Court": [
+    "pistol-of-the-umbral-court"
+  ],
+  "Plague Doctor's Mask": [
+    "plague-doctors-mask-a5e"
+  ],
+  "Plate Armor of Etherealness": [
+    "plate-armor-of-etherealness",
+    "plate-armor-of-etherealness-a5e"
+  ],
+  "Plumb of the Elements": [
+    "plumb-of-the-elements"
+  ],
+  "Plunderer's Sea Chest": [
+    "plunderers-sea-chest"
+  ],
+  "Pocket Oasis": [
+    "pocket-oasis"
+  ],
+  "Pocket Spark": [
+    "pocket-spark"
+  ],
+  "Poison Breath Bottle": [
+    "poison-breath-bottle-a5e"
+  ],
+  "Poison Strand": [
+    "poison-strand"
+  ],
+  "Poisoner’s Almanac": [
+    "poisoners-almanac-a5e"
+  ],
+  "Portable Hole": [
+    "portable-hole",
+    "portable-hole-a5e"
+  ],
+  "Portraiture Gremlin": [
+    "portraiture-gremlin-a5e"
+  ],
+  "Potent Cure-All": [
+    "potent-cure-all"
+  ],
+  "Potion Belt": [
+    "potion-belt"
+  ],
+  "Potion of Air Breathing": [
+    "potion-of-air-breathing"
+  ],
+  "Potion of Animal Friendship": [
+    "potion-of-animal-friendship",
+    "potion-of-animal-friendship-a5e"
+  ],
+  "Potion of Bad Taste": [
+    "potion-of-bad-taste"
+  ],
+  "Potion of Bouncing": [
+    "potion-of-bouncing"
+  ],
+  "Potion of Buoyancy": [
+    "potion-of-buoyancy"
+  ],
+  "Potion of Clairvoyance": [
+    "potion-of-clairvoyance",
+    "potion-of-clairvoyance-a5e"
+  ],
+  "Potion of Climbing": [
+    "potion-of-climbing",
+    "potion-of-climbing-a5e"
+  ],
+  "Potion of Diminution": [
+    "potion-of-diminution",
+    "potion-of-diminution-a5e"
+  ],
+  "Potion of Dire Cleansing": [
+    "potion-of-dire-cleansing"
+  ],
+  "Potion of Ebbing Strength": [
+    "potion-of-ebbing-strength"
+  ],
+  "Potion of Effulgence": [
+    "potion-of-effulgence"
+  ],
+  "Potion of Empowering Truth": [
+    "potion-of-empowering-truth"
+  ],
+  "Potion of Flying": [
+    "potion-of-flying",
+    "potion-of-flying-a5e"
+  ],
+  "Potion of Freezing Fog": [
+    "potion-of-freezing-fog"
+  ],
+  "Potion of Gaseous Form": [
+    "potion-of-gaseous-form",
+    "potion-of-gaseous-form-a5e"
+  ],
+  "Potion of Giant Strength": [
+    "potion-of-giant-strength",
+    "potion-of-giant-strength-a5e"
+  ],
+  "Potion of Growth": [
+    "potion-of-growth",
+    "potion-of-growth-a5e"
+  ],
+  "Potion of Healing": [
+    "potion-of-healing",
+    "potion-of-healing-a5e"
+  ],
+  "Potion of Heroism": [
+    "potion-of-heroism",
+    "potion-of-heroism-a5e"
+  ],
+  "Potion of Infinite Possibilities": [
+    "potion-of-infinite-possibilities"
+  ],
+  "Potion of Invisibility": [
+    "potion-of-invisibility",
+    "potion-of-invisibility-a5e"
+  ],
+  "Potion of Malleability": [
+    "potion-of-malleability"
+  ],
+  "Potion of Mind Reading": [
+    "potion-of-mind-reading",
+    "potion-of-mind-reading-a5e"
+  ],
+  "Potion of Poison": [
+    "potion-of-poison",
+    "potion-of-poison-a5e"
+  ],
+  "Potion of Resistance": [
+    "potion-of-resistance",
+    "potion-of-resistance-a5e"
+  ],
+  "Potion of Sand Form": [
+    "potion-of-sand-form"
+  ],
+  "Potion of Skating": [
+    "potion-of-skating"
+  ],
+  "Potion of Speed": [
+    "potion-of-speed",
+    "potion-of-speed-a5e"
+  ],
+  "Potion of Transparency": [
+    "potion-of-transparency"
+  ],
+  "Potion of Water Breathing": [
+    "potion-of-water-breathing",
+    "potion-of-water-breathing-a5e"
+  ],
+  "Potion of Worg Form": [
+    "potion-of-worg-form"
+  ],
+  "Pouch of Emergency Healing": [
+    "pouch-of-emergency-healing-a5e"
+  ],
+  "Pouch of Runestones": [
+    "pouch-of-runestones"
+  ],
+  "Prayer Mat": [
+    "prayer-mat"
+  ],
+  "Preserved Imp’s Head": [
+    "preserved-imps-head-a5e"
+  ],
+  "Primal Doom": [
+    "primal-doom"
+  ],
+  "Primordial Scale": [
+    "primordial-scale"
+  ],
+  "Prismatic Gown": [
+    "prismatic-gown-a5e"
+  ],
+  "Prospecting Compass": [
+    "prospecting-compass"
+  ],
+  "Prospector's Pick": [
+    "prospectors-pick-a5e"
+  ],
+  "Protean Needlepoint": [
+    "protean-needlepoint-a5e"
+  ],
+  "Pumpkin Bomb": [
+    "pumpkin-bomb-a5e"
+  ],
+  "Quick Canoe Paddle": [
+    "quick-canoe-paddle-a5e"
+  ],
+  "Quick-Change Mirror": [
+    "quick-change-mirror"
+  ],
+  "Quill of Scribing": [
+    "quill-of-scribing"
+  ],
+  "Quilted Bridge": [
+    "quilted-bridge"
+  ],
+  "Quiver of the Hunt": [
+    "quiver-of-the-hunt-a5e"
+  ],
+  "Radiance Bomb": [
+    "radiance-bomb"
+  ],
+  "Radiant Bracers": [
+    "radiant-bracers"
+  ],
+  "Radiant Libram": [
+    "radiant-libram"
+  ],
+  "Raiment of the Devouring King": [
+    "raiment-of-the-devouring-king-a5e"
+  ],
+  "Rain of Chaos": [
+    "rain-of-chaos"
+  ],
+  "Rainbow Extract": [
+    "rainbow-extract"
+  ],
+  "Ravager's Axe": [
+    "ravagers-axe"
+  ],
+  "Recondite Shield": [
+    "recondite-shield"
+  ],
+  "Recording Book": [
+    "recording-book"
+  ],
+  "Red Cloak of Riding": [
+    "red-cloak-of-riding-a5e"
+  ],
+  "Reef Splitter": [
+    "reef-splitter"
+  ],
+  "Reloader Gremlin": [
+    "reloader-gremlin-a5e"
+  ],
+  "Relocation Cable": [
+    "relocation-cable"
+  ],
+  "Resolute Bracer": [
+    "resolute-bracer"
+  ],
+  "Restorative Ointment": [
+    "restorative-ointment",
+    "restorative-ointment-a5e"
+  ],
+  "Retribution Armor": [
+    "retribution-armor"
+  ],
+  "Revenant's Shawl": [
+    "revenants-shawl"
+  ],
+  "Rhinam Life Gem": [
+    "rhinam-life-gem-a5e"
+  ],
+  "Rift Orb": [
+    "rift-orb"
+  ],
+  "Ring of Animal Influence": [
+    "ring-of-animal-influence",
+    "ring-of-animal-influence-a5e"
+  ],
+  "Ring of Arcane Adjustment": [
+    "ring-of-arcane-adjustment"
+  ],
+  "Ring of Battered Courage": [
+    "ring-of-battered-courage-a5e"
+  ],
+  "Ring of Bravado": [
+    "ring-of-bravado"
+  ],
+  "Ring of Deceiver's Warning": [
+    "ring-of-deceivers-warning"
+  ],
+  "Ring of Djinni Summoning": [
+    "ring-of-djinni-summoning",
+    "ring-of-djinni-summoning-a5e"
+  ],
+  "Ring of Dragon's Discernment": [
+    "ring-of-dragons-discernment"
+  ],
+  "Ring of Elemental Command": [
+    "ring-of-elemental-command",
+    "ring-of-elemental-command-a5e"
+  ],
+  "Ring of Evasion": [
+    "ring-of-evasion",
+    "ring-of-evasion-a5e"
+  ],
+  "Ring of Feather Falling": [
+    "ring-of-feather-falling",
+    "ring-of-feather-falling-a5e"
+  ],
+  "Ring of Featherweight Weapons": [
+    "ring-of-featherweight-weapons"
+  ],
+  "Ring of Free Action": [
+    "ring-of-free-action",
+    "ring-of-free-action-a5e"
+  ],
+  "Ring of Giant Mingling": [
+    "ring-of-giant-mingling"
+  ],
+  "Ring of Hoarded Life": [
+    "ring-of-hoarded-life"
+  ],
+  "Ring of Imperious Command": [
+    "ring-of-imperious-command"
+  ],
+  "Ring of Inspiration Storing": [
+    "ring-of-inspiration-storing-a5e"
+  ],
+  "Ring of Invisibility": [
+    "ring-of-invisibility",
+    "ring-of-invisibility-a5e"
+  ],
+  "Ring of Jumping": [
+    "ring-of-jumping",
+    "ring-of-jumping-a5e"
+  ],
+  "Ring of Light's Comfort": [
+    "ring-of-lights-comfort"
+  ],
+  "Ring of Mind Shielding": [
+    "ring-of-mind-shielding",
+    "ring-of-mind-shielding-a5e"
+  ],
+  "Ring of Night's Solace": [
+    "ring-of-nights-solace"
+  ],
+  "Ring of Powerful Summons": [
+    "ring-of-powerful-summons"
+  ],
+  "Ring of Protection": [
+    "ring-of-protection",
+    "ring-of-protection-a5e"
+  ],
+  "Ring of Regeneration": [
+    "ring-of-regeneration",
+    "ring-of-regeneration-a5e"
+  ],
+  "Ring of Remembrance": [
+    "ring-of-remembrance"
+  ],
+  "Ring of Resistance": [
+    "ring-of-resistance",
+    "ring-of-resistance-a5e"
+  ],
+  "Ring of Sealing": [
+    "ring-of-sealing"
+  ],
+  "Ring of Shadows": [
+    "ring-of-shadows"
+  ],
+  "Ring of Shooting Stars": [
+    "ring-of-shooting-stars",
+    "ring-of-shooting-stars-a5e"
+  ],
+  "Ring of Small Mercies": [
+    "ring-of-small-mercies"
+  ],
+  "Ring of Spell Negation": [
+    "ring-of-spell-negation"
+  ],
+  "Ring of Spell Storing": [
+    "ring-of-spell-storing",
+    "ring-of-spell-storing-a5e"
+  ],
+  "Ring of Spell Turning": [
+    "ring-of-spell-turning",
+    "ring-of-spell-turning-a5e"
+  ],
+  "Ring of Stored Vitality": [
+    "ring-of-stored-vitality"
+  ],
+  "Ring of Swimming": [
+    "ring-of-swimming",
+    "ring-of-swimming-a5e"
+  ],
+  "Ring of Telekinesis": [
+    "ring-of-telekinesis",
+    "ring-of-telekinesis-a5e"
+  ],
+  "Ring of the Dolphin": [
+    "ring-of-the-dolphin"
+  ],
+  "Ring of the Frog": [
+    "ring-of-the-frog"
+  ],
+  "Ring of the Frost Knight": [
+    "ring-of-the-frost-knight"
+  ],
+  "Ring of the Grove's Guardian": [
+    "ring-of-the-groves-guardian"
+  ],
+  "Ring of the Jarl": [
+    "ring-of-the-jarl"
+  ],
+  "Ring of the Ram": [
+    "ring-of-the-ram",
+    "ring-of-the-ram-a5e"
+  ],
+  "Ring of the Vengeance Seeker": [
+    "ring-of-the-vengeance-seeker-a5e"
+  ],
+  "Ring of the Water Dancer": [
+    "ring-of-the-water-dancer"
+  ],
+  "Ring of Three Wishes": [
+    "ring-of-three-wishes",
+    "ring-of-three-wishes-a5e"
+  ],
+  "Ring of Ursa": [
+    "ring-of-ursa"
+  ],
+  "Ring of Warmth": [
+    "ring-of-warmth",
+    "ring-of-warmth-a5e"
+  ],
+  "Ring of Water Walking": [
+    "ring-of-water-walking",
+    "ring-of-water-walking-a5e"
+  ],
+  "Ring of X-ray Vision": [
+    "ring-of-x-ray-vision"
+  ],
+  "Ring of X-Ray Vision": [
+    "ring-of-x-ray-vision-a5e"
+  ],
+  "River Token": [
+    "river-token"
+  ],
+  "Riverine Blade": [
+    "riverine-blade"
+  ],
+  "Robe of Eyes": [
+    "robe-of-eyes",
+    "robe-of-eyes-a5e"
+  ],
+  "Robe of Scintillating Colors": [
+    "robe-of-scintillating-colors",
+    "robe-of-scintillating-colors-a5e"
+  ],
+  "Robe of Stars": [
+    "robe-of-stars",
+    "robe-of-stars-a5e"
+  ],
+  "Robe of the Archmagi": [
+    "robe-of-the-archmagi",
+    "robe-of-the-archmagi-a5e"
+  ],
+  "Robe of Useful Items": [
+    "robe-of-useful-items",
+    "robe-of-useful-items-a5e"
+  ],
+  "Rod of Absorption": [
+    "rod-of-absorption",
+    "rod-of-absorption-a5e"
+  ],
+  "Rod of Alertness": [
+    "rod-of-alertness",
+    "rod-of-alertness-a5e"
+  ],
+  "Rod of Blade Bending": [
+    "rod-of-blade-bending"
+  ],
+  "Rod of Bubbles": [
+    "rod-of-bubbles"
+  ],
+  "Rod of Conveyance": [
+    "rod-of-conveyance"
+  ],
+  "Rod of Deflection": [
+    "rod-of-deflection"
+  ],
+  "Rod of Entropy": [
+    "rod-of-entropy-a5e"
+  ],
+  "Rod of Ghastly Might": [
+    "rod-of-ghastly-might"
+  ],
+  "Rod of Hellish Grounding": [
+    "rod-of-hellish-grounding"
+  ],
+  "Rod of Icicles": [
+    "rod-of-icicles"
+  ],
+  "Rod of Lordly Might": [
+    "rod-of-lordly-might",
+    "rod-of-lordly-might-a5e"
+  ],
+  "Rod of Reformation": [
+    "rod-of-reformation"
+  ],
+  "Rod of Repossession": [
+    "rod-of-repossession"
+  ],
+  "Rod of Rulership": [
+    "rod-of-rulership",
+    "rod-of-rulership-a5e"
+  ],
+  "Rod of Sacrificial Blessing": [
+    "rod-of-sacrificial-blessing"
+  ],
+  "Rod of Sanguine Mastery": [
+    "rod-of-sanguine-mastery"
+  ],
+  "Rod of Security": [
+    "rod-of-security",
+    "rod-of-security-a5e"
+  ],
+  "Rod of Swarming Skulls": [
+    "rod-of-swarming-skulls"
+  ],
+  "Rod of the Disciplinarian": [
+    "rod-of-the-disciplinarian"
+  ],
+  "Rod of the Infernal Realms": [
+    "rod-of-the-infernal-realms"
+  ],
+  "Rod of the Jester": [
+    "rod-of-the-jester"
+  ],
+  "Rod of the Mariner": [
+    "rod-of-the-mariner"
+  ],
+  "Rod of the Wastes": [
+    "rod-of-the-wastes"
+  ],
+  "Rod of Thorns": [
+    "rod-of-thorns"
+  ],
+  "Rod of Underworld Navigation": [
+    "rod-of-underworld-navigation"
+  ],
+  "Rod of Vapor": [
+    "rod-of-vapor"
+  ],
+  "Rod of Verbatim": [
+    "rod-of-verbatim"
+  ],
+  "Rod of Warning": [
+    "rod-of-warning"
+  ],
+  "Rogue's Aces": [
+    "rogues-aces"
+  ],
+  "Root of the World Tree": [
+    "root-of-the-world-tree"
+  ],
+  "Rope of Climbing": [
+    "rope-of-climbing",
+    "rope-of-climbing-a5e"
+  ],
+  "Rope of Entanglement": [
+    "rope-of-entanglement",
+    "rope-of-entanglement-a5e"
+  ],
+  "Rope Seed": [
+    "rope-seed"
+  ],
+  "Rose of the Enchantress": [
+    "rose-of-the-enchantress-a5e"
+  ],
+  "Rowan Staff": [
+    "rowan-staff"
+  ],
+  "Rowdy's Club": [
+    "rowdys-club"
+  ],
+  "Rowdy's Ring": [
+    "rowdys-ring"
+  ],
+  "Royal Jelly": [
+    "royal-jelly"
+  ],
+  "Ruby Crusher": [
+    "ruby-crusher"
+  ],
+  "Rug of Safe Haven": [
+    "rug-of-safe-haven"
+  ],
+  "Rust Monster Shell": [
+    "rust-monster-shell"
+  ],
+  "Ruyi Jingu Bang": [
+    "ruyi-jingu-bang-a5e"
+  ],
+  "Sack of Sacks": [
+    "sack-of-sacks-a5e"
+  ],
+  "Sacrificial Knife": [
+    "sacrificial-knife"
+  ],
+  "Saddle of the Cavalry Casters": [
+    "saddle-of-the-cavalry-casters"
+  ],
+  "Sail of the Black Opal": [
+    "sail-of-the-black-opal-a5e"
+  ],
+  "Sanctuary Shell": [
+    "sanctuary-shell"
+  ],
+  "Sand Arrow": [
+    "sand-arrow"
+  ],
+  "Sand Suit": [
+    "sand-suit"
+  ],
+  "Sandals of Sand Skating": [
+    "sandals-of-sand-skating"
+  ],
+  "Sandals of the Desert Wanderer": [
+    "sandals-of-the-desert-wanderer"
+  ],
+  "Sanguine Lance": [
+    "sanguine-lance"
+  ],
+  "Satchel of Seawalking": [
+    "satchel-of-seawalking"
+  ],
+  "Satyr Boots": [
+    "satyr-boots-a5e"
+  ],
+  "Scale MIlk": [
+    "scale-milk-a5e"
+  ],
+  "Scalehide Cream": [
+    "scalehide-cream"
+  ],
+  "Scarab of Protection": [
+    "scarab-of-protection",
+    "scarab-of-protection-a5e"
+  ],
+  "Scarab of Rebirth": [
+    "scarab-of-rebirth"
+  ],
+  "Scarf of Deception": [
+    "scarf-of-deception"
+  ],
+  "Scent Sponge": [
+    "scent-sponge"
+  ],
+  "Scepter of Majesty": [
+    "scepter-of-majesty"
+  ],
+  "Schooled Weapon": [
+    "schooled-weapon-a5e"
+  ],
+  "Scimitar of Speed": [
+    "scimitar-of-speed",
+    "scimitar-of-speed-a5e"
+  ],
+  "Scimitar of the Desert Winds": [
+    "scimitar-of-the-desert-winds"
+  ],
+  "Scorn Pouch": [
+    "scorn-pouch"
+  ],
+  "Scorpion Feet": [
+    "scorpion-feet"
+  ],
+  "Scoundrel's Gambit": [
+    "scoundrels-gambit"
+  ],
+  "Scourge of Devotion": [
+    "scourge-of-devotion"
+  ],
+  "Scout's Coat": [
+    "scouts-coat"
+  ],
+  "Scrap of Forbidden Text": [
+    "scrap-of-forbidden-text-a5e"
+  ],
+  "Screaming Skull": [
+    "screaming-skull"
+  ],
+  "Scrimshaw Comb": [
+    "scrimshaw-comb"
+  ],
+  "Scrimshaw Parrot": [
+    "scrimshaw-parrot"
+  ],
+  "Scroll of Conjuring": [
+    "scroll-of-conjuring"
+  ],
+  "Scroll of Fabrication": [
+    "scroll-of-fabrication"
+  ],
+  "Scroll of Treasure Finding": [
+    "scroll-of-treasure-finding"
+  ],
+  "Scrolls of Correspondence": [
+    "scrolls-of-correspondence"
+  ],
+  "Sea Witch’s Amulet": [
+    "sea-witchs-amulet-a5e"
+  ],
+  "Sea Witch's Blade": [
+    "sea-witchs-blade"
+  ],
+  "Seafarer's Quill": [
+    "seafarers-quill-a5e"
+  ],
+  "Searing Whip": [
+    "searing-whip"
+  ],
+  "Second-Light Lantern": [
+    "second-light-lantern-a5e"
+  ],
+  "Second Wind": [
+    "second-wind"
+  ],
+  "Secret-catching Pearls": [
+    "secret-catching-pearls-a5e"
+  ],
+  "Security Gremlin": [
+    "security-gremlin-a5e"
+  ],
+  "Seeds of Necessity": [
+    "seeds-of-necessity-a5e"
+  ],
+  "Seelie Staff": [
+    "seelie-staff"
+  ],
+  "Selket's Bracer": [
+    "selkets-bracer"
+  ],
+  "Seneschal's Gloves": [
+    "seneschals-gloves"
+  ],
+  "Sentinel Portrait": [
+    "sentinel-portrait"
+  ],
+  "Serpent Staff": [
+    "serpent-staff"
+  ],
+  "Serpentine Bracers": [
+    "serpentine-bracers"
+  ],
+  "Serpentine Sandals": [
+    "serpentine-sandals"
+  ],
+  "Serpent's Scales": [
+    "serpents-scales"
+  ],
+  "Serpent's Tooth": [
+    "serpents-tooth"
+  ],
+  "Serveros War Engine": [
+    "serveros-war-engine-a5e"
+  ],
+  "Servile Shabti": [
+    "servile-shabti"
+  ],
+  "Seven-Sided Coin": [
+    "seven-sided-coin-a5e"
+  ],
+  "Shackle of the Ghostheart Covenant": [
+    "shackle-of-the-ghostheart-covenant-a5e"
+  ],
+  "Shadow Tome": [
+    "shadow-tome"
+  ],
+  "Shadowhound's Muzzle": [
+    "shadowhounds-muzzle"
+  ],
+  "Shark Tooth Crown": [
+    "shark-tooth-crown"
+  ],
+  "Sharkskin Vest": [
+    "sharkskin-vest"
+  ],
+  "Shattershot Arrow": [
+    "shattershot-arrow"
+  ],
+  "Sheeshah of Revelations": [
+    "sheeshah-of-revelations"
+  ],
+  "Shepherd's Flail": [
+    "shepherds-flail"
+  ],
+  "Shield +1": [
+    "shield-1-a5e"
+  ],
+  "Shield +2": [
+    "shield-2-a5e"
+  ],
+  "Shield +3": [
+    "shield-3-a5e"
+  ],
+  "Shield of Gnawing": [
+    "shield-of-gnawing"
+  ],
+  "Shield of Missile Attraction": [
+    "shield-of-missile-attraction",
+    "shield-of-missile-attraction-a5e"
+  ],
+  "Shield of Missile Reversal": [
+    "shield-of-missile-reversal"
+  ],
+  "Shield of the Fallen": [
+    "shield-of-the-fallen"
+  ],
+  "Shifting Shirt": [
+    "shifting-shirt"
+  ],
+  "Shimmer Ring": [
+    "shimmer-ring"
+  ],
+  "Shoes of the Shingled Canopy": [
+    "shoes-of-the-shingled-canopy"
+  ],
+  "Shoulder Dragon Brooch": [
+    "shoulder-dragon-brooch-a5e"
+  ],
+  "Shrutinandan Sitar": [
+    "shrutinandan-sitar"
+  ],
+  "Sickle of Thorns": [
+    "sickle-of-thorns"
+  ],
+  "Siege Arrow": [
+    "siege-arrow"
+  ],
+  "Signal Rings": [
+    "signal-rings-a5e"
+  ],
+  "Signaling Ammunition": [
+    "signaling-ammunition"
+  ],
+  "Signaling Compass": [
+    "signaling-compass"
+  ],
+  "Signet of the Magister": [
+    "signet-of-the-magister"
+  ],
+  "Silver String": [
+    "silver-string"
+  ],
+  "Silvered Oar": [
+    "silvered-oar"
+  ],
+  "Sinner’s Ashes": [
+    "sinners-ashes-a5e"
+  ],
+  "Skald's Harp": [
+    "skalds-harp"
+  ],
+  "Skeleton Key": [
+    "skeleton-key-a5e"
+  ],
+  "Skipstone": [
+    "skipstone"
+  ],
+  "Skofnung": [
+    "skofnung-a5e"
+  ],
+  "Skrivena Moc, Whispering Blade": [
+    "skrivena-moc-whispering-blade-a5e"
+  ],
+  "Skull Liqueur": [
+    "skull-liqueur-a5e"
+  ],
+  "Skullcap of Deep Wisdom": [
+    "skullcap-of-deep-wisdom"
+  ],
+  "Skysail": [
+    "skysail"
+  ],
+  "Skywing": [
+    "skywing-a5e"
+  ],
+  "Slatelight Ring": [
+    "slatelight-ring"
+  ],
+  "Sleep Pellet": [
+    "sleep-pellet"
+  ],
+  "Slick Cuirass": [
+    "slick-cuirass"
+  ],
+  "Slimeblade": [
+    "slimeblade"
+  ],
+  "Sling Stone of Screeching": [
+    "sling-stone-of-screeching"
+  ],
+  "Slippers of Spider Climbing": [
+    "slippers-of-spider-climbing",
+    "slippers-of-spider-climbing-a5e"
+  ],
+  "Slippers of the Cat": [
+    "slippers-of-the-cat"
+  ],
+  "Slipshod Hammer": [
+    "slipshod-hammer"
+  ],
+  "Smoking Plate of Heithmir": [
+    "smoking-plate-of-heithmir"
+  ],
+  "Smuggler's Bag": [
+    "smugglers-bag"
+  ],
+  "Smuggler's Coat": [
+    "smugglers-coat"
+  ],
+  "Snake Basket": [
+    "snake-basket"
+  ],
+  "Snake-Eye Bones": [
+    "snake-eye-bones-a5e"
+  ],
+  "Soldra's Staff": [
+    "soldras-staff"
+  ],
+  "Somnambulatory Brew": [
+    "somnambulatory-brew-a5e"
+  ],
+  "Song-Saddle of the Khan": [
+    "song-saddle-of-the-khan"
+  ],
+  "Sonic Staff": [
+    "sonic-staff-a5e"
+  ],
+  "Soul Bond Chalice": [
+    "soul-bond-chalice"
+  ],
+  "Soul Jug": [
+    "soul-jug"
+  ],
+  "Soulbound Wraps": [
+    "soulbound-wraps"
+  ],
+  "Sovereign Glue": [
+    "sovereign-glue",
+    "sovereign-glue-a5e"
+  ],
+  "Spear of the North": [
+    "spear-of-the-north"
+  ],
+  "Spear of the Stilled Heart": [
+    "spear-of-the-stilled-heart"
+  ],
+  "Spear of the Western Whale": [
+    "spear-of-the-western-whale"
+  ],
+  "Spearbiter": [
+    "spearbiter"
+  ],
+  "Spectral Blade": [
+    "spectral-blade"
+  ],
+  "Spectral Camera": [
+    "spectral-camera-a5e"
+  ],
+  "Spell Disruptor Horn": [
+    "spell-disruptor-horn"
+  ],
+  "Spell Scroll": [
+    "spell-scroll",
+    "spell-scroll-a5e"
+  ],
+  "Spellcasting Symphony": [
+    "spellcasting-symphony-a5e"
+  ],
+  "Spellguard Shield": [
+    "spellguard-shield",
+    "spellguard-shield-a5e"
+  ],
+  "Sphere of Annihilation": [
+    "sphere-of-annihilation",
+    "sphere-of-annihilation-a5e"
+  ],
+  "Spice Box of Zest": [
+    "spice-box-of-zest"
+  ],
+  "Spice Box Spoon": [
+    "spice-box-spoon"
+  ],
+  "Spider Grenade": [
+    "spider-grenade"
+  ],
+  "Spider Staff": [
+    "spider-staff"
+  ],
+  "Spinal Whip": [
+    "spinal-whip-a5e"
+  ],
+  "Spindle of Spinning": [
+    "spindle-of-spinning-a5e"
+  ],
+  "Spirit Lantern": [
+    "spirit-lantern-a5e"
+  ],
+  "Spirit-Trapping Camera": [
+    "spirit-trapping-camera-a5e"
+  ],
+  "Splinter Staff": [
+    "splinter-staff"
+  ],
+  "Spyglass of Summoning": [
+    "spyglass-of-summoning"
+  ],
+  "Staff of Binding": [
+    "staff-of-binding"
+  ],
+  "Staff of Camazotz": [
+    "staff-of-camazotz"
+  ],
+  "Staff of Channeling": [
+    "staff-of-channeling"
+  ],
+  "Staff of Charming": [
+    "staff-of-charming",
+    "staff-of-charming-a5e"
+  ],
+  "Staff of Desolation": [
+    "staff-of-desolation"
+  ],
+  "Staff of Dissolution": [
+    "staff-of-dissolution"
+  ],
+  "Staff of Fate": [
+    "staff-of-fate"
+  ],
+  "Staff of Feathers": [
+    "staff-of-feathers"
+  ],
+  "Staff of Fire": [
+    "staff-of-fire",
+    "staff-of-fire-a5e"
+  ],
+  "Staff of Frost": [
+    "staff-of-frost",
+    "staff-of-frost-a5e"
+  ],
+  "Staff of Giantkin": [
+    "staff-of-giantkin"
+  ],
+  "Staff of Gravity Bending": [
+    "staff-of-gravity-bending-a5e"
+  ],
+  "Staff of Healing": [
+    "staff-of-healing",
+    "staff-of-healing-a5e"
+  ],
+  "Staff of Ice and Fire": [
+    "staff-of-ice-and-fire"
+  ],
+  "Staff of Master Lu Po": [
+    "staff-of-master-lu-po"
+  ],
+  "Staff of Midnight": [
+    "staff-of-midnight"
+  ],
+  "Staff of Minor Curses": [
+    "staff-of-minor-curses"
+  ],
+  "Staff of Parzelon": [
+    "staff-of-parzelon"
+  ],
+  "Staff of Portals": [
+    "staff-of-portals"
+  ],
+  "Staff of Power": [
+    "staff-of-power",
+    "staff-of-power-a5e"
+  ],
+  "Staff of Scrying": [
+    "staff-of-scrying"
+  ],
+  "Staff of Spores": [
+    "staff-of-spores"
+  ],
+  "Staff of Squalor": [
+    "staff-of-squalor-a5e"
+  ],
+  "Staff of Striking": [
+    "staff-of-striking",
+    "staff-of-striking-a5e"
+  ],
+  "Staff of Swarming Insects": [
+    "staff-of-swarming-insects",
+    "staff-of-swarming-insects-a5e"
+  ],
+  "Staff of the Armada": [
+    "staff-of-the-armada"
+  ],
+  "Staff of the Artisan": [
+    "staff-of-the-artisan"
+  ],
+  "Staff of the Cephalopod": [
+    "staff-of-the-cephalopod"
+  ],
+  "Staff of the Four Winds": [
+    "staff-of-the-four-winds"
+  ],
+  "Staff of the Lantern Bearer": [
+    "staff-of-the-lantern-bearer"
+  ],
+  "Staff of the Magi": [
+    "staff-of-the-magi",
+    "staff-of-the-magi-a5e"
+  ],
+  "Staff of the Peaks": [
+    "staff-of-the-peaks"
+  ],
+  "Staff of the Python": [
+    "staff-of-the-python",
+    "staff-of-the-python-a5e"
+  ],
+  "Staff of the Scion": [
+    "staff-of-the-scion"
+  ],
+  "Staff of the Treant": [
+    "staff-of-the-treant"
+  ],
+  "Staff of the Unhatched": [
+    "staff-of-the-unhatched"
+  ],
+  "Staff of the Web-Tender": [
+    "staff-of-the-web-tender-a5e"
+  ],
+  "Staff of the White Necromancer": [
+    "staff-of-the-white-necromancer"
+  ],
+  "Staff of the Woodlands": [
+    "staff-of-the-woodlands",
+    "staff-of-the-woodlands-a5e"
+  ],
+  "Staff of Thorns": [
+    "staff-of-thorns"
+  ],
+  "Staff of Thunder and Lightning": [
+    "staff-of-thunder-and-lightning",
+    "staff-of-thunder-and-lightning-a5e"
+  ],
+  "Staff of Voices": [
+    "staff-of-voices"
+  ],
+  "Staff of Winter and Ice": [
+    "staff-of-winter-and-ice"
+  ],
+  "Staff of Withering": [
+    "staff-of-withering",
+    "staff-of-withering-a5e"
+  ],
+  "Stalking Cat": [
+    "stalking-cat-a5e"
+  ],
+  "Standard of Divinity": [
+    "standard-of-divinity"
+  ],
+  "Star Heart": [
+    "star-heart-a5e"
+  ],
+  "Stasis Stone": [
+    "stasis-stone"
+  ],
+  "Steadfast Splint": [
+    "steadfast-splint"
+  ],
+  "Steelsilk Mantle": [
+    "steelsilk-mantle-a5e"
+  ],
+  "Stick Awl": [
+    "stick-awl-a5e"
+  ],
+  "Stinger": [
+    "stinger"
+  ],
+  "Stolen Thunder": [
+    "stolen-thunder"
+  ],
+  "Stone of Controlling Earth Elementals": [
+    "stone-of-controlling-earth-elementals",
+    "stone-of-controlling-earth-elementals-a5e"
+  ],
+  "Stone of Good Luck (Luckstone)": [
+    "stone-of-good-luck-luckstone",
+    "stone-of-good-luck-luckstone-a5e"
+  ],
+  "Stone Staff": [
+    "stone-staff"
+  ],
+  "Stonechewer Gauntlets": [
+    "stonechewer-gauntlets"
+  ],
+  "Stonedrift Staff": [
+    "stonedrift-staff"
+  ],
+  "Stormheart Bow": [
+    "stormheart-bow"
+  ],
+  "Storyteller's Pipe": [
+    "storytellers-pipe"
+  ],
+  "Sturdy Scroll Tube": [
+    "sturdy-scroll-tube"
+  ],
+  "Stygian Crook": [
+    "stygian-crook"
+  ],
+  "Subtle Mage Gloves": [
+    "subtle-mage-gloves-a5e"
+  ],
+  "Sun Blade": [
+    "sun-blade",
+    "sun-blade-a5e"
+  ],
+  "Superior Potion of Troll Blood": [
+    "superior-potion-of-troll-blood"
+  ],
+  "Supreme Potion of Troll Blood": [
+    "supreme-potion-of-troll-blood"
+  ],
+  "Survival Knife": [
+    "survival-knife"
+  ],
+  "Survivor’s Cloak": [
+    "survivors-cloak-a5e"
+  ],
+  "Swarmfoe Suit": [
+    "swarmfoe-suit"
+  ],
+  "Swashing Plumage": [
+    "swashing-plumage"
+  ],
+  "Sweet Nature": [
+    "sweet-nature"
+  ],
+  "Swolbold Wraps": [
+    "swolbold-wraps"
+  ],
+  "Sword of Fallen Saints": [
+    "sword-of-fallen-saints"
+  ],
+  "Sword of Life Stealing": [
+    "sword-of-life-stealing",
+    "sword-of-life-stealing-a5e"
+  ],
+  "Sword of Sharpness": [
+    "sword-of-sharpness",
+    "sword-of-sharpness-a5e"
+  ],
+  "Sword of the Serpent": [
+    "sword-of-the-serpent-a5e"
+  ],
+  "Sword of Three Traditions": [
+    "sword-of-three-traditions-a5e"
+  ],
+  "Sword of Volsung": [
+    "sword-of-volsung"
+  ],
+  "Sword of Wounding": [
+    "sword-of-wounding",
+    "sword-of-wounding-a5e"
+  ],
+  "Tactile Unguent": [
+    "tactile-unguent"
+  ],
+  "Tailored Suit of Armor": [
+    "tailored-suit-of-armor-a5e"
+  ],
+  "Tailor's Clasp": [
+    "tailors-clasp"
+  ],
+  "Talisman of Pure Good": [
+    "talisman-of-pure-good",
+    "talisman-of-pure-good-a5e"
+  ],
+  "Talisman of the Snow Queen": [
+    "talisman-of-the-snow-queen"
+  ],
+  "Talisman of the Sphere": [
+    "talisman-of-the-sphere",
+    "talisman-of-the-sphere-a5e"
+  ],
+  "Talisman of Ultimate Evil": [
+    "talisman-of-ultimate-evil",
+    "talisman-of-ultimate-evil-a5e"
+  ],
+  "Talking Tablets": [
+    "talking-tablets"
+  ],
+  "Talking Torches": [
+    "talking-torches"
+  ],
+  "Tamer's Whip": [
+    "tamers-whip"
+  ],
+  "Tarian Graddfeydd Ddraig": [
+    "tarian-graddfeydd-ddraig"
+  ],
+  "Teapot of Soothing": [
+    "teapot-of-soothing"
+  ],
+  "Tenebrous Flail of Screams": [
+    "tenebrous-flail-of-screams"
+  ],
+  "Tenebrous Mantle": [
+    "tenebrous-mantle"
+  ],
+  "That Which Spies From Infinity’s True Name": [
+    "that-which-spies-from-infinitys-true-name-a5e"
+  ],
+  "The Song of Creation": [
+    "the-song-of-creation-a5e"
+  ],
+  "The Traveling Chest": [
+    "the-traveling-chest-a5e"
+  ],
+  "Thirsting Scalpel": [
+    "thirsting-scalpel"
+  ],
+  "Thirsting Thorn": [
+    "thirsting-thorn"
+  ],
+  "Thornish Nocturnal": [
+    "thornish-nocturnal"
+  ],
+  "Three-Section Boots": [
+    "three-section-boots"
+  ],
+  "Throttler's Gauntlets": [
+    "throttlers-gauntlets"
+  ],
+  "Thunderous Kazoo": [
+    "thunderous-kazoo"
+  ],
+  "Tick Stop Watch": [
+    "tick-stop-watch"
+  ],
+  "Timekeeper Gremlin": [
+    "timekeeper-gremlin-a5e"
+  ],
+  "Timeworn Timepiece": [
+    "timeworn-timepiece"
+  ],
+  "Tincture of Moonlit Blossom": [
+    "tincture-of-moonlit-blossom"
+  ],
+  "Tipstaff": [
+    "tipstaff"
+  ],
+  "Tome of Clear Thought": [
+    "tome-of-clear-thought",
+    "tome-of-clear-thought-a5e"
+  ],
+  "Tome of Knowledge": [
+    "tome-of-knowledge"
+  ],
+  "Tome of Leadership and Influence": [
+    "tome-of-leadership-and-influence",
+    "tome-of-leadership-and-influence-a5e"
+  ],
+  "Tome of the Endless Tale": [
+    "tome-of-the-endless-tale-a5e"
+  ],
+  "Tome of the Spellblade": [
+    "tome-of-the-spellblade-a5e"
+  ],
+  "Tome of Triumphant Tavern Keeping": [
+    "tome-of-triumphant-tavern-keeping-a5e"
+  ],
+  "Tome of Understanding": [
+    "tome-of-understanding",
+    "tome-of-understanding-a5e"
+  ],
+  "Tonic for the Troubled Mind": [
+    "tonic-for-the-troubled-mind"
+  ],
+  "Tonic of Blandness": [
+    "tonic-of-blandness"
+  ],
+  "Tools of the Hidden Hand": [
+    "tools-of-the-hidden-hand-a5e"
+  ],
+  "Toothsome Purse": [
+    "toothsome-purse"
+  ],
+  "Torc of the Comet": [
+    "torc-of-the-comet"
+  ],
+  "Tracking Dart": [
+    "tracking-dart"
+  ],
+  "Transforming Cloak": [
+    "transforming-cloak-a5e"
+  ],
+  "Transforming Wand": [
+    "transforming-wand-a5e"
+  ],
+  "Treebleed Bucket": [
+    "treebleed-bucket"
+  ],
+  "Trick Shot Mirror": [
+    "trick-shot-mirror"
+  ],
+  "Trident of Fish Command": [
+    "trident-of-fish-command",
+    "trident-of-fish-command-a5e"
+  ],
+  "Trident of the Vortex": [
+    "trident-of-the-vortex"
+  ],
+  "Trident of the Yearning Tide": [
+    "trident-of-the-yearning-tide"
+  ],
+  "Troll Skin Armor": [
+    "troll-skin-armor"
+  ],
+  "Trollsblood Elixir": [
+    "trollsblood-elixir"
+  ],
+  "True Weight Gloves": [
+    "true-weight-gloves-a5e"
+  ],
+  "Tyrant’s Teeth": [
+    "tyrants-teeth-a5e"
+  ],
+  "Tyrant's Whip": [
+    "tyrants-whip"
+  ],
+  "Tyrfing, the Thrice-Cursed Sword of Tragedy": [
+    "tyrfing-the-thrice-cursed-sword-of-tragedy-a5e"
+  ],
+  "Umber Beans": [
+    "umber-beans"
+  ],
+  "Umbral Band": [
+    "umbral-band"
+  ],
+  "Umbral Chopper": [
+    "umbral-chopper"
+  ],
+  "Umbral Lantern": [
+    "umbral-lantern"
+  ],
+  "Umbral Staff": [
+    "umbral-staff"
+  ],
+  "Undine Plate": [
+    "undine-plate"
+  ],
+  "Unerring Dowsing Rod": [
+    "unerring-dowsing-rod"
+  ],
+  "Universal Solvent": [
+    "universal-solvent",
+    "universal-solvent-a5e"
+  ],
+  "Unliving Rune": [
+    "unliving-rune-a5e"
+  ],
+  "Unparalleled Pianoforte": [
+    "unparalleled-pianoforte-a5e"
+  ],
+  "Unquiet Dagger": [
+    "unquiet-dagger"
+  ],
+  "Unseelie Staff": [
+    "unseelie-staff"
+  ],
+  "Unstable Bombard": [
+    "unstable-bombard"
+  ],
+  "Useful Top Hat": [
+    "useful-top-hat-a5e"
+  ],
+  "Valkyrie's Bite": [
+    "valkyries-bite"
+  ],
+  "Veil of Fate": [
+    "veil-of-fate-a5e"
+  ],
+  "Vekeshi Blade": [
+    "vekeshi-blade-a5e"
+  ],
+  "Vengeful Coat": [
+    "vengeful-coat"
+  ],
+  "Venomous Fangs": [
+    "venomous-fangs"
+  ],
+  "Verdant Elixir": [
+    "verdant-elixir"
+  ],
+  "Verdant Fang": [
+    "verdant-fang-a5e"
+  ],
+  "Verminous Snipsnaps": [
+    "verminous-snipsnaps"
+  ],
+  "Verses of Vengeance": [
+    "verses-of-vengeance"
+  ],
+  "Vessel of Deadly Venoms": [
+    "vessel-of-deadly-venoms"
+  ],
+  "Vestments of the Bleak Shinobi": [
+    "vestments-of-the-bleak-shinobi"
+  ],
+  "Vial of Beauty": [
+    "vial-of-beauty-a5e"
+  ],
+  "Vial of Sunlight": [
+    "vial-of-sunlight"
+  ],
+  "Vicious Weapon": [
+    "vicious-weapon",
+    "vicious-weapon-a5e"
+  ],
+  "Victory Banner": [
+    "victory-banner"
+  ],
+  "Vielle of Weirding and Warding": [
+    "vielle-of-weirding-and-warding"
+  ],
+  "Vigilant Mug": [
+    "vigilant-mug"
+  ],
+  "Vile Razor": [
+    "vile-razor"
+  ],
+  "Void-Touched Buckler": [
+    "void-touched-buckler"
+  ],
+  "Voidskin Cloak": [
+    "voidskin-cloak"
+  ],
+  "Voidwalker": [
+    "voidwalker"
+  ],
+  "Vorpal Sword": [
+    "vorpal-sword",
+    "vorpal-sword-a5e"
+  ],
+  "Walking Chicken Hut": [
+    "walking-chicken-hut-a5e"
+  ],
+  "Wand of Accompaniment": [
+    "wand-of-accompaniment"
+  ],
+  "Wand of Air Glyphs": [
+    "wand-of-air-glyphs"
+  ],
+  "Wand of Binding": [
+    "wand-of-binding",
+    "wand-of-binding-a5e"
+  ],
+  "Wand of Bristles": [
+    "wand-of-bristles"
+  ],
+  "Wand of Cobwebs": [
+    "wand-of-cobwebs-a5e"
+  ],
+  "Wand of Depth Detection": [
+    "wand-of-depth-detection"
+  ],
+  "Wand of Direction": [
+    "wand-of-direction"
+  ],
+  "Wand of Drowning": [
+    "wand-of-drowning"
+  ],
+  "Wand of Elocution": [
+    "wand-of-elocution-a5e"
+  ],
+  "Wand of Enemy Detection": [
+    "wand-of-enemy-detection",
+    "wand-of-enemy-detection-a5e"
+  ],
+  "Wand of Erudition": [
+    "wand-of-erudition-a5e"
+  ],
+  "Wand of Extinguishing": [
+    "wand-of-extinguishing"
+  ],
+  "Wand of Fear": [
+    "wand-of-fear",
+    "wand-of-fear-a5e"
+  ],
+  "Wand of Fermentation": [
+    "wand-of-fermentation"
+  ],
+  "Wand of Fireballs": [
+    "wand-of-fireballs",
+    "wand-of-fireballs-a5e"
+  ],
+  "Wand of Flame Control": [
+    "wand-of-flame-control"
+  ],
+  "Wand of Giggles": [
+    "wand-of-giggles"
+  ],
+  "Wand of Guidance": [
+    "wand-of-guidance"
+  ],
+  "Wand of Harrowing": [
+    "wand-of-harrowing"
+  ],
+  "Wand of Ignition": [
+    "wand-of-ignition"
+  ],
+  "Wand of Lightning Bolts": [
+    "wand-of-lightning-bolts",
+    "wand-of-lightning-bolts-a5e"
+  ],
+  "Wand of Magic Detection": [
+    "wand-of-magic-detection",
+    "wand-of-magic-detection-a5e"
+  ],
+  "Wand of Magic Missile": [
+    "wand-of-magic-missile-a5e"
+  ],
+  "Wand of Magic Missiles": [
+    "wand-of-magic-missiles"
+  ],
+  "Wand of Paralysis": [
+    "wand-of-paralysis",
+    "wand-of-paralysis-a5e"
+  ],
+  "Wand of Plant Destruction": [
+    "wand-of-plant-destruction"
+  ],
+  "Wand of Polymorph": [
+    "wand-of-polymorph",
+    "wand-of-polymorph-a5e"
+  ],
+  "Wand of Relieved Burdens": [
+    "wand-of-relieved-burdens"
+  ],
+  "Wand of Resistance": [
+    "wand-of-resistance"
+  ],
+  "Wand of Revealing": [
+    "wand-of-revealing"
+  ],
+  "Wand of Secrets": [
+    "wand-of-secrets",
+    "wand-of-secrets-a5e"
+  ],
+  "Wand of Tears": [
+    "wand-of-tears"
+  ],
+  "Wand of the Scribe": [
+    "wand-of-the-scribe-a5e"
+  ],
+  "Wand of the Timekeeper": [
+    "wand-of-the-timekeeper"
+  ],
+  "Wand of the War Mage, +1, +2, or +3": [
+    "wand-of-the-war-mage-1-2-or-3"
+  ],
+  "Wand of the War Mage +1": [
+    "wand-of-the-war-mage-1-a5e"
+  ],
+  "Wand of the War Mage +2": [
+    "wand-of-the-war-mage-2-a5e"
+  ],
+  "Wand of the War Mage +3": [
+    "wand-of-the-war-mage-3-a5e"
+  ],
+  "Wand of Treasure Finding": [
+    "wand-of-treasure-finding"
+  ],
+  "Wand of Vapors": [
+    "wand-of-vapors"
+  ],
+  "Wand of Web": [
+    "wand-of-web",
+    "wand-of-web-a5e"
+  ],
+  "Wand of Windows": [
+    "wand-of-windows"
+  ],
+  "Wand of Wonder": [
+    "wand-of-wonder",
+    "wand-of-wonder-a5e"
+  ],
+  "Ward Against Wild Appetites": [
+    "ward-against-wild-appetites"
+  ],
+  "Warding Icon": [
+    "warding-icon"
+  ],
+  "Warlock's Aegis": [
+    "warlocks-aegis"
+  ],
+  "Warpblade": [
+    "warpblade-a5e"
+  ],
+  "Water Charm": [
+    "water-charm-a5e"
+  ],
+  "Wave Chain Mail": [
+    "wave-chain-mail"
+  ],
+  "Wayfarer's Candle": [
+    "wayfarers-candle"
+  ],
+  "Waystone": [
+    "waystone-a5e"
+  ],
+  "Weapon, +1, +2, or +3": [
+    "weapon-1-2-or-3"
+  ],
+  "Weapon +1": [
+    "weapon-1-a5e"
+  ],
+  "Weapon +2": [
+    "weapon-2-a5e"
+  ],
+  "Weapon +3": [
+    "weapon-3-a5e"
+  ],
+  "Web Arrows": [
+    "web-arrows"
+  ],
+  "Webbed Staff": [
+    "webbed-staff"
+  ],
+  "Well of Many Worlds": [
+    "well-of-many-worlds",
+    "well-of-many-worlds-a5e"
+  ],
+  "Whetstone of Tudwal Tudglyd": [
+    "whetstone-of-tudwal-tudglyd-a5e"
+  ],
+  "Whip of Fangs": [
+    "whip-of-fangs"
+  ],
+  "Whip of the Blue Wyrm": [
+    "whip-of-the-blue-wyrm"
+  ],
+  "Whirlwind Bolas": [
+    "whirlwind-bolas"
+  ],
+  "Whispering Cloak": [
+    "whispering-cloak"
+  ],
+  "Whispering Powder": [
+    "whispering-powder"
+  ],
+  "Whispering Stones": [
+    "whispering-stones-a5e"
+  ],
+  "White Ape Hide": [
+    "white-ape-hide"
+  ],
+  "White Dandelion": [
+    "white-dandelion"
+  ],
+  "Wig of Styling": [
+    "wig-of-styling-a5e"
+  ],
+  "Wind Fan": [
+    "wind-fan",
+    "wind-fan-a5e"
+  ],
+  "Windwalker Boots": [
+    "windwalker-boots"
+  ],
+  "Winged Boots": [
+    "winged-boots",
+    "winged-boots-a5e"
+  ],
+  "Wings of Flying": [
+    "wings-of-flying",
+    "wings-of-flying-a5e"
+  ],
+  "Wings of Icarus": [
+    "wings-of-icarus-a5e"
+  ],
+  "Wisp of the Void": [
+    "wisp-of-the-void"
+  ],
+  "Witch Hunter's Armor": [
+    "witch-hunters-armor"
+  ],
+  "Witch Ward Bottle": [
+    "witch-ward-bottle"
+  ],
+  "Witch's Brew": [
+    "witchs-brew"
+  ],
+  "Witch's Circle": [
+    "witchs-circle"
+  ],
+  "Wolf Brush": [
+    "wolf-brush"
+  ],
+  "Wolfbite Ring": [
+    "wolfbite-ring"
+  ],
+  "Wood Woad Amulet": [
+    "wood-woad-amulet-a5e"
+  ],
+  "Worg Salve": [
+    "worg-salve"
+  ],
+  "Worry Stone": [
+    "worry-stone"
+  ],
+  "Wraithstone": [
+    "wraithstone"
+  ],
+  "Wrathful Vapors": [
+    "wrathful-vapors"
+  ],
+  "Zephyr Shield": [
+    "zephyr-shield"
+  ],
+  "Ziphian Eye Amulet": [
+    "ziphian-eye-amulet"
+  ],
+  "Zipline Ring": [
+    "zipline-ring"
+  ],
+  "Zlick’s Message Cushion": [
+    "zlicks-message-cushion-a5e"
+  ],
+  "Battleaxe": [
+    "srd-2024_battleaxe",
+    "srd_battleaxe"
+  ],
+  "Blowgun": [
+    "srd-2024_blowgun",
+    "srd_blowgun"
+  ],
+  "Club": [
+    "srd-2024_club",
+    "srd_club"
+  ],
+  "Dagger": [
+    "srd-2024_dagger",
+    "srd_dagger"
+  ],
+  "Dart": [
+    "srd-2024_dart",
+    "srd_dart"
+  ],
+  "Flail": [
+    "srd-2024_flail",
+    "srd_flail"
+  ],
+  "Glaive": [
+    "srd-2024_glaive",
+    "srd_glaive"
+  ],
+  "Greataxe": [
+    "srd-2024_greataxe",
+    "srd_greataxe"
+  ],
+  "Greatclub": [
+    "srd-2024_greatclub",
+    "srd_greatclub"
+  ],
+  "Greatsword": [
+    "srd-2024_greatsword",
+    "srd_greatsword"
+  ],
+  "Halberd": [
+    "srd-2024_halberd",
+    "srd_halberd"
+  ],
+  "Hand Crossbow": [
+    "srd-2024_hand-crossbow"
+  ],
+  "Handaxe": [
+    "srd-2024_handaxe",
+    "srd_handaxe"
+  ],
+  "Heavy Crossbow": [
+    "srd-2024_heavy-crossbow"
+  ],
+  "Javelin": [
+    "srd-2024_javelin",
+    "srd_javelin"
+  ],
+  "Lance": [
+    "srd-2024_lance",
+    "srd_lance"
+  ],
+  "Light Crossbow": [
+    "srd-2024_light-crossbow"
+  ],
+  "Light Hammer": [
+    "srd-2024_light-hammer"
+  ],
+  "Longbow": [
+    "srd-2024_longbow",
+    "srd_longbow"
+  ],
+  "Longsword": [
+    "srd-2024_longsword",
+    "srd_longsword"
+  ],
+  "Mace": [
+    "srd-2024_mace",
+    "srd_mace"
+  ],
+  "Maul": [
+    "srd-2024_maul",
+    "srd_maul"
+  ],
+  "Morningstar": [
+    "srd-2024_morningstar",
+    "srd_morningstar"
+  ],
+  "Musket": [
+    "srd-2024_musket"
+  ],
+  "Pike": [
+    "srd-2024_pike",
+    "srd_pike"
+  ],
+  "Pistol": [
+    "srd-2024_pistol"
+  ],
+  "Quarterstaff": [
+    "srd-2024_quarterstaff",
+    "srd_quarterstaff"
+  ],
+  "Rapier": [
+    "srd-2024_rapier",
+    "srd_rapier"
+  ],
+  "Scimitar": [
+    "srd-2024_scimitar",
+    "srd_scimitar"
+  ],
+  "Shortbow": [
+    "srd-2024_shortbow",
+    "srd_shortbow"
+  ],
+  "Shortsword": [
+    "srd-2024_shortsword",
+    "srd_shortsword"
+  ],
+  "Sickle": [
+    "srd-2024_sickle",
+    "srd_sickle"
+  ],
+  "Sling": [
+    "srd-2024_sling",
+    "srd_sling"
+  ],
+  "Spear": [
+    "srd-2024_spear",
+    "srd_spear"
+  ],
+  "Trident": [
+    "srd-2024_trident",
+    "srd_trident"
+  ],
+  "War Pick": [
+    "srd-2024_war-pick",
+    "srd_war-pick"
+  ],
+  "Warhammer": [
+    "srd-2024_warhammer",
+    "srd_warhammer"
+  ],
+  "Whip": [
+    "srd-2024_whip",
+    "srd_whip"
+  ],
+  "Crossbow, hand": [
+    "srd_crossbow-hand"
+  ],
+  "Crossbow, heavy": [
+    "srd_crossbow-heavy"
+  ],
+  "Crossbow, light": [
+    "srd_crossbow-light"
+  ],
+  "Light hammer": [
+    "srd_light-hammer"
+  ],
+  "Net": [
+    "srd_net"
+  ],
+  "Breastplate": [
+    "srd-2024_breastplate",
+    "srd_breastplate"
+  ],
+  "Chain Mail": [
+    "srd-2024_chain-mail"
+  ],
+  "Chain Shirt": [
+    "srd-2024_chain-shirt"
+  ],
+  "Half Plate Armor": [
+    "srd-2024_half-plate-armor"
+  ],
+  "Hide Armor": [
+    "srd-2024_hide-armor"
+  ],
+  "Leather Armor": [
+    "srd-2024_leather-armor"
+  ],
+  "Padded Armor": [
+    "srd-2024_padded-armor"
+  ],
+  "Plate Armor": [
+    "srd-2024_plate-armor"
+  ],
+  "Ring Mail": [
+    "srd-2024_ring-mail"
+  ],
+  "Scale Mail": [
+    "srd-2024_scale-mail"
+  ],
+  "Shield": [
+    "srd-2024_shield"
+  ],
+  "Splint Armor": [
+    "srd-2024_splint-armor"
+  ],
+  "Studded Leather Armor": [
+    "srd-2024_studded-leather-armor"
+  ],
+  "Chain mail": [
+    "srd_chain-mail"
+  ],
+  "Chain shirt": [
+    "srd_chain-shirt"
+  ],
+  "Half plate": [
+    "srd_half-plate"
+  ],
+  "Hide": [
+    "srd_hide"
+  ],
+  "Leather": [
+    "srd_leather"
+  ],
+  "Padded": [
+    "srd_padded"
+  ],
+  "Plate": [
+    "srd_plate"
+  ],
+  "Ring mail": [
+    "srd_ring-mail"
+  ],
+  "Scale mail": [
+    "srd_scale-mail"
+  ],
+  "Splint": [
+    "srd_splint"
+  ],
+  "Studded leather": [
+    "srd_studded-leather"
+  ]
+}

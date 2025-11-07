@@ -1,0 +1,65 @@
+{
+  "Bloodied": [
+    "a5e-ag_bloodied"
+  ],
+  "Confused": [
+    "a5e-ag_confused"
+  ],
+  "Doomed": [
+    "a5e-ag_doomed"
+  ],
+  "Encumbered": [
+    "a5e-ag_encumbered"
+  ],
+  "Rattled": [
+    "a5e-ag_rattled"
+  ],
+  "Slowed": [
+    "a5e-ag_slowed"
+  ],
+  "Blinded": [
+    "blinded"
+  ],
+  "Charmed": [
+    "charmed"
+  ],
+  "Deafened": [
+    "deafened"
+  ],
+  "Exhaustion": [
+    "exhaustion"
+  ],
+  "Frightened": [
+    "frightened"
+  ],
+  "Grappled": [
+    "grappled"
+  ],
+  "Incapacitated": [
+    "incapacitated"
+  ],
+  "Invisible": [
+    "invisible"
+  ],
+  "Paralyzed": [
+    "paralyzed"
+  ],
+  "Petrified": [
+    "petrified"
+  ],
+  "Poisoned": [
+    "poisoned"
+  ],
+  "Prone": [
+    "prone"
+  ],
+  "Restrained": [
+    "restrained"
+  ],
+  "Stunned": [
+    "stunned"
+  ],
+  "Unconscious": [
+    "unconscious"
+  ]
+}

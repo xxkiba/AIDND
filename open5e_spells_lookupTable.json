@@ -1,0 +1,4068 @@
+{
+  "Accelerando": [
+    "a5e-ag_accelerando"
+  ],
+  "Acid Arrow": [
+    "a5e-ag_acid-arrow",
+    "srd-2024_acid-arrow",
+    "srd_acid-arrow"
+  ],
+  "Acid Splash": [
+    "a5e-ag_acid-splash",
+    "srd-2024_acid-splash",
+    "srd_acid-splash"
+  ],
+  "Aid": [
+    "a5e-ag_aid",
+    "srd-2024_aid",
+    "srd_aid"
+  ],
+  "Air Wave": [
+    "a5e-ag_air-wave"
+  ],
+  "Alarm": [
+    "a5e-ag_alarm",
+    "srd-2024_alarm",
+    "srd_alarm"
+  ],
+  "Alter Self": [
+    "a5e-ag_alter-self",
+    "srd-2024_alter-self",
+    "srd_alter-self"
+  ],
+  "Altered Strike": [
+    "a5e-ag_altered-strike"
+  ],
+  "Angel Paradox": [
+    "a5e-ag_angel-paradox"
+  ],
+  "Animal Friendship": [
+    "a5e-ag_animal-friendship",
+    "srd-2024_animal-friendship",
+    "srd_animal-friendship"
+  ],
+  "Animal Messenger": [
+    "a5e-ag_animal-messenger",
+    "srd-2024_animal-messenger",
+    "srd_animal-messenger"
+  ],
+  "Animal Shapes": [
+    "a5e-ag_animal-shapes",
+    "srd-2024_animal-shapes",
+    "srd_animal-shapes"
+  ],
+  "Animate Dead": [
+    "a5e-ag_animate-dead",
+    "srd-2024_animate-dead",
+    "srd_animate-dead"
+  ],
+  "Animate Objects": [
+    "a5e-ag_animate-objects",
+    "srd-2024_animate-objects",
+    "srd_animate-objects"
+  ],
+  "Antilife Shell": [
+    "a5e-ag_antilife-shell",
+    "srd-2024_antilife-shell",
+    "srd_antilife-shell"
+  ],
+  "Antimagic Field": [
+    "a5e-ag_antimagic-field",
+    "srd-2024_antimagic-field",
+    "srd_antimagic-field"
+  ],
+  "Antipathy/Sympathy": [
+    "a5e-ag_antipathysympathy",
+    "srd-2024_antipathysympathy",
+    "srd_antipathysympathy"
+  ],
+  "Arcane Eye": [
+    "a5e-ag_arcane-eye",
+    "srd-2024_arcane-eye",
+    "srd_arcane-eye"
+  ],
+  "Arcane Hand": [
+    "a5e-ag_arcane-hand",
+    "srd-2024_arcane-hand",
+    "srd_arcane-hand"
+  ],
+  "Arcane Lock": [
+    "a5e-ag_arcane-lock",
+    "srd-2024_arcane-lock",
+    "srd_arcane-lock"
+  ],
+  "Arcane Muscles": [
+    "a5e-ag_arcane-muscles"
+  ],
+  "Arcane Riposte": [
+    "a5e-ag_arcane-riposte"
+  ],
+  "Arcane Sword": [
+    "a5e-ag_arcane-sword",
+    "srd-2024_arcane-sword",
+    "srd_arcane-sword"
+  ],
+  "Arcanist's Magic Aura": [
+    "a5e-ag_arcanists-magic-aura",
+    "srd-2024_arcanists-magic-aura",
+    "srd_arcanists-magic-aura"
+  ],
+  "Aspect of the Moon": [
+    "a5e-ag_aspect-of-the-moon"
+  ],
+  "Astral Projection": [
+    "a5e-ag_astral-projection",
+    "srd-2024_astral-projection",
+    "srd_astral-projection"
+  ],
+  "Augury": [
+    "a5e-ag_augury",
+    "srd-2024_augury",
+    "srd_augury"
+  ],
+  "Awaken": [
+    "a5e-ag_awaken",
+    "srd-2024_awaken",
+    "srd_awaken"
+  ],
+  "Bane": [
+    "a5e-ag_bane",
+    "srd-2024_bane",
+    "srd_bane"
+  ],
+  "Banishment": [
+    "a5e-ag_banishment",
+    "srd-2024_banishment",
+    "srd_banishment"
+  ],
+  "Barkskin": [
+    "a5e-ag_barkskin",
+    "srd-2024_barkskin",
+    "srd_barkskin"
+  ],
+  "Battlecry Ballad": [
+    "a5e-ag_battlecry-ballad"
+  ],
+  "Beacon of Hope": [
+    "a5e-ag_beacon-of-hope",
+    "srd-2024_beacon-of-hope",
+    "srd_beacon-of-hope"
+  ],
+  "Bestow Curse": [
+    "a5e-ag_bestow-curse",
+    "srd-2024_bestow-curse",
+    "srd_bestow-curse"
+  ],
+  "Black Tentacles": [
+    "a5e-ag_black-tentacles",
+    "srd-2024_black-tentacles",
+    "srd_black-tentacles"
+  ],
+  "Blade Barrier": [
+    "a5e-ag_blade-barrier",
+    "srd-2024_blade-barrier",
+    "srd_blade-barrier"
+  ],
+  "Bless": [
+    "a5e-ag_bless",
+    "srd-2024_bless",
+    "srd_bless"
+  ],
+  "Blight": [
+    "a5e-ag_blight",
+    "srd-2024_blight",
+    "srd_blight"
+  ],
+  "Blindness/Deafness": [
+    "a5e-ag_blindnessdeafness",
+    "srd-2024_blindnessdeafness",
+    "srd_blindnessdeafness"
+  ],
+  "Blink": [
+    "a5e-ag_blink",
+    "srd-2024_blink",
+    "srd_blink"
+  ],
+  "Blood-Writ Bargain": [
+    "a5e-ag_blood-writ-bargain"
+  ],
+  "Blur": [
+    "a5e-ag_blur",
+    "srd-2024_blur",
+    "srd_blur"
+  ],
+  "Burning Hands": [
+    "a5e-ag_burning-hands",
+    "srd-2024_burning-hands",
+    "srd_burning-hands"
+  ],
+  "Calculate": [
+    "a5e-ag_calculate"
+  ],
+  "Calculated Retribution": [
+    "a5e-ag_calculated-retribution"
+  ],
+  "Call Lightning": [
+    "a5e-ag_call-lightning",
+    "srd-2024_call-lightning",
+    "srd_call-lightning"
+  ],
+  "Calm Emotions": [
+    "a5e-ag_calm-emotions",
+    "srd-2024_calm-emotions",
+    "srd_calm-emotions"
+  ],
+  "Ceremony": [
+    "a5e-ag_ceremony"
+  ],
+  "Chain Lightning": [
+    "a5e-ag_chain-lightning",
+    "srd-2024_chain-lightning",
+    "srd_chain-lightning"
+  ],
+  "Charm Monster": [
+    "a5e-ag_charm-monster",
+    "srd-2024_charm-monster"
+  ],
+  "Charm Person": [
+    "a5e-ag_charm-person",
+    "srd-2024_charm-person",
+    "srd_charm-person"
+  ],
+  "Chill Touch": [
+    "a5e-ag_chill-touch",
+    "srd-2024_chill-touch",
+    "srd_chill-touch"
+  ],
+  "Circle of Death": [
+    "a5e-ag_circle-of-death",
+    "srd-2024_circle-of-death",
+    "srd_circle-of-death"
+  ],
+  "Circular Breathing": [
+    "a5e-ag_circular-breathing"
+  ],
+  "Clairvoyance": [
+    "a5e-ag_clairvoyance",
+    "srd-2024_clairvoyance",
+    "srd_clairvoyance"
+  ],
+  "Clone": [
+    "a5e-ag_clone",
+    "srd-2024_clone",
+    "srd_clone"
+  ],
+  "Cloudkill": [
+    "a5e-ag_cloudkill",
+    "srd-2024_cloudkill",
+    "srd_cloudkill"
+  ],
+  "Cobra's Spit": [
+    "a5e-ag_cobras-spit"
+  ],
+  "Color Spray": [
+    "a5e-ag_color-spray",
+    "srd-2024_color-spray",
+    "srd_color-spray"
+  ],
+  "Command": [
+    "a5e-ag_command",
+    "srd-2024_command",
+    "srd_command"
+  ],
+  "Commune": [
+    "a5e-ag_commune",
+    "srd-2024_commune",
+    "srd_commune"
+  ],
+  "Commune with Nature": [
+    "a5e-ag_commune-with-nature",
+    "srd-2024_commune-with-nature",
+    "srd_commune-with-nature"
+  ],
+  "Comprehend Languages": [
+    "a5e-ag_comprehend-languages",
+    "srd-2024_comprehend-languages",
+    "srd_comprehend-languages"
+  ],
+  "Cone of Cold": [
+    "a5e-ag_cone-of-cold",
+    "srd-2024_cone-of-cold",
+    "srd_cone-of-cold"
+  ],
+  "Confusion": [
+    "a5e-ag_confusion",
+    "srd-2024_confusion",
+    "srd_confusion"
+  ],
+  "Conjure Animals": [
+    "a5e-ag_conjure-animals",
+    "srd-2024_conjure-animals",
+    "srd_conjure-animals"
+  ],
+  "Conjure Celestial": [
+    "a5e-ag_conjure-celestial",
+    "srd-2024_conjure-celestial",
+    "srd_conjure-celestial"
+  ],
+  "Conjure Elemental": [
+    "a5e-ag_conjure-elemental",
+    "srd-2024_conjure-elemental",
+    "srd_conjure-elemental"
+  ],
+  "Conjure Fey": [
+    "a5e-ag_conjure-fey",
+    "srd-2024_conjure-fey",
+    "srd_conjure-fey"
+  ],
+  "Conjure Minor Elementals": [
+    "a5e-ag_conjure-minor-elementals",
+    "srd-2024_conjure-minor-elementals",
+    "srd_conjure-minor-elementals"
+  ],
+  "Conjure Woodland Beings": [
+    "a5e-ag_conjure-woodland-beings",
+    "srd-2024_conjure-woodland-beings",
+    "srd_conjure-woodland-beings"
+  ],
+  "Contact Other Plane": [
+    "a5e-ag_contact-other-plane",
+    "srd-2024_contact-other-plane",
+    "srd_contact-other-plane"
+  ],
+  "Contagion": [
+    "a5e-ag_contagion",
+    "srd-2024_contagion",
+    "srd_contagion"
+  ],
+  "Contingency": [
+    "a5e-ag_contingency",
+    "srd-2024_contingency",
+    "srd_contingency"
+  ],
+  "Continual Flame": [
+    "a5e-ag_continual-flame",
+    "srd-2024_continual-flame",
+    "srd_continual-flame"
+  ],
+  "Control Water": [
+    "a5e-ag_control-water",
+    "srd-2024_control-water",
+    "srd_control-water"
+  ],
+  "Control Weather": [
+    "a5e-ag_control-weather",
+    "srd-2024_control-weather",
+    "srd_control-weather"
+  ],
+  "Corpse Explosion": [
+    "a5e-ag_corpse-explosion"
+  ],
+  "Counterspell": [
+    "a5e-ag_counterspell",
+    "srd-2024_counterspell",
+    "srd_counterspell"
+  ],
+  "Create Food and Water": [
+    "a5e-ag_create-food-and-water",
+    "srd-2024_create-food-and-water",
+    "srd_create-food-and-water"
+  ],
+  "Create or Destroy Water": [
+    "a5e-ag_create-or-destroy-water",
+    "srd-2024_create-or-destroy-water",
+    "srd_create-or-destroy-water"
+  ],
+  "Create Undead": [
+    "a5e-ag_create-undead",
+    "srd-2024_create-undead",
+    "srd_create-undead"
+  ],
+  "Creation": [
+    "a5e-ag_creation",
+    "srd-2024_creation",
+    "srd_creation"
+  ],
+  "Crushing Haymaker": [
+    "a5e-ag_crushing-haymaker"
+  ],
+  "Cure Wounds": [
+    "a5e-ag_cure-wounds",
+    "srd-2024_cure-wounds",
+    "srd_cure-wounds"
+  ],
+  "Dancing Lights": [
+    "a5e-ag_dancing-lights",
+    "srd-2024_dancing-lights",
+    "srd_dancing-lights"
+  ],
+  "Darklight": [
+    "a5e-ag_darklight"
+  ],
+  "Darkness": [
+    "a5e-ag_darkness",
+    "srd-2024_darkness",
+    "srd_darkness"
+  ],
+  "Darkvision": [
+    "a5e-ag_darkvision",
+    "srd-2024_darkvision",
+    "srd_darkvision"
+  ],
+  "Daylight": [
+    "a5e-ag_daylight",
+    "srd-2024_daylight",
+    "srd_daylight"
+  ],
+  "Deadweight": [
+    "a5e-ag_deadweight"
+  ],
+  "Death Ward": [
+    "a5e-ag_death-ward",
+    "srd-2024_death-ward",
+    "srd_death-ward"
+  ],
+  "Delayed Blast Fireball": [
+    "a5e-ag_delayed-blast-fireball",
+    "srd-2024_delayed-blast-fireball",
+    "srd_delayed-blast-fireball"
+  ],
+  "Demiplane": [
+    "a5e-ag_demiplane",
+    "srd-2024_demiplane",
+    "srd_demiplane"
+  ],
+  "Detect Evil and Good": [
+    "a5e-ag_detect-evil-and-good",
+    "srd-2024_detect-evil-and-good",
+    "srd_detect-evil-and-good"
+  ],
+  "Detect Magic": [
+    "a5e-ag_detect-magic",
+    "srd-2024_detect-magic",
+    "srd_detect-magic"
+  ],
+  "Detect Poison and Disease": [
+    "a5e-ag_detect-poison-and-disease",
+    "srd-2024_detect-poison-and-disease",
+    "srd_detect-poison-and-disease"
+  ],
+  "Detect Thoughts": [
+    "a5e-ag_detect-thoughts",
+    "srd-2024_detect-thoughts",
+    "srd_detect-thoughts"
+  ],
+  "Dimension Door": [
+    "a5e-ag_dimension-door",
+    "srd-2024_dimension-door",
+    "srd_dimension-door"
+  ],
+  "Disguise Self": [
+    "a5e-ag_disguise-self",
+    "srd-2024_disguise-self",
+    "srd_disguise-self"
+  ],
+  "Disintegrate": [
+    "a5e-ag_disintegrate",
+    "srd-2024_disintegrate",
+    "srd_disintegrate"
+  ],
+  "Dispel Evil and Good": [
+    "a5e-ag_dispel-evil-and-good",
+    "srd-2024_dispel-evil-and-good",
+    "srd_dispel-evil-and-good"
+  ],
+  "Dispel Magic": [
+    "a5e-ag_dispel-magic",
+    "srd-2024_dispel-magic",
+    "srd_dispel-magic"
+  ],
+  "Divination": [
+    "a5e-ag_divination",
+    "srd-2024_divination",
+    "srd_divination"
+  ],
+  "Divine Favor": [
+    "a5e-ag_divine-favor",
+    "srd-2024_divine-favor",
+    "srd_divine-favor"
+  ],
+  "Divine Word": [
+    "a5e-ag_divine-word",
+    "srd-2024_divine-word",
+    "srd_divine-word"
+  ],
+  "Dominate Beast": [
+    "a5e-ag_dominate-beast",
+    "srd-2024_dominate-beast",
+    "srd_dominate-beast"
+  ],
+  "Dominate Monster": [
+    "a5e-ag_dominate-monster",
+    "srd-2024_dominate-monster",
+    "srd_dominate-monster"
+  ],
+  "Dominate Person": [
+    "a5e-ag_dominate-person",
+    "srd-2024_dominate-person",
+    "srd_dominate-person"
+  ],
+  "Dramatic Sting": [
+    "a5e-ag_dramatic-sting"
+  ],
+  "Dream": [
+    "a5e-ag_dream",
+    "srd-2024_dream",
+    "srd_dream"
+  ],
+  "Druidcraft": [
+    "a5e-ag_druidcraft",
+    "srd-2024_druidcraft",
+    "srd_druidcraft"
+  ],
+  "Earth Barrier": [
+    "a5e-ag_earth-barrier"
+  ],
+  "Earthquake": [
+    "a5e-ag_earthquake",
+    "srd-2024_earthquake",
+    "srd_earthquake"
+  ],
+  "Eldritch Cube": [
+    "a5e-ag_eldritch-cube"
+  ],
+  "Enhance Ability": [
+    "a5e-ag_enhance-ability",
+    "srd-2024_enhance-ability",
+    "srd_enhance-ability"
+  ],
+  "Enlarge/Reduce": [
+    "a5e-ag_enlargereduce",
+    "srd-2024_enlargereduce",
+    "srd_enlargereduce"
+  ],
+  "Enrage Architecture": [
+    "a5e-ag_enrage-architecture"
+  ],
+  "Entangle": [
+    "a5e-ag_entangle",
+    "srd-2024_entangle",
+    "srd_entangle"
+  ],
+  "Enthrall": [
+    "a5e-ag_enthrall",
+    "srd-2024_enthrall",
+    "srd_enthrall"
+  ],
+  "Etherealness": [
+    "a5e-ag_etherealness",
+    "srd-2024_etherealness",
+    "srd_etherealness"
+  ],
+  "Expeditious Retreat": [
+    "a5e-ag_expeditious-retreat",
+    "srd-2024_expeditious-retreat",
+    "srd_expeditious-retreat"
+  ],
+  "Eyebite": [
+    "a5e-ag_eyebite",
+    "srd-2024_eyebite",
+    "srd_eyebite"
+  ],
+  "Fabricate": [
+    "a5e-ag_fabricate",
+    "srd-2024_fabricate",
+    "srd_fabricate"
+  ],
+  "Faerie Fire": [
+    "a5e-ag_faerie-fire",
+    "srd-2024_faerie-fire",
+    "srd_faerie-fire"
+  ],
+  "Faithful Hound": [
+    "a5e-ag_faithful-hound",
+    "srd-2024_faithful-hound",
+    "srd_faithful-hound"
+  ],
+  "False Life": [
+    "a5e-ag_false-life",
+    "srd-2024_false-life",
+    "srd_false-life"
+  ],
+  "Fear": [
+    "a5e-ag_fear",
+    "srd-2024_fear",
+    "srd_fear"
+  ],
+  "Feather Fall": [
+    "a5e-ag_feather-fall",
+    "srd-2024_feather-fall",
+    "srd_feather-fall"
+  ],
+  "Feeblemind": [
+    "a5e-ag_feeblemind",
+    "srd_feeblemind"
+  ],
+  "Find Familiar": [
+    "a5e-ag_find-familiar",
+    "srd-2024_find-familiar",
+    "srd_find-familiar"
+  ],
+  "Find Steed": [
+    "a5e-ag_find-steed",
+    "srd-2024_find-steed",
+    "srd_find-steed"
+  ],
+  "Find the Path": [
+    "a5e-ag_find-the-path",
+    "srd-2024_find-the-path",
+    "srd_find-the-path"
+  ],
+  "Find Traps": [
+    "a5e-ag_find-traps",
+    "srd-2024_find-traps",
+    "srd_find-traps"
+  ],
+  "Finger of Death": [
+    "a5e-ag_finger-of-death",
+    "srd-2024_finger-of-death",
+    "srd_finger-of-death"
+  ],
+  "Fire Bolt": [
+    "a5e-ag_fire-bolt",
+    "srd-2024_fire-bolt",
+    "srd_fire-bolt"
+  ],
+  "Fire Shield": [
+    "a5e-ag_fire-shield",
+    "srd-2024_fire-shield",
+    "srd_fire-shield"
+  ],
+  "Fire Storm": [
+    "a5e-ag_fire-storm",
+    "srd-2024_fire-storm",
+    "srd_fire-storm"
+  ],
+  "Fireball": [
+    "a5e-ag_fireball",
+    "srd-2024_fireball",
+    "srd_fireball"
+  ],
+  "Flame Blade": [
+    "a5e-ag_flame-blade",
+    "srd-2024_flame-blade",
+    "srd_flame-blade"
+  ],
+  "Flame Strike": [
+    "a5e-ag_flame-strike",
+    "srd-2024_flame-strike",
+    "srd_flame-strike"
+  ],
+  "Flaming Sphere": [
+    "a5e-ag_flaming-sphere",
+    "srd-2024_flaming-sphere",
+    "srd_flaming-sphere"
+  ],
+  "Flesh to Stone": [
+    "a5e-ag_flesh-to-stone",
+    "srd-2024_flesh-to-stone",
+    "srd_flesh-to-stone"
+  ],
+  "Flex": [
+    "a5e-ag_flex"
+  ],
+  "Floating Disk": [
+    "a5e-ag_floating-disk",
+    "srd-2024_floating-disk",
+    "srd_floating-disk"
+  ],
+  "Fly": [
+    "a5e-ag_fly",
+    "srd-2024_fly",
+    "srd_fly"
+  ],
+  "Fog Cloud": [
+    "a5e-ag_fog-cloud",
+    "srd-2024_fog-cloud",
+    "srd_fog-cloud"
+  ],
+  "Forbiddance": [
+    "a5e-ag_forbiddance",
+    "srd-2024_forbiddance",
+    "srd_forbiddance"
+  ],
+  "Force of Will": [
+    "a5e-ag_force-of-will"
+  ],
+  "Force Punch": [
+    "a5e-ag_force-punch"
+  ],
+  "Forcecage": [
+    "a5e-ag_forcecage",
+    "srd-2024_forcecage",
+    "srd_forcecage"
+  ],
+  "Foresight": [
+    "a5e-ag_foresight",
+    "srd-2024_foresight",
+    "srd_foresight"
+  ],
+  "Forest Army": [
+    "a5e-ag_forest-army"
+  ],
+  "Freedom of Movement": [
+    "a5e-ag_freedom-of-movement",
+    "srd-2024_freedom-of-movement",
+    "srd_freedom-of-movement"
+  ],
+  "Freezing Sphere": [
+    "a5e-ag_freezing-sphere",
+    "srd_freezing-sphere"
+  ],
+  "Friends": [
+    "a5e-ag_friends"
+  ],
+  "Gaseous Form": [
+    "a5e-ag_gaseous-form",
+    "srd-2024_gaseous-form",
+    "srd_gaseous-form"
+  ],
+  "Gate": [
+    "a5e-ag_gate",
+    "srd-2024_gate",
+    "srd_gate"
+  ],
+  "Geas": [
+    "a5e-ag_geas",
+    "srd-2024_geas",
+    "srd_geas"
+  ],
+  "Gentle Repose": [
+    "a5e-ag_gentle-repose",
+    "srd-2024_gentle-repose",
+    "srd_gentle-repose"
+  ],
+  "Giant Insect": [
+    "a5e-ag_giant-insect",
+    "srd-2024_giant-insect",
+    "srd_giant-insect"
+  ],
+  "Glibness": [
+    "a5e-ag_glibness",
+    "srd-2024_glibness",
+    "srd_glibness"
+  ],
+  "Globe of Invulnerability": [
+    "a5e-ag_globe-of-invulnerability",
+    "srd-2024_globe-of-invulnerability",
+    "srd_globe-of-invulnerability"
+  ],
+  "Glyph of Warding": [
+    "a5e-ag_glyph-of-warding",
+    "srd-2024_glyph-of-warding",
+    "srd_glyph-of-warding"
+  ],
+  "Goodberry": [
+    "a5e-ag_goodberry",
+    "srd-2024_goodberry",
+    "srd_goodberry"
+  ],
+  "Grapevine": [
+    "a5e-ag_grapevine"
+  ],
+  "Grease": [
+    "a5e-ag_grease",
+    "srd-2024_grease",
+    "srd_grease"
+  ],
+  "Greater Invisibility": [
+    "a5e-ag_greater-invisibility",
+    "srd-2024_greater-invisibility",
+    "srd_greater-invisibility"
+  ],
+  "Greater Restoration": [
+    "a5e-ag_greater-restoration",
+    "srd-2024_greater-restoration",
+    "srd_greater-restoration"
+  ],
+  "Guardian of Faith": [
+    "a5e-ag_guardian-of-faith",
+    "srd-2024_guardian-of-faith",
+    "srd_guardian-of-faith"
+  ],
+  "Guards and Wards": [
+    "a5e-ag_guards-and-wards",
+    "srd-2024_guards-and-wards",
+    "srd_guards-and-wards"
+  ],
+  "Guidance": [
+    "a5e-ag_guidance",
+    "srd-2024_guidance",
+    "srd_guidance"
+  ],
+  "Guiding Bolt": [
+    "a5e-ag_guiding-bolt",
+    "srd-2024_guiding-bolt",
+    "srd_guiding-bolt"
+  ],
+  "Gust of Wind": [
+    "a5e-ag_gust-of-wind",
+    "srd-2024_gust-of-wind",
+    "srd_gust-of-wind"
+  ],
+  "Hallow": [
+    "a5e-ag_hallow",
+    "srd-2024_hallow",
+    "srd_hallow"
+  ],
+  "Hallucinatory Terrain": [
+    "a5e-ag_hallucinatory-terrain",
+    "srd-2024_hallucinatory-terrain",
+    "srd_hallucinatory-terrain"
+  ],
+  "Harm": [
+    "a5e-ag_harm",
+    "srd-2024_harm",
+    "srd_harm"
+  ],
+  "Harmonic Resonance": [
+    "a5e-ag_harmonic-resonance"
+  ],
+  "Haste": [
+    "a5e-ag_haste",
+    "srd-2024_haste",
+    "srd_haste"
+  ],
+  "Heal": [
+    "a5e-ag_heal",
+    "srd-2024_heal",
+    "srd_heal"
+  ],
+  "Healing Word": [
+    "a5e-ag_healing-word",
+    "srd-2024_healing-word",
+    "srd_healing-word"
+  ],
+  "Heart of Dis": [
+    "a5e-ag_heart-of-dis"
+  ],
+  "Heat Metal": [
+    "a5e-ag_heat-metal",
+    "srd-2024_heat-metal",
+    "srd_heat-metal"
+  ],
+  "Heroes' Feast": [
+    "a5e-ag_heroes-feast",
+    "srd-2024_heroes-feast",
+    "srd_heroes-feast"
+  ],
+  "Heroism": [
+    "a5e-ag_heroism",
+    "srd-2024_heroism",
+    "srd_heroism"
+  ],
+  "Hideous Laughter": [
+    "a5e-ag_hideous-laughter",
+    "srd-2024_hideous-laughter",
+    "srd_hideous-laughter"
+  ],
+  "Hold Monster": [
+    "a5e-ag_hold-monster",
+    "srd-2024_hold-monster",
+    "srd_hold-monster"
+  ],
+  "Hold Person": [
+    "a5e-ag_hold-person",
+    "srd-2024_hold-person",
+    "srd_hold-person"
+  ],
+  "Holy Aura": [
+    "a5e-ag_holy-aura",
+    "srd-2024_holy-aura",
+    "srd_holy-aura"
+  ],
+  "Hypnotic Pattern": [
+    "a5e-ag_hypnotic-pattern",
+    "srd-2024_hypnotic-pattern",
+    "srd_hypnotic-pattern"
+  ],
+  "Ice Storm": [
+    "a5e-ag_ice-storm",
+    "srd-2024_ice-storm",
+    "srd_ice-storm"
+  ],
+  "Identify": [
+    "a5e-ag_identify",
+    "srd-2024_identify",
+    "srd_identify"
+  ],
+  "Illusory Script": [
+    "a5e-ag_illusory-script",
+    "srd-2024_illusory-script",
+    "srd_illusory-script"
+  ],
+  "Imprisonment": [
+    "a5e-ag_imprisonment",
+    "srd-2024_imprisonment",
+    "srd_imprisonment"
+  ],
+  "Incendiary Cloud": [
+    "a5e-ag_incendiary-cloud",
+    "srd-2024_incendiary-cloud",
+    "srd_incendiary-cloud"
+  ],
+  "Inescapable Malady": [
+    "a5e-ag_inescapable-malady"
+  ],
+  "Infernal Weapon": [
+    "a5e-ag_infernal-weapon"
+  ],
+  "Inflict Wounds": [
+    "a5e-ag_inflict-wounds",
+    "srd-2024_inflict-wounds",
+    "srd_inflict-wounds"
+  ],
+  "Insect Plague": [
+    "a5e-ag_insect-plague",
+    "srd-2024_insect-plague",
+    "srd_insect-plague"
+  ],
+  "Instant Summons": [
+    "a5e-ag_instant-summons",
+    "srd-2024_instant-summons",
+    "srd_instant-summons"
+  ],
+  "Invigorated Strikes": [
+    "a5e-ag_invigorated-strikes"
+  ],
+  "Invisibility": [
+    "a5e-ag_invisibility",
+    "srd-2024_invisibility",
+    "srd_invisibility"
+  ],
+  "Irresistible Dance": [
+    "a5e-ag_irresistible-dance",
+    "srd-2024_irresistible-dance",
+    "srd_irresistible-dance"
+  ],
+  "Jump": [
+    "a5e-ag_jump",
+    "srd-2024_jump",
+    "srd_jump"
+  ],
+  "Knock": [
+    "a5e-ag_knock",
+    "srd-2024_knock",
+    "srd_knock"
+  ],
+  "Legend Lore": [
+    "a5e-ag_legend-lore",
+    "srd-2024_legend-lore",
+    "srd_legend-lore"
+  ],
+  "Lemure Transformation": [
+    "a5e-ag_lemure-transformation"
+  ],
+  "Lesser Restoration": [
+    "a5e-ag_lesser-restoration",
+    "srd-2024_lesser-restoration",
+    "srd_lesser-restoration"
+  ],
+  "Levitate": [
+    "a5e-ag_levitate",
+    "srd-2024_levitate",
+    "srd_levitate"
+  ],
+  "Light": [
+    "a5e-ag_light",
+    "srd-2024_light",
+    "srd_light"
+  ],
+  "Lightning Bolt": [
+    "a5e-ag_lightning-bolt",
+    "srd-2024_lightning-bolt",
+    "srd_lightning-bolt"
+  ],
+  "Locate Animals or Plants": [
+    "a5e-ag_locate-animals-or-plants",
+    "srd-2024_locate-animals-or-plants",
+    "srd_locate-animals-or-plants"
+  ],
+  "Locate Creature": [
+    "a5e-ag_locate-creature",
+    "srd-2024_locate-creature",
+    "srd_locate-creature"
+  ],
+  "Locate Object": [
+    "a5e-ag_locate-object",
+    "srd-2024_locate-object",
+    "srd_locate-object"
+  ],
+  "Longstrider": [
+    "a5e-ag_longstrider",
+    "srd-2024_longstrider",
+    "srd_longstrider"
+  ],
+  "Mage Armor": [
+    "a5e-ag_mage-armor",
+    "srd-2024_mage-armor",
+    "srd_mage-armor"
+  ],
+  "Mage Hand": [
+    "a5e-ag_mage-hand",
+    "srd-2024_mage-hand",
+    "srd_mage-hand"
+  ],
+  "Magic Circle": [
+    "a5e-ag_magic-circle",
+    "srd-2024_magic-circle",
+    "srd_magic-circle"
+  ],
+  "Magic Jar": [
+    "a5e-ag_magic-jar",
+    "srd-2024_magic-jar",
+    "srd_magic-jar"
+  ],
+  "Magic Missile": [
+    "a5e-ag_magic-missile",
+    "srd-2024_magic-missile",
+    "srd_magic-missile"
+  ],
+  "Magic Mouth": [
+    "a5e-ag_magic-mouth",
+    "srd-2024_magic-mouth",
+    "srd_magic-mouth"
+  ],
+  "Magic Weapon": [
+    "a5e-ag_magic-weapon",
+    "srd-2024_magic-weapon",
+    "srd_magic-weapon"
+  ],
+  "Magnificent Mansion": [
+    "a5e-ag_magnificent-mansion",
+    "srd-2024_magnificent-mansion",
+    "srd_magnificent-mansion"
+  ],
+  "Major Image": [
+    "a5e-ag_major-image",
+    "srd-2024_major-image",
+    "srd_major-image"
+  ],
+  "Mass Cure Wounds": [
+    "a5e-ag_mass-cure-wounds",
+    "srd-2024_mass-cure-wounds",
+    "srd_mass-cure-wounds"
+  ],
+  "Mass Heal": [
+    "a5e-ag_mass-heal",
+    "srd-2024_mass-heal",
+    "srd_mass-heal"
+  ],
+  "Mass Healing Word": [
+    "a5e-ag_mass-healing-word",
+    "srd-2024_mass-healing-word",
+    "srd_mass-healing-word"
+  ],
+  "Mass Suggestion": [
+    "a5e-ag_mass-suggestion",
+    "srd-2024_mass-suggestion",
+    "srd_mass-suggestion"
+  ],
+  "Maze": [
+    "a5e-ag_maze",
+    "srd-2024_maze",
+    "srd_maze"
+  ],
+  "Meld Into Stone": [
+    "a5e-ag_meld-into-stone"
+  ],
+  "Mending": [
+    "a5e-ag_mending",
+    "srd-2024_mending",
+    "srd_mending"
+  ],
+  "Mental Grip": [
+    "a5e-ag_mental-grip"
+  ],
+  "Message": [
+    "a5e-ag_message",
+    "srd-2024_message",
+    "srd_message"
+  ],
+  "Meteor Swarm": [
+    "a5e-ag_meteor-swarm",
+    "srd-2024_meteor-swarm",
+    "srd_meteor-swarm"
+  ],
+  "Mind Blank": [
+    "a5e-ag_mind-blank",
+    "srd-2024_mind-blank",
+    "srd_mind-blank"
+  ],
+  "Mindshield": [
+    "a5e-ag_mindshield"
+  ],
+  "Minor Illusion": [
+    "a5e-ag_minor-illusion",
+    "srd-2024_minor-illusion",
+    "srd_minor-illusion"
+  ],
+  "Mirage Arcane": [
+    "a5e-ag_mirage-arcane",
+    "srd-2024_mirage-arcane",
+    "srd_mirage-arcane"
+  ],
+  "Mirror Image": [
+    "a5e-ag_mirror-image",
+    "srd-2024_mirror-image",
+    "srd_mirror-image"
+  ],
+  "Mislead": [
+    "a5e-ag_mislead",
+    "srd-2024_mislead",
+    "srd_mislead"
+  ],
+  "Misty Step": [
+    "a5e-ag_misty-step",
+    "srd-2024_misty-step",
+    "srd_misty-step"
+  ],
+  "Modify Memory": [
+    "a5e-ag_modify-memory",
+    "srd-2024_modify-memory",
+    "srd_modify-memory"
+  ],
+  "Moonbeam": [
+    "a5e-ag_moonbeam",
+    "srd-2024_moonbeam",
+    "srd_moonbeam"
+  ],
+  "Move Earth": [
+    "a5e-ag_move-earth",
+    "srd-2024_move-earth",
+    "srd_move-earth"
+  ],
+  "Nondetection": [
+    "a5e-ag_nondetection",
+    "srd-2024_nondetection",
+    "srd_nondetection"
+  ],
+  "Pass Without Trace": [
+    "a5e-ag_pass-without-trace"
+  ],
+  "Passwall": [
+    "a5e-ag_passwall",
+    "srd-2024_passwall",
+    "srd_passwall"
+  ],
+  "Pestilence": [
+    "a5e-ag_pestilence"
+  ],
+  "Phantasmal Killer": [
+    "a5e-ag_phantasmal-killer",
+    "srd-2024_phantasmal-killer",
+    "srd_phantasmal-killer"
+  ],
+  "Phantasmal Talons": [
+    "a5e-ag_phantasmal-talons"
+  ],
+  "Phantom Steed": [
+    "a5e-ag_phantom-steed",
+    "srd-2024_phantom-steed",
+    "srd_phantom-steed"
+  ],
+  "Planar Ally": [
+    "a5e-ag_planar-ally",
+    "srd-2024_planar-ally",
+    "srd_planar-ally"
+  ],
+  "Planar Binding": [
+    "a5e-ag_planar-binding",
+    "srd-2024_planar-binding",
+    "srd_planar-binding"
+  ],
+  "Plane Shift": [
+    "a5e-ag_plane-shift",
+    "srd-2024_plane-shift",
+    "srd_plane-shift"
+  ],
+  "Plant Growth": [
+    "a5e-ag_plant-growth",
+    "srd-2024_plant-growth",
+    "srd_plant-growth"
+  ],
+  "Poison Skin": [
+    "a5e-ag_poison-skin"
+  ],
+  "Polymorph": [
+    "a5e-ag_polymorph",
+    "srd-2024_polymorph",
+    "srd_polymorph"
+  ],
+  "Power Word Kill": [
+    "a5e-ag_power-word-kill",
+    "srd-2024_power-word-kill",
+    "srd_power-word-kill"
+  ],
+  "Power Word Stun": [
+    "a5e-ag_power-word-stun",
+    "srd-2024_power-word-stun",
+    "srd_power-word-stun"
+  ],
+  "Prayer of Healing": [
+    "a5e-ag_prayer-of-healing",
+    "srd-2024_prayer-of-healing",
+    "srd_prayer-of-healing"
+  ],
+  "Prestidigitation": [
+    "a5e-ag_prestidigitation",
+    "srd-2024_prestidigitation",
+    "srd_prestidigitation"
+  ],
+  "Prismatic Spray": [
+    "a5e-ag_prismatic-spray",
+    "srd-2024_prismatic-spray",
+    "srd_prismatic-spray"
+  ],
+  "Prismatic Wall": [
+    "a5e-ag_prismatic-wall",
+    "srd-2024_prismatic-wall",
+    "srd_prismatic-wall"
+  ],
+  "Private Sanctum": [
+    "a5e-ag_private-sanctum",
+    "srd-2024_private-sanctum",
+    "srd_private-sanctum"
+  ],
+  "Produce Flame": [
+    "a5e-ag_produce-flame",
+    "srd-2024_produce-flame",
+    "srd_produce-flame"
+  ],
+  "Programmed Illusion": [
+    "a5e-ag_programmed-illusion",
+    "srd-2024_programmed-illusion",
+    "srd_programmed-illusion"
+  ],
+  "Project Image": [
+    "a5e-ag_project-image",
+    "srd-2024_project-image",
+    "srd_project-image"
+  ],
+  "Protection from Energy": [
+    "a5e-ag_protection-from-energy",
+    "srd-2024_protection-from-energy",
+    "srd_protection-from-energy"
+  ],
+  "Protection from Evil and Good": [
+    "a5e-ag_protection-from-evil-and-good",
+    "srd-2024_protection-from-evil-and-good",
+    "srd_protection-from-evil-and-good"
+  ],
+  "Protection from Poison": [
+    "a5e-ag_protection-from-poison",
+    "srd-2024_protection-from-poison",
+    "srd_protection-from-poison"
+  ],
+  "Purify Food and Drink": [
+    "a5e-ag_purify-food-and-drink",
+    "srd-2024_purify-food-and-drink",
+    "srd_purify-food-and-drink"
+  ],
+  "Rage of the Meek": [
+    "a5e-ag_rage-of-the-meek"
+  ],
+  "Raise Dead": [
+    "a5e-ag_raise-dead",
+    "srd-2024_raise-dead",
+    "srd_raise-dead"
+  ],
+  "Raise Hell": [
+    "a5e-ag_raise-hell"
+  ],
+  "Ray of Enfeeblement": [
+    "a5e-ag_ray-of-enfeeblement",
+    "srd-2024_ray-of-enfeeblement",
+    "srd_ray-of-enfeeblement"
+  ],
+  "Ray of Frost": [
+    "a5e-ag_ray-of-frost",
+    "srd-2024_ray-of-frost",
+    "srd_ray-of-frost"
+  ],
+  "Regenerate": [
+    "a5e-ag_regenerate",
+    "srd-2024_regenerate",
+    "srd_regenerate"
+  ],
+  "Reincarnate": [
+    "a5e-ag_reincarnate",
+    "srd-2024_reincarnate",
+    "srd_reincarnate"
+  ],
+  "Remove Curse": [
+    "a5e-ag_remove-curse",
+    "srd-2024_remove-curse",
+    "srd_remove-curse"
+  ],
+  "Resilient Sphere": [
+    "a5e-ag_resilient-sphere",
+    "srd-2024_resilient-sphere",
+    "srd_resilient-sphere"
+  ],
+  "Resistance": [
+    "a5e-ag_resistance",
+    "srd-2024_resistance",
+    "srd_resistance"
+  ],
+  "Resurrection": [
+    "a5e-ag_resurrection",
+    "srd-2024_resurrection",
+    "srd_resurrection"
+  ],
+  "Reverse Gravity": [
+    "a5e-ag_reverse-gravity",
+    "srd-2024_reverse-gravity",
+    "srd_reverse-gravity"
+  ],
+  "Revivify": [
+    "a5e-ag_revivify",
+    "srd-2024_revivify",
+    "srd_revivify"
+  ],
+  "Rope Trick": [
+    "a5e-ag_rope-trick",
+    "srd-2024_rope-trick",
+    "srd_rope-trick"
+  ],
+  "Sacred Flame": [
+    "a5e-ag_sacred-flame",
+    "srd-2024_sacred-flame",
+    "srd_sacred-flame"
+  ],
+  "Sanctuary": [
+    "a5e-ag_sanctuary",
+    "srd-2024_sanctuary",
+    "srd_sanctuary"
+  ],
+  "Scorching Ray": [
+    "a5e-ag_scorching-ray",
+    "srd-2024_scorching-ray",
+    "srd_scorching-ray"
+  ],
+  "Scrying": [
+    "a5e-ag_scrying",
+    "srd-2024_scrying",
+    "srd_scrying"
+  ],
+  "Searing Equation": [
+    "a5e-ag_searing-equation"
+  ],
+  "Secret Chest": [
+    "a5e-ag_secret-chest",
+    "srd-2024_secret-chest",
+    "srd_secret-chest"
+  ],
+  "See Invisibility": [
+    "a5e-ag_see-invisibility",
+    "srd-2024_see-invisibility",
+    "srd_see-invisibility"
+  ],
+  "Seed Bomb": [
+    "a5e-ag_seed-bomb"
+  ],
+  "Seeming": [
+    "a5e-ag_seeming",
+    "srd-2024_seeming",
+    "srd_seeming"
+  ],
+  "Sending": [
+    "a5e-ag_sending",
+    "srd-2024_sending",
+    "srd_sending"
+  ],
+  "Sequester": [
+    "a5e-ag_sequester",
+    "srd-2024_sequester",
+    "srd_sequester"
+  ],
+  "Shapechange": [
+    "a5e-ag_shapechange",
+    "srd-2024_shapechange",
+    "srd_shapechange"
+  ],
+  "Shatter": [
+    "a5e-ag_shatter",
+    "srd-2024_shatter",
+    "srd_shatter"
+  ],
+  "Shattering Barrage": [
+    "a5e-ag_shattering-barrage"
+  ],
+  "Shield": [
+    "a5e-ag_shield",
+    "srd-2024_shield",
+    "srd_shield"
+  ],
+  "Shield of Faith": [
+    "a5e-ag_shield-of-faith",
+    "srd-2024_shield-of-faith",
+    "srd_shield-of-faith"
+  ],
+  "Shillelagh": [
+    "a5e-ag_shillelagh",
+    "srd-2024_shillelagh",
+    "srd_shillelagh"
+  ],
+  "Shocking Grasp": [
+    "a5e-ag_shocking-grasp",
+    "srd-2024_shocking-grasp",
+    "srd_shocking-grasp"
+  ],
+  "Silence": [
+    "a5e-ag_silence",
+    "srd-2024_silence",
+    "srd_silence"
+  ],
+  "Silent Image": [
+    "a5e-ag_silent-image",
+    "srd-2024_silent-image",
+    "srd_silent-image"
+  ],
+  "Simulacrum": [
+    "a5e-ag_simulacrum",
+    "srd-2024_simulacrum",
+    "srd_simulacrum"
+  ],
+  "Sleep": [
+    "a5e-ag_sleep",
+    "srd-2024_sleep",
+    "srd_sleep"
+  ],
+  "Sleet Storm": [
+    "a5e-ag_sleet-storm",
+    "srd-2024_sleet-storm",
+    "srd_sleet-storm"
+  ],
+  "Slow": [
+    "a5e-ag_slow",
+    "srd-2024_slow",
+    "srd_slow"
+  ],
+  "Soulwrought Fists": [
+    "a5e-ag_soulwrought-fists"
+  ],
+  "Spare the Dying": [
+    "a5e-ag_spare-the-dying",
+    "srd-2024_spare-the-dying",
+    "srd_spare-the-dying"
+  ],
+  "Speak with Animals": [
+    "a5e-ag_speak-with-animals",
+    "srd-2024_speak-with-animals",
+    "srd_speak-with-animals"
+  ],
+  "Speak with Dead": [
+    "a5e-ag_speak-with-dead",
+    "srd-2024_speak-with-dead",
+    "srd_speak-with-dead"
+  ],
+  "Speak with Plants": [
+    "a5e-ag_speak-with-plants",
+    "srd-2024_speak-with-plants",
+    "srd_speak-with-plants"
+  ],
+  "Spider Climb": [
+    "a5e-ag_spider-climb",
+    "srd-2024_spider-climb",
+    "srd_spider-climb"
+  ],
+  "Spike Growth": [
+    "a5e-ag_spike-growth",
+    "srd-2024_spike-growth",
+    "srd_spike-growth"
+  ],
+  "Spirit Guardians": [
+    "a5e-ag_spirit-guardians",
+    "srd-2024_spirit-guardians",
+    "srd_spirit-guardians"
+  ],
+  "Spiritual Weapon": [
+    "a5e-ag_spiritual-weapon",
+    "srd-2024_spiritual-weapon",
+    "srd_spiritual-weapon"
+  ],
+  "Sporesight": [
+    "a5e-ag_sporesight"
+  ],
+  "Stinking Cloud": [
+    "a5e-ag_stinking-cloud",
+    "srd-2024_stinking-cloud",
+    "srd_stinking-cloud"
+  ],
+  "Stone Shape": [
+    "a5e-ag_stone-shape",
+    "srd-2024_stone-shape",
+    "srd_stone-shape"
+  ],
+  "Stoneskin": [
+    "a5e-ag_stoneskin",
+    "srd-2024_stoneskin",
+    "srd_stoneskin"
+  ],
+  "Storm Kick": [
+    "a5e-ag_storm-kick"
+  ],
+  "Storm of Vengeance": [
+    "a5e-ag_storm-of-vengeance",
+    "srd-2024_storm-of-vengeance",
+    "srd_storm-of-vengeance"
+  ],
+  "Suggestion": [
+    "a5e-ag_suggestion",
+    "srd-2024_suggestion",
+    "srd_suggestion"
+  ],
+  "Sunbeam": [
+    "a5e-ag_sunbeam",
+    "srd-2024_sunbeam",
+    "srd_sunbeam"
+  ],
+  "Sunburst": [
+    "a5e-ag_sunburst",
+    "srd-2024_sunburst",
+    "srd_sunburst"
+  ],
+  "Symbol": [
+    "a5e-ag_symbol",
+    "srd-2024_symbol",
+    "srd_symbol"
+  ],
+  "Tearful Sonnet": [
+    "a5e-ag_tearful-sonnet"
+  ],
+  "Telekinesis": [
+    "a5e-ag_telekinesis",
+    "srd-2024_telekinesis",
+    "srd_telekinesis"
+  ],
+  "Telepathic Bond": [
+    "a5e-ag_telepathic-bond",
+    "srd-2024_telepathic-bond",
+    "srd_telepathic-bond"
+  ],
+  "Teleport": [
+    "a5e-ag_teleport",
+    "srd-2024_teleport",
+    "srd_teleport"
+  ],
+  "Teleportation Circle": [
+    "a5e-ag_teleportation-circle",
+    "srd-2024_teleportation-circle",
+    "srd_teleportation-circle"
+  ],
+  "Thaumaturgy": [
+    "a5e-ag_thaumaturgy",
+    "srd-2024_thaumaturgy",
+    "srd_thaumaturgy"
+  ],
+  "Thunderwave": [
+    "a5e-ag_thunderwave",
+    "srd_thunderwave"
+  ],
+  "Time Stop": [
+    "a5e-ag_time-stop",
+    "srd-2024_time-stop",
+    "srd_time-stop"
+  ],
+  "Tiny Hut": [
+    "a5e-ag_tiny-hut",
+    "srd-2024_tiny-hut",
+    "srd_tiny-hut"
+  ],
+  "Tongues": [
+    "a5e-ag_tongues",
+    "srd-2024_tongues",
+    "srd_tongues"
+  ],
+  "Transport via Plants": [
+    "a5e-ag_transport-via-plants",
+    "srd-2024_transport-via-plants",
+    "srd_transport-via-plants"
+  ],
+  "Traveler's Ward": [
+    "a5e-ag_travelers-ward"
+  ],
+  "Tree Stride": [
+    "a5e-ag_tree-stride",
+    "srd-2024_tree-stride",
+    "srd_tree-stride"
+  ],
+  "True Polymorph": [
+    "a5e-ag_true-polymorph",
+    "srd-2024_true-polymorph",
+    "srd_true-polymorph"
+  ],
+  "True Resurrection": [
+    "a5e-ag_true-resurrection",
+    "srd-2024_true-resurrection",
+    "srd_true-resurrection"
+  ],
+  "True Seeing": [
+    "a5e-ag_true-seeing",
+    "srd-2024_true-seeing",
+    "srd_true-seeing"
+  ],
+  "True Strike": [
+    "a5e-ag_true-strike",
+    "srd-2024_true-strike",
+    "srd_true-strike"
+  ],
+  "Unholy Star": [
+    "a5e-ag_unholy-star"
+  ],
+  "Unseen Servant": [
+    "a5e-ag_unseen-servant",
+    "srd-2024_unseen-servant",
+    "srd_unseen-servant"
+  ],
+  "Vampiric Touch": [
+    "a5e-ag_vampiric-touch",
+    "srd-2024_vampiric-touch",
+    "srd_vampiric-touch"
+  ],
+  "Venomous Succor": [
+    "a5e-ag_venomous-succor"
+  ],
+  "Vicious Mockery": [
+    "a5e-ag_vicious-mockery",
+    "srd-2024_vicious-mockery",
+    "srd_vicious-mockery"
+  ],
+  "Wall of Fire": [
+    "a5e-ag_wall-of-fire",
+    "srd-2024_wall-of-fire",
+    "srd_wall-of-fire"
+  ],
+  "Wall of Flesh": [
+    "a5e-ag_wall-of-flesh"
+  ],
+  "Wall of Force": [
+    "a5e-ag_wall-of-force",
+    "srd-2024_wall-of-force",
+    "srd_wall-of-force"
+  ],
+  "Wall of Ice": [
+    "a5e-ag_wall-of-ice",
+    "srd-2024_wall-of-ice",
+    "srd_wall-of-ice"
+  ],
+  "Wall of Stone": [
+    "a5e-ag_wall-of-stone",
+    "srd-2024_wall-of-stone",
+    "srd_wall-of-stone"
+  ],
+  "Wall of Thorns": [
+    "a5e-ag_wall-of-thorns",
+    "srd-2024_wall-of-thorns",
+    "srd_wall-of-thorns"
+  ],
+  "Warding Bond": [
+    "a5e-ag_warding-bond",
+    "srd-2024_warding-bond",
+    "srd_warding-bond"
+  ],
+  "Warrior's Instincts": [
+    "a5e-ag_warriors-instincts"
+  ],
+  "Water Breathing": [
+    "a5e-ag_water-breathing",
+    "srd-2024_water-breathing",
+    "srd_water-breathing"
+  ],
+  "Water Walk": [
+    "a5e-ag_water-walk",
+    "srd-2024_water-walk",
+    "srd_water-walk"
+  ],
+  "Web": [
+    "a5e-ag_web",
+    "srd-2024_web",
+    "srd_web"
+  ],
+  "Weird": [
+    "a5e-ag_weird",
+    "srd-2024_weird",
+    "srd_weird"
+  ],
+  "Whirlwind Kick": [
+    "a5e-ag_whirlwind-kick"
+  ],
+  "Wind Up": [
+    "a5e-ag_wind-up"
+  ],
+  "Wind Walk": [
+    "a5e-ag_wind-walk",
+    "srd-2024_wind-walk",
+    "srd_wind-walk"
+  ],
+  "Wind Wall": [
+    "a5e-ag_wind-wall",
+    "srd-2024_wind-wall",
+    "srd_wind-wall"
+  ],
+  "Wish": [
+    "a5e-ag_wish",
+    "srd-2024_wish",
+    "srd_wish"
+  ],
+  "Word of Recall": [
+    "a5e-ag_word-of-recall",
+    "srd-2024_word-of-recall",
+    "srd_word-of-recall"
+  ],
+  "Wormway": [
+    "a5e-ag_wormway"
+  ],
+  "Writhing Transformation": [
+    "a5e-ag_writhing-transformation"
+  ],
+  "Zone of Truth": [
+    "a5e-ag_zone-of-truth",
+    "srd-2024_zone-of-truth",
+    "srd_zone-of-truth"
+  ],
+  "Abhorrent Apparition": [
+    "deepm_abhorrent-apparition"
+  ],
+  "Accelerate": [
+    "deepm_accelerate"
+  ],
+  "Acid Gate": [
+    "deepm_acid-gate"
+  ],
+  "Acid Rain": [
+    "deepm_acid-rain"
+  ],
+  "Adjust Position": [
+    "deepm_adjust-position"
+  ],
+  "Afflict Line": [
+    "deepm_afflict-line"
+  ],
+  "Agonizing Mark": [
+    "deepm_agonizing-mark"
+  ],
+  "Alchemical Form": [
+    "deepm_alchemical-form"
+  ],
+  "Ale-dritch Blast": [
+    "deepm_ale-dritch-blast"
+  ],
+  "Ally Aegis": [
+    "deepm_ally-aegis"
+  ],
+  "Alone": [
+    "deepm_alone"
+  ],
+  "Alter Arrow’s Fortune": [
+    "deepm_alter-arrows-fortune"
+  ],
+  "Althea’s Travel Tent": [
+    "deepm_altheas-travel-tent"
+  ],
+  "Amplify Gravity": [
+    "deepm_amplify-gravity"
+  ],
+  "Analyze Device": [
+    "deepm_analyze-device"
+  ],
+  "Ancestor’s Strength": [
+    "deepm_ancestors-strength"
+  ],
+  "Anchoring Rope": [
+    "deepm_anchoring-rope"
+  ],
+  "Anchoring Rope (Reaction)": [
+    "deepm_anchoring-rope-reaction"
+  ],
+  "Ancient Shade": [
+    "deepm_ancient-shade"
+  ],
+  "Angelic Guardian": [
+    "deepm_angelic-guardian"
+  ],
+  "Animate Ghoul": [
+    "deepm_animate-ghoul"
+  ],
+  "Animate Greater Undead": [
+    "deepm_animate-greater-undead"
+  ],
+  "Animated Scroll": [
+    "deepm_animated-scroll"
+  ],
+  "Anticipate Arcana": [
+    "deepm_anticipate-arcana"
+  ],
+  "Anticipate Attack": [
+    "deepm_anticipate-attack"
+  ],
+  "Anticipate Weakness": [
+    "deepm_anticipate-weakness"
+  ],
+  "Arcane Sight": [
+    "deepm_arcane-sight"
+  ],
+  "As You Were": [
+    "deepm_as-you-were"
+  ],
+  "Ashen Memories": [
+    "deepm_ashen-memories"
+  ],
+  "Aspect of the Dragon": [
+    "deepm_aspect-of-the-dragon"
+  ],
+  "Aspect of the Serpent": [
+    "deepm_aspect-of-the-serpent"
+  ],
+  "Aura of Protection or Destruction": [
+    "deepm_aura-of-protection-or-destruction"
+  ],
+  "Auspicious Warning": [
+    "deepm_auspicious-warning"
+  ],
+  "Avoid Grievous Injury": [
+    "deepm_avoid-grievous-injury"
+  ],
+  "Avronin’s Astral Assembly": [
+    "deepm_avronins-astral-assembly"
+  ],
+  "Awaken Object": [
+    "deepm_awaken-object"
+  ],
+  "Bad Timing": [
+    "deepm_bad-timing"
+  ],
+  "Batsense": [
+    "deepm_batsense"
+  ],
+  "Become Nightwing": [
+    "deepm_become-nightwing"
+  ],
+  "Beguiling Bet": [
+    "deepm_beguiling-bet"
+  ],
+  "Benediction": [
+    "deepm_benediction"
+  ],
+  "Bestial Fury": [
+    "deepm_bestial-fury"
+  ],
+  "Binding Oath": [
+    "deepm_binding-oath"
+  ],
+  "Biting Arrow": [
+    "deepm_biting-arrow"
+  ],
+  "Bitter Chains": [
+    "deepm_bitter-chains"
+  ],
+  "Black Goat’s Blessing": [
+    "deepm_black-goats-blessing"
+  ],
+  "Black Hand": [
+    "deepm_black-hand"
+  ],
+  "Black Ribbons": [
+    "deepm_black-ribbons"
+  ],
+  "Black Sunshine": [
+    "deepm_black-sunshine"
+  ],
+  "Black Swan Storm": [
+    "deepm_black-swan-storm"
+  ],
+  "Black Well": [
+    "deepm_black-well"
+  ],
+  "Blade of my Brother": [
+    "deepm_blade-of-my-brother"
+  ],
+  "Blade of Wrath": [
+    "deepm_blade-of-wrath"
+  ],
+  "Blazing Chariot": [
+    "deepm_blazing-chariot"
+  ],
+  "Bleating Call": [
+    "deepm_bleating-call"
+  ],
+  "Bleed": [
+    "deepm_bleed"
+  ],
+  "Bless the Dead": [
+    "deepm_bless-the-dead"
+  ],
+  "Blessed Halo": [
+    "deepm_blessed-halo"
+  ],
+  "Blizzard": [
+    "deepm_blizzard"
+  ],
+  "Blood and Steel": [
+    "deepm_blood-and-steel"
+  ],
+  "Blood Armor": [
+    "deepm_blood-armor"
+  ],
+  "Blood Lure": [
+    "deepm_blood-lure"
+  ],
+  "Blood Offering": [
+    "deepm_blood-offering"
+  ],
+  "Blood Puppet": [
+    "deepm_blood-puppet"
+  ],
+  "Blood Scarab": [
+    "deepm_blood-scarab"
+  ],
+  "Blood Spoor": [
+    "deepm_blood-spoor"
+  ],
+  "Blood Tide": [
+    "deepm_blood-tide"
+  ],
+  "Blood to Acid": [
+    "deepm_blood-to-acid"
+  ],
+  "Bloodhound": [
+    "deepm_bloodhound"
+  ],
+  "Bloodshot": [
+    "deepm_bloodshot"
+  ],
+  "Bloody Hands": [
+    "deepm_bloody-hands"
+  ],
+  "Bloody Smite": [
+    "deepm_bloody-smite"
+  ],
+  "Bloom": [
+    "deepm_bloom"
+  ],
+  "Boiling Blood": [
+    "deepm_boiling-blood"
+  ],
+  "Boiling Oil": [
+    "deepm_boiling-oil"
+  ],
+  "Bolster Undead": [
+    "deepm_bolster-undead"
+  ],
+  "Booster Shot": [
+    "deepm_booster-shot"
+  ],
+  "Boreas’s Breath": [
+    "deepm_boreass-breath"
+  ],
+  "Bottled Arcana": [
+    "deepm_bottled-arcana"
+  ],
+  "Bottomless Stomach": [
+    "deepm_bottomless-stomach"
+  ],
+  "Breathtaking Wind": [
+    "deepm_breathtaking-wind"
+  ],
+  "Breeze Compass": [
+    "deepm_breeze-compass"
+  ],
+  "Brimstone Infusion": [
+    "deepm_brimstone-infusion"
+  ],
+  "Brittling": [
+    "deepm_brittling"
+  ],
+  "Broken Charge": [
+    "deepm_broken-charge"
+  ],
+  "By the Light of the Moon": [
+    "deepm_by-the-light-of-the-moon"
+  ],
+  "By the Light of the Watchful Moon": [
+    "deepm_by-the-light-of-the-watchful-moon"
+  ],
+  "Call Shadow Mastiff": [
+    "deepm_call-shadow-mastiff"
+  ],
+  "Calm of the Storm": [
+    "deepm_calm-of-the-storm"
+  ],
+  "Candle’s Insight": [
+    "deepm_candles-insight"
+  ],
+  "Carmello-Volta’s Irksome Preserves": [
+    "deepm_carmello-voltas-irksome-preserves"
+  ],
+  "Catapult": [
+    "deepm_catapult"
+  ],
+  "Catch the Breath": [
+    "deepm_catch-the-breath"
+  ],
+  "Caustic Blood": [
+    "deepm_caustic-blood"
+  ],
+  "Caustic Torrent": [
+    "deepm_caustic-torrent"
+  ],
+  "Caustic Touch": [
+    "deepm_caustic-touch"
+  ],
+  "Celebration": [
+    "deepm_celebration"
+  ],
+  "Chains of the Goddess": [
+    "deepm_chains-of-the-goddess"
+  ],
+  "Chains of Torment": [
+    "deepm_chains-of-torment"
+  ],
+  "Champion’s Weapon": [
+    "deepm_champions-weapon"
+  ],
+  "Chaotic Form": [
+    "deepm_chaotic-form"
+  ],
+  "Chaotic Vitality": [
+    "deepm_chaotic-vitality"
+  ],
+  "Chaotic World": [
+    "deepm_chaotic-world"
+  ],
+  "Chilling Words": [
+    "deepm_chilling-words"
+  ],
+  "Chronal Lance": [
+    "deepm_chronal-lance"
+  ],
+  "Circle of Wind": [
+    "deepm_circle-of-wind"
+  ],
+  "Clash of Glaciers": [
+    "deepm_clash-of-glaciers"
+  ],
+  "Claws of Darkness": [
+    "deepm_claws-of-darkness"
+  ],
+  "Claws of the Earth Dragon": [
+    "deepm_claws-of-the-earth-dragon"
+  ],
+  "Clearing the Field": [
+    "deepm_clearing-the-field"
+  ],
+  "Cloak of Shadow": [
+    "deepm_cloak-of-shadow"
+  ],
+  "Clockwork Bolt": [
+    "deepm_clockwork-bolt"
+  ],
+  "Closing In": [
+    "deepm_closing-in"
+  ],
+  "Cobra Fangs": [
+    "deepm_cobra-fangs"
+  ],
+  "Compelled Movement": [
+    "deepm_compelled-movement"
+  ],
+  "Compelling Fate": [
+    "deepm_compelling-fate"
+  ],
+  "Comprehend Wild Shape": [
+    "deepm_comprehend-wild-shape"
+  ],
+  "Confound Senses": [
+    "deepm_confound-senses"
+  ],
+  "Conjure Fey Hound": [
+    "deepm_conjure-fey-hound"
+  ],
+  "Conjure Forest Defender": [
+    "deepm_conjure-forest-defender"
+  ],
+  "Conjure Greater Spectral Dead": [
+    "deepm_conjure-greater-spectral-dead"
+  ],
+  "Conjure Minor Voidborn": [
+    "deepm_conjure-minor-voidborn"
+  ],
+  "Conjure Scarab Swarm": [
+    "deepm_conjure-scarab-swarm"
+  ],
+  "Conjure Shadow Titan": [
+    "deepm_conjure-shadow-titan"
+  ],
+  "Conjure Spectral Dead": [
+    "deepm_conjure-spectral-dead"
+  ],
+  "Conjure Undead": [
+    "deepm_conjure-undead"
+  ],
+  "Conjure Voidborn": [
+    "deepm_conjure-voidborn"
+  ],
+  "Consult the Storm": [
+    "deepm_consult-the-storm"
+  ],
+  "Converse With Dragon": [
+    "deepm_converse-with-dragon"
+  ],
+  "Costly Victory": [
+    "deepm_costly-victory"
+  ],
+  "Create Ring Servant": [
+    "deepm_create-ring-servant"
+  ],
+  "Create Thunderstaff": [
+    "deepm_create-thunderstaff"
+  ],
+  "Creeping Ice": [
+    "deepm_creeping-ice"
+  ],
+  "Crushing Curse": [
+    "deepm_crushing-curse"
+  ],
+  "Crushing Trample": [
+    "deepm_crushing-trample"
+  ],
+  "Cure Beast": [
+    "deepm_cure-beast"
+  ],
+  "Curse of Boreas": [
+    "deepm_curse-of-boreas"
+  ],
+  "Curse of Dust": [
+    "deepm_curse-of-dust"
+  ],
+  "Curse of Incompetence": [
+    "deepm_curse-of-incompetence"
+  ],
+  "Curse of the Grave": [
+    "deepm_curse-of-the-grave"
+  ],
+  "Curse of Yig": [
+    "deepm_curse-of-yig"
+  ],
+  "Curse Ring": [
+    "deepm_curse-ring"
+  ],
+  "Cursed Gift": [
+    "deepm_cursed-gift"
+  ],
+  "Cynophobia": [
+    "deepm_cynophobia"
+  ],
+  "Daggerhawk": [
+    "deepm_daggerhawk"
+  ],
+  "Dark Dementing": [
+    "deepm_dark-dementing"
+  ],
+  "Dark Heraldry": [
+    "deepm_dark-heraldry"
+  ],
+  "Dark Maw": [
+    "deepm_dark-maw"
+  ],
+  "Dark Path": [
+    "deepm_dark-path"
+  ],
+  "Darkbolt": [
+    "deepm_darkbolt"
+  ],
+  "Dead Walking": [
+    "deepm_dead-walking"
+  ],
+  "Deadly Sting": [
+    "deepm_deadly-sting"
+  ],
+  "Death God’s Touch": [
+    "deepm_death-gods-touch"
+  ],
+  "Decay": [
+    "deepm_decay"
+  ],
+  "Decelerate": [
+    "deepm_decelerate"
+  ],
+  "Deep Breath": [
+    "deepm_deep-breath"
+  ],
+  "Defile Healing": [
+    "deepm_defile-healing"
+  ],
+  "Delay Potion": [
+    "deepm_delay-potion"
+  ],
+  "Delayed Healing": [
+    "deepm_delayed-healing"
+  ],
+  "Demon Within": [
+    "deepm_demon-within"
+  ],
+  "Desiccating Breath": [
+    "deepm_desiccating-breath"
+  ],
+  "Desolation": [
+    "deepm_desolation"
+  ],
+  "Destructive Resonance": [
+    "deepm_destructive-resonance"
+  ],
+  "Detect Dragons": [
+    "deepm_detect-dragons"
+  ],
+  "Deva’s Wings": [
+    "deepm_devas-wings"
+  ],
+  "Dimensional Shove": [
+    "deepm_dimensional-shove"
+  ],
+  "Disquieting Gaze": [
+    "deepm_disquieting-gaze"
+  ],
+  "Disruptive Aura": [
+    "deepm_disruptive-aura"
+  ],
+  "Distracting Divination": [
+    "deepm_distracting-divination"
+  ],
+  "Distraction Cascade": [
+    "deepm_distraction-cascade"
+  ],
+  "Doom of Blue Crystal": [
+    "deepm_doom-of-blue-crystal"
+  ],
+  "Doom of Consuming Fire": [
+    "deepm_doom-of-consuming-fire"
+  ],
+  "Doom of Dancing Blades": [
+    "deepm_doom-of-dancing-blades"
+  ],
+  "Doom of Disenchantment": [
+    "deepm_doom-of-disenchantment"
+  ],
+  "Doom of Serpent Coils": [
+    "deepm_doom-of-serpent-coils"
+  ],
+  "Doom of the Cracked Shield": [
+    "deepm_doom-of-the-cracked-shield"
+  ],
+  "Doom of the Earthen Maw": [
+    "deepm_doom-of-the-earthen-maw"
+  ],
+  "Doom of the Slippery Rogue": [
+    "deepm_doom-of-the-slippery-rogue"
+  ],
+  "Douse Light": [
+    "deepm_douse-light"
+  ],
+  "Draconic Smite": [
+    "deepm_draconic-smite"
+  ],
+  "Dragon Breath": [
+    "deepm_dragon-breath"
+  ],
+  "Dragon Roar": [
+    "deepm_dragon-roar"
+  ],
+  "Drown": [
+    "deepm_drown"
+  ],
+  "Dryad’s Kiss": [
+    "deepm_dryads-kiss"
+  ],
+  "Earthskimmer": [
+    "deepm_earthskimmer"
+  ],
+  "Earworm Melody": [
+    "deepm_earworm-melody"
+  ],
+  "Echoes of Steel": [
+    "deepm_echoes-of-steel"
+  ],
+  "Ectoplasm": [
+    "deepm_ectoplasm"
+  ],
+  "Eidetic Memory": [
+    "deepm_eidetic-memory"
+  ],
+  "Eldritch Communion": [
+    "deepm_eldritch-communion"
+  ],
+  "Elemental Horns": [
+    "deepm_elemental-horns"
+  ],
+  "Elemental Twist": [
+    "deepm_elemental-twist"
+  ],
+  "Emanation of Yoth": [
+    "deepm_emanation-of-yoth"
+  ],
+  "Enchant Ring": [
+    "deepm_enchant-ring"
+  ],
+  "Encroaching Shadows": [
+    "deepm_encroaching-shadows"
+  ],
+  "Encrypt / Decrypt": [
+    "deepm_encrypt-decrypt"
+  ],
+  "Endow Attribute": [
+    "deepm_endow-attribute"
+  ],
+  "Energy Absorption": [
+    "deepm_energy-absorption"
+  ],
+  "Energy Foreknowledge": [
+    "deepm_energy-foreknowledge"
+  ],
+  "Enhance Greed": [
+    "deepm_enhance-greed"
+  ],
+  "Entomb": [
+    "deepm_entomb"
+  ],
+  "Entropic Damage Field": [
+    "deepm_entropic-damage-field"
+  ],
+  "Essence Instability": [
+    "deepm_essence-instability"
+  ],
+  "Evercold": [
+    "deepm_evercold"
+  ],
+  "Exsanguinate": [
+    "deepm_exsanguinate"
+  ],
+  "Exsanguinating Cloud": [
+    "deepm_exsanguinating-cloud"
+  ],
+  "Extract Knowledge": [
+    "deepm_extract-knowledge"
+  ],
+  "Fault Line": [
+    "deepm_fault-line"
+  ],
+  "Feather Field": [
+    "deepm_feather-field"
+  ],
+  "Feather Travel": [
+    "deepm_feather-travel"
+  ],
+  "Fey Crown": [
+    "deepm_fey-crown"
+  ],
+  "Find Kin": [
+    "deepm_find-kin"
+  ],
+  "Fire Darts": [
+    "deepm_fire-darts"
+  ],
+  "Fire Under the Tongue": [
+    "deepm_fire-under-the-tongue"
+  ],
+  "Firewalk": [
+    "deepm_firewalk"
+  ],
+  "Fist of Iron": [
+    "deepm_fist-of-iron"
+  ],
+  "Flame Wave": [
+    "deepm_flame-wave"
+  ],
+  "Flesh to Paper": [
+    "deepm_flesh-to-paper"
+  ],
+  "Flickering Fate": [
+    "deepm_flickering-fate"
+  ],
+  "Fluctuating Alignment": [
+    "deepm_fluctuating-alignment"
+  ],
+  "Flurry": [
+    "deepm_flurry"
+  ],
+  "Forest Native": [
+    "deepm_forest-native"
+  ],
+  "Forest Sanctuary": [
+    "deepm_forest-sanctuary"
+  ],
+  "Foretell Distraction": [
+    "deepm_foretell-distraction"
+  ],
+  "Form of the Gods": [
+    "deepm_form-of-the-gods"
+  ],
+  "Freeze Blood": [
+    "deepm_freeze-blood"
+  ],
+  "Freeze Potion": [
+    "deepm_freeze-potion"
+  ],
+  "Freezing Fog": [
+    "deepm_freezing-fog"
+  ],
+  "Frenzied Bolt": [
+    "deepm_frenzied-bolt"
+  ],
+  "Frostbite": [
+    "deepm_frostbite"
+  ],
+  "Frostbitten Fingers": [
+    "deepm_frostbitten-fingers"
+  ],
+  "Frozen Razors": [
+    "deepm_frozen-razors"
+  ],
+  "Furious Hooves": [
+    "deepm_furious-hooves"
+  ],
+  "Fusillade of Ice": [
+    "deepm_fusillade-of-ice"
+  ],
+  "Gear Barrage": [
+    "deepm_gear-barrage"
+  ],
+  "Ghoul King’s Cloak": [
+    "deepm_ghoul-kings-cloak"
+  ],
+  "Gird the Spirit": [
+    "deepm_gird-the-spirit"
+  ],
+  "Glacial Cascade": [
+    "deepm_glacial-cascade"
+  ],
+  "Glacial Fog": [
+    "deepm_glacial-fog"
+  ],
+  "Gliding Step": [
+    "deepm_gliding-step"
+  ],
+  "Glimpse of the Void": [
+    "deepm_glimpse-of-the-void"
+  ],
+  "Gloomwrought Barrier": [
+    "deepm_gloomwrought-barrier"
+  ],
+  "Gluey Globule": [
+    "deepm_gluey-globule"
+  ],
+  "Glyph of Shifting": [
+    "deepm_glyph-of-shifting"
+  ],
+  "Goat's Hoof Charm": [
+    "deepm_goats-hoof-charm"
+  ],
+  "Going in Circles": [
+    "deepm_going-in-circles"
+  ],
+  "Gordolay’s Pleasant Aroma": [
+    "deepm_gordolays-pleasant-aroma"
+  ],
+  "Grasp of the Tupilak": [
+    "deepm_grasp-of-the-tupilak"
+  ],
+  "Greater Maze": [
+    "deepm_greater-maze"
+  ],
+  "Greater Seal of Sanctuary": [
+    "deepm_greater-seal-of-sanctuary"
+  ],
+  "Green Decay": [
+    "deepm_green-decay"
+  ],
+  "Grudge Match": [
+    "deepm_grudge-match"
+  ],
+  "Guest of Honor": [
+    "deepm_guest-of-honor"
+  ],
+  "Guiding Star": [
+    "deepm_guiding-star"
+  ],
+  "Hamstring": [
+    "deepm_hamstring"
+  ],
+  "Hard Heart": [
+    "deepm_hard-heart"
+  ],
+  "Harry": [
+    "deepm_harry"
+  ],
+  "Harrying Hounds": [
+    "deepm_harrying-hounds"
+  ],
+  "Harsh Light of Summer’s Glare": [
+    "deepm_harsh-light-of-summers-glare"
+  ],
+  "Heart-Seeking Arrow": [
+    "deepm_heart-seeking-arrow"
+  ],
+  "Heart to Heart": [
+    "deepm_heart-to-heart"
+  ],
+  "Heartache": [
+    "deepm_heartache"
+  ],
+  "Heartstop": [
+    "deepm_heartstop"
+  ],
+  "Heartstrike": [
+    "deepm_heartstrike"
+  ],
+  "Heavenly Crown": [
+    "deepm_heavenly-crown"
+  ],
+  "Hedren’s Birds of Clay": [
+    "deepm_hedrens-birds-of-clay"
+  ],
+  "Hematomancy": [
+    "deepm_hematomancy"
+  ],
+  "Hero's Steel": [
+    "deepm_heros-steel"
+  ],
+  "Hide in One’s Shadow": [
+    "deepm_hide-in-ones-shadow"
+  ],
+  "Hoarfrost": [
+    "deepm_hoarfrost"
+  ],
+  "Hobble": [
+    "deepm_hobble"
+  ],
+  "Hobble Mount": [
+    "deepm_hobble-mount"
+  ],
+  "Holy Ground": [
+    "deepm_holy-ground"
+  ],
+  "Hone Blade": [
+    "deepm_hone-blade"
+  ],
+  "Hunger of Leng": [
+    "deepm_hunger-of-leng"
+  ],
+  "Hunter's Endurance": [
+    "deepm_hunters-endurance"
+  ],
+  "Hunting Stand": [
+    "deepm_hunting-stand"
+  ],
+  "Ice Fortress": [
+    "deepm_ice-fortress"
+  ],
+  "Ice Hammer": [
+    "deepm_ice-hammer"
+  ],
+  "Ice Soldiers": [
+    "deepm_ice-soldiers"
+  ],
+  "Icicle Daggers": [
+    "deepm_icicle-daggers"
+  ],
+  "Icy Grasp of the Void": [
+    "deepm_icy-grasp-of-the-void"
+  ],
+  "Icy Manipulation": [
+    "deepm_icy-manipulation"
+  ],
+  "Ill-Fated Word": [
+    "deepm_ill-fated-word"
+  ],
+  "Illuminate Spoor": [
+    "deepm_illuminate-spoor"
+  ],
+  "Impending Ally": [
+    "deepm_impending-ally"
+  ],
+  "Innocuous Aspect": [
+    "deepm_innocuous-aspect"
+  ],
+  "Insightful Maneuver": [
+    "deepm_insightful-maneuver"
+  ],
+  "Inspiring Speech": [
+    "deepm_inspiring-speech"
+  ],
+  "Instant Fortification": [
+    "deepm_instant-fortification"
+  ],
+  "Instant Siege Weapon": [
+    "deepm_instant-siege-weapon"
+  ],
+  "Instant Snare": [
+    "deepm_instant-snare"
+  ],
+  "Ire of the Mountain": [
+    "deepm_ire-of-the-mountain"
+  ],
+  "Iron Hand": [
+    "deepm_iron-hand"
+  ],
+  "Kareef’s Entreaty": [
+    "deepm_kareefs-entreaty"
+  ],
+  "Keening Wail": [
+    "deepm_keening-wail"
+  ],
+  "Killing Fields": [
+    "deepm_killing-fields"
+  ],
+  "Kiss of the Succubus": [
+    "deepm_kiss-of-the-succubus"
+  ],
+  "Kobold’s Fury": [
+    "deepm_kobolds-fury"
+  ],
+  "Labyrinth Mastery": [
+    "deepm_labyrinth-mastery"
+  ],
+  "Labyrinthine Howl": [
+    "deepm_labyrinthine-howl"
+  ],
+  "Lacerate": [
+    "deepm_lacerate"
+  ],
+  "Lair Sense": [
+    "deepm_lair-sense"
+  ],
+  "Last Rays of the Dying Sun": [
+    "deepm_last-rays-of-the-dying-sun"
+  ],
+  "Lava Stone": [
+    "deepm_lava-stone"
+  ],
+  "Lay to Rest": [
+    "deepm_lay-to-rest"
+  ],
+  "Legend Killer": [
+    "deepm_legend-killer"
+  ],
+  "Legion": [
+    "deepm_legion"
+  ],
+  "Legion of Rabid Squirrels": [
+    "deepm_legion-of-rabid-squirrels"
+  ],
+  "Lesser Maze": [
+    "deepm_lesser-maze"
+  ],
+  "Life Drain": [
+    "deepm_life-drain"
+  ],
+  "Life from Death": [
+    "deepm_life-from-death"
+  ],
+  "Life Hack": [
+    "deepm_life-hack"
+  ],
+  "Life Sense": [
+    "deepm_life-sense"
+  ],
+  "Life Transference Arrow": [
+    "deepm_life-transference-arrow"
+  ],
+  "Litany of Sure Hands": [
+    "deepm_litany-of-sure-hands"
+  ],
+  "Living Shadows": [
+    "deepm_living-shadows"
+  ],
+  "Lock Armor": [
+    "deepm_lock-armor"
+  ],
+  "Looping Trail": [
+    "deepm_looping-trail"
+  ],
+  "Lovesick": [
+    "deepm_lovesick"
+  ],
+  "Maddening Whispers": [
+    "deepm_maddening-whispers"
+  ],
+  "Maim": [
+    "deepm_maim"
+  ],
+  "Malevolent Waves": [
+    "deepm_malevolent-waves"
+  ],
+  "Mammon’s Due": [
+    "deepm_mammons-due"
+  ],
+  "Mark Prey": [
+    "deepm_mark-prey"
+  ],
+  "Mass Hobble Mount": [
+    "deepm_mass-hobble-mount"
+  ],
+  "Mass Surge Dampener": [
+    "deepm_mass-surge-dampener"
+  ],
+  "Maw of Needles": [
+    "deepm_maw-of-needles"
+  ],
+  "Memento Mori": [
+    "deepm_memento-mori"
+  ],
+  "Mephitic Croak": [
+    "deepm_mephitic-croak"
+  ],
+  "Mind Exchange": [
+    "deepm_mind-exchange"
+  ],
+  "Mire": [
+    "deepm_mire"
+  ],
+  "Misstep": [
+    "deepm_misstep"
+  ],
+  "Mist of Wonders": [
+    "deepm_mist-of-wonders"
+  ],
+  "Monstrous Empathy": [
+    "deepm_monstrous-empathy"
+  ],
+  "Moon Trap": [
+    "deepm_moon-trap"
+  ],
+  "Mosquito Bane": [
+    "deepm_mosquito-bane"
+  ],
+  "Mud Pack": [
+    "deepm_mud-pack"
+  ],
+  "Negative Image": [
+    "deepm_negative-image"
+  ],
+  "Nether Weapon": [
+    "deepm_nether-weapon"
+  ],
+  "Night Terrors": [
+    "deepm_night-terrors"
+  ],
+  "Nightfall": [
+    "deepm_nightfall"
+  ],
+  "Nip at the Heels": [
+    "deepm_nip-at-the-heels"
+  ],
+  "Not Dead Yet": [
+    "deepm_not-dead-yet"
+  ],
+  "Not This Day!": [
+    "deepm_not-this-day"
+  ],
+  "Orb of Light": [
+    "deepm_orb-of-light"
+  ],
+  "Outflanking Boon": [
+    "deepm_outflanking-boon"
+  ],
+  "Paragon of Chaos": [
+    "deepm_paragon-of-chaos"
+  ],
+  "Pendulum": [
+    "deepm_pendulum"
+  ],
+  "Phantom Dragon": [
+    "deepm_phantom-dragon"
+  ],
+  "Pitfall": [
+    "deepm_pitfall"
+  ],
+  "Poisoned Volley": [
+    "deepm_poisoned-volley"
+  ],
+  "Potency of the Pack": [
+    "deepm_potency-of-the-pack"
+  ],
+  "Power Word Kneel": [
+    "deepm_power-word-kneel"
+  ],
+  "Power Word Pain": [
+    "deepm_power-word-pain"
+  ],
+  "Primal Infusion": [
+    "deepm_primal-infusion"
+  ],
+  "Prismatic Ray": [
+    "deepm_prismatic-ray"
+  ],
+  "Protection from the Void": [
+    "deepm_protection-from-the-void"
+  ],
+  "Protective Ice": [
+    "deepm_protective-ice"
+  ],
+  "Puff of Smoke": [
+    "deepm_puff-of-smoke"
+  ],
+  "Pummelstone": [
+    "deepm_pummelstone"
+  ],
+  "Pyroclasm": [
+    "deepm_pyroclasm"
+  ],
+  "Quick Time": [
+    "deepm_quick-time"
+  ],
+  "Quicken": [
+    "deepm_quicken"
+  ],
+  "Quicksilver Mantle": [
+    "deepm_quicksilver-mantle"
+  ],
+  "Quintessence": [
+    "deepm_quintessence"
+  ],
+  "Raid the Lair": [
+    "deepm_raid-the-lair"
+  ],
+  "Rain of Blades": [
+    "deepm_rain-of-blades"
+  ],
+  "Ray of Alchemical Negation": [
+    "deepm_ray-of-alchemical-negation"
+  ],
+  "Ray of Life Suppression": [
+    "deepm_ray-of-life-suppression"
+  ],
+  "Reaver Spirit": [
+    "deepm_reaver-spirit"
+  ],
+  "Reposition": [
+    "deepm_reposition"
+  ],
+  "Reset": [
+    "deepm_reset"
+  ],
+  "Reverberate": [
+    "deepm_reverberate"
+  ],
+  "Revive Beast": [
+    "deepm_revive-beast"
+  ],
+  "Right the Stars": [
+    "deepm_right-the-stars"
+  ],
+  "Ring Strike": [
+    "deepm_ring-strike"
+  ],
+  "Ring Ward": [
+    "deepm_ring-ward"
+  ],
+  "Riptide": [
+    "deepm_riptide"
+  ],
+  "Rolling Thunder": [
+    "deepm_rolling-thunder"
+  ],
+  "Rotting Corpse": [
+    "deepm_rotting-corpse"
+  ],
+  "Rune of Imprisonment": [
+    "deepm_rune-of-imprisonment"
+  ],
+  "Salt Lash": [
+    "deepm_salt-lash"
+  ],
+  "Sand Ship": [
+    "deepm_sand-ship"
+  ],
+  "Sanguine Horror": [
+    "deepm_sanguine-horror"
+  ],
+  "Scale Rot": [
+    "deepm_scale-rot"
+  ],
+  "Scentless": [
+    "deepm_scentless"
+  ],
+  "Screaming Ray": [
+    "deepm_screaming-ray"
+  ],
+  "Scribe": [
+    "deepm_scribe"
+  ],
+  "Scry Ambush": [
+    "deepm_scry-ambush"
+  ],
+  "Sculpt Snow": [
+    "deepm_sculpt-snow"
+  ],
+  "Seal of Sanctuary": [
+    "deepm_seal-of-sanctuary"
+  ],
+  "Searing Sun": [
+    "deepm_searing-sun"
+  ],
+  "See Beyond": [
+    "deepm_see-beyond"
+  ],
+  "Seed of Destruction": [
+    "deepm_seed-of-destruction"
+  ],
+  "Seeping Death": [
+    "deepm_seeping-death"
+  ],
+  "Seer’s Reaction": [
+    "deepm_seers-reaction"
+  ],
+  "Semblance of Dread": [
+    "deepm_semblance-of-dread"
+  ],
+  "Shade": [
+    "deepm_shade"
+  ],
+  "Shadow Armor": [
+    "deepm_shadow-armor"
+  ],
+  "Shadow Bite": [
+    "deepm_shadow-bite"
+  ],
+  "Shadow Blindness": [
+    "deepm_shadow-blindness"
+  ],
+  "Shadow Hands": [
+    "deepm_shadow-hands"
+  ],
+  "Shadow Monsters": [
+    "deepm_shadow-monsters"
+  ],
+  "Shadow Puppets": [
+    "deepm_shadow-puppets"
+  ],
+  "Shadow Trove": [
+    "deepm_shadow-trove"
+  ],
+  "Shadows Brought to Light": [
+    "deepm_shadows-brought-to-light"
+  ],
+  "Shadowy Retribution": [
+    "deepm_shadowy-retribution"
+  ],
+  "Shared Sacrifice": [
+    "deepm_shared-sacrifice"
+  ],
+  "Sheen of Ice": [
+    "deepm_sheen-of-ice"
+  ],
+  "Shifting the Odds": [
+    "deepm_shifting-the-odds"
+  ],
+  "Shiver": [
+    "deepm_shiver"
+  ],
+  "Shroud of Death": [
+    "deepm_shroud-of-death"
+  ],
+  "Sidestep Arrow": [
+    "deepm_sidestep-arrow"
+  ],
+  "Sign of Koth": [
+    "deepm_sign-of-koth"
+  ],
+  "Silhouette": [
+    "deepm_silhouette"
+  ],
+  "Sir Mittinz’s Move Curse": [
+    "deepm_sir-mittinzs-move-curse"
+  ],
+  "Sleep of the Deep": [
+    "deepm_sleep-of-the-deep"
+  ],
+  "Slippery Fingers": [
+    "deepm_slippery-fingers"
+  ],
+  "Slither": [
+    "deepm_slither"
+  ],
+  "Snow Boulder": [
+    "deepm_snow-boulder"
+  ],
+  "Snow Fort": [
+    "deepm_snow-fort"
+  ],
+  "Snowy Coat": [
+    "deepm_snowy-coat"
+  ],
+  "Song of the Forest": [
+    "deepm_song-of-the-forest"
+  ],
+  "Speak with Inanimate Object": [
+    "deepm_speak-with-inanimate-object"
+  ],
+  "Spin": [
+    "deepm_spin"
+  ],
+  "Spinning Axes": [
+    "deepm_spinning-axes"
+  ],
+  "Spiteful Weapon": [
+    "deepm_spiteful-weapon"
+  ],
+  "Spur Mount": [
+    "deepm_spur-mount"
+  ],
+  "Staff of Violet Fire": [
+    "deepm_staff-of-violet-fire"
+  ],
+  "Stanch": [
+    "deepm_stanch"
+  ],
+  "Starburst": [
+    "deepm_starburst"
+  ],
+  "Starfall": [
+    "deepm_starfall"
+  ],
+  "Starry Vision": [
+    "deepm_starry-vision"
+  ],
+  "Star's Heart": [
+    "deepm_stars-heart"
+  ],
+  "Steal Warmth": [
+    "deepm_steal-warmth"
+  ],
+  "Steam Blast": [
+    "deepm_steam-blast"
+  ],
+  "Steam Whistle": [
+    "deepm_steam-whistle"
+  ],
+  "Stench of Rot": [
+    "deepm_stench-of-rot"
+  ],
+  "Storm of Wings": [
+    "deepm_storm-of-wings"
+  ],
+  "Sudden Dawn": [
+    "deepm_sudden-dawn"
+  ],
+  "Summon Eldritch Servitor": [
+    "deepm_summon-eldritch-servitor"
+  ],
+  "Summon Star": [
+    "deepm_summon-star"
+  ],
+  "Surge Dampener": [
+    "deepm_surge-dampener"
+  ],
+  "Surprise Blessing": [
+    "deepm_surprise-blessing"
+  ],
+  "Symbol of Sorcery": [
+    "deepm_symbol-of-sorcery"
+  ],
+  "Talons of a Hungry Land": [
+    "deepm_talons-of-a-hungry-land"
+  ],
+  "Targeting Foreknowledge": [
+    "deepm_targeting-foreknowledge"
+  ],
+  "Thin the Ice": [
+    "deepm_thin-the-ice"
+  ],
+  "Thousand Darts": [
+    "deepm_thousand-darts"
+  ],
+  "Throes of Ecstasy": [
+    "deepm_throes-of-ecstasy"
+  ],
+  "Thunder Bolt": [
+    "deepm_thunder-bolt"
+  ],
+  "Thunderclap": [
+    "deepm_thunderclap"
+  ],
+  "Thunderous Charge": [
+    "deepm_thunderous-charge"
+  ],
+  "Thunderous Stampede": [
+    "deepm_thunderous-stampede"
+  ],
+  "Thunderous Wave": [
+    "deepm_thunderous-wave"
+  ],
+  "Thunderstorm": [
+    "deepm_thunderstorm"
+  ],
+  "Tidal Barrier": [
+    "deepm_tidal-barrier"
+  ],
+  "Time in a Bottle": [
+    "deepm_time-in-a-bottle"
+  ],
+  "Time Jump": [
+    "deepm_time-jump"
+  ],
+  "Time Loop": [
+    "deepm_time-loop"
+  ],
+  "Time Slippage": [
+    "deepm_time-slippage"
+  ],
+  "Time Step": [
+    "deepm_time-step"
+  ],
+  "Time Vortex": [
+    "deepm_time-vortex"
+  ],
+  "Timely Distraction": [
+    "deepm_timely-distraction"
+  ],
+  "Tireless": [
+    "deepm_tireless"
+  ],
+  "Tongue of Sand": [
+    "deepm_tongue-of-sand"
+  ],
+  "Tongue Tied": [
+    "deepm_tongue-tied"
+  ],
+  "Torrent of Fire": [
+    "deepm_torrent-of-fire"
+  ],
+  "Touch of the Unliving": [
+    "deepm_touch-of-the-unliving"
+  ],
+  "Tracer": [
+    "deepm_tracer"
+  ],
+  "Treasure Chasm": [
+    "deepm_treasure-chasm"
+  ],
+  "Tree Heal": [
+    "deepm_tree-heal"
+  ],
+  "Tree Running": [
+    "deepm_tree-running"
+  ],
+  "Tree Speak": [
+    "deepm_tree-speak"
+  ],
+  "Trench": [
+    "deepm_trench"
+  ],
+  "Trick Question": [
+    "deepm_trick-question"
+  ],
+  "Triumph of Ice": [
+    "deepm_triumph-of-ice"
+  ],
+  "Twist the Skein": [
+    "deepm_twist-the-skein"
+  ],
+  "Umbral Storm": [
+    "deepm_umbral-storm"
+  ],
+  "Uncontrollable Transformation": [
+    "deepm_uncontrollable-transformation"
+  ],
+  "Undermine Armor": [
+    "deepm_undermine-armor"
+  ],
+  "Unholy Defiance": [
+    "deepm_unholy-defiance"
+  ],
+  "Unleash Effigy": [
+    "deepm_unleash-effigy"
+  ],
+  "Unluck On That": [
+    "deepm_unluck-on-that"
+  ],
+  "Unseen Strangler": [
+    "deepm_unseen-strangler"
+  ],
+  "Vine Trestle": [
+    "deepm_vine-trestle"
+  ],
+  "Visage of Madness": [
+    "deepm_visage-of-madness"
+  ],
+  "Vital Mark": [
+    "deepm_vital-mark"
+  ],
+  "Void Rift": [
+    "deepm_void-rift"
+  ],
+  "Void Strike": [
+    "deepm_void-strike"
+  ],
+  "Volley Shield": [
+    "deepm_volley-shield"
+  ],
+  "Vomit Tentacles": [
+    "deepm_vomit-tentacles"
+  ],
+  "Voorish Sign": [
+    "deepm_voorish-sign"
+  ],
+  "Waft": [
+    "deepm_waft"
+  ],
+  "Walk the Twisted Path": [
+    "deepm_walk-the-twisted-path"
+  ],
+  "Walking Wall": [
+    "deepm_walking-wall"
+  ],
+  "Wall of Time": [
+    "deepm_wall-of-time"
+  ],
+  "Warning Shout": [
+    "deepm_warning-shout"
+  ],
+  "Warp Mind and Matter": [
+    "deepm_warp-mind-and-matter"
+  ],
+  "Weapon of Blood": [
+    "deepm_weapon-of-blood"
+  ],
+  "Weiler’s Ward": [
+    "deepm_weilers-ward"
+  ],
+  "Wild Shield": [
+    "deepm_wild-shield"
+  ],
+  "Wind Lash": [
+    "deepm_wind-lash"
+  ],
+  "Wind of the Hereafter": [
+    "deepm_wind-of-the-hereafter"
+  ],
+  "Wind Tunnel": [
+    "deepm_wind-tunnel"
+  ],
+  "Winterdark": [
+    "deepm_winterdark"
+  ],
+  "Winter's Radiance": [
+    "deepm_winters-radiance"
+  ],
+  "Wintry Glide": [
+    "deepm_wintry-glide"
+  ],
+  "Withered Sight": [
+    "deepm_withered-sight"
+  ],
+  "Wolfsong": [
+    "deepm_wolfsong"
+  ],
+  "Word of Misfortune": [
+    "deepm_word-of-misfortune"
+  ],
+  "Wresting Wind": [
+    "deepm_wresting-wind"
+  ],
+  "Writhing Arms": [
+    "deepm_writhing-arms"
+  ],
+  "Yellow Sign": [
+    "deepm_yellow-sign"
+  ],
+  "Absolute Command": [
+    "deepmx_absolute-command"
+  ],
+  "Amplify Ley Field": [
+    "deepmx_amplify-ley-field"
+  ],
+  "Animate Construct": [
+    "deepmx_animate-construct"
+  ],
+  "Anomalous Object": [
+    "deepmx_anomalous-object"
+  ],
+  "Armored Heart": [
+    "deepmx_armored-heart"
+  ],
+  "Armored Shell": [
+    "deepmx_armored-shell"
+  ],
+  "Banshee Wail": [
+    "deepmx_banshee-wail"
+  ],
+  "Beguiling Gift": [
+    "deepmx_beguiling-gift"
+  ],
+  "Borrowing": [
+    "deepmx_borrowing"
+  ],
+  "Call the Hunter": [
+    "deepmx_call-the-hunter"
+  ],
+  "Circle of Devestation": [
+    "deepmx_circle-of-devestation"
+  ],
+  "Cloying Darkness": [
+    "deepmx_cloying-darkness"
+  ],
+  "Cosmic Alignment": [
+    "deepmx_cosmic-alignment"
+  ],
+  "Cruor of Visions": [
+    "deepmx_cruor-of-visions"
+  ],
+  "Extract Foyson": [
+    "deepmx_extract-foyson"
+  ],
+  "Find the Flaw": [
+    "deepmx_find-the-flaw"
+  ],
+  "Gear Shield": [
+    "deepmx_gear-shield"
+  ],
+  "Gift of Azathoth": [
+    "deepmx_gift-of-azathoth"
+  ],
+  "Greater Ley Pulse": [
+    "deepmx_greater-ley-pulse"
+  ],
+  "Gremlins": [
+    "deepmx_gremlins"
+  ],
+  "Grinding Gears": [
+    "deepmx_grinding-gears"
+  ],
+  "Hearth Charm": [
+    "deepmx_hearth-charm"
+  ],
+  "Hellforging": [
+    "deepmx_hellforging"
+  ],
+  "Hod's Gift": [
+    "deepmx_hods-gift"
+  ],
+  "Imbue Spell": [
+    "deepmx_imbue-spell"
+  ],
+  "Jotun's Jest": [
+    "deepmx_jotuns-jest"
+  ],
+  "Land Bond": [
+    "deepmx_land-bond"
+  ],
+  "Lesser Ley Pulse": [
+    "deepmx_lesser-ley-pulse"
+  ],
+  "Ley Disruption": [
+    "deepmx_ley-disruption"
+  ],
+  "Ley Energy Bolt": [
+    "deepmx_ley-energy-bolt"
+  ],
+  "Ley Leech": [
+    "deepmx_ley-leech"
+  ],
+  "Ley Sense": [
+    "deepmx_ley-sense"
+  ],
+  "Ley Storm": [
+    "deepmx_ley-storm"
+  ],
+  "Ley Surge": [
+    "deepmx_ley-surge"
+  ],
+  "Ley Whip": [
+    "deepmx_ley-whip"
+  ],
+  "Loki's Gift": [
+    "deepmx_lokis-gift"
+  ],
+  "Machine Sacrifice": [
+    "deepmx_machine-sacrifice"
+  ],
+  "Machine Speech": [
+    "deepmx_machine-speech"
+  ],
+  "Machine's Load": [
+    "deepmx_machines-load"
+  ],
+  "Mass Blade Ward": [
+    "deepmx_mass-blade-ward"
+  ],
+  "Mass Repair Metal": [
+    "deepmx_mass-repair-metal"
+  ],
+  "Mechanical Union": [
+    "deepmx_mechanical-union"
+  ],
+  "Molech's Blessing": [
+    "deepmx_molechs-blessing"
+  ],
+  "Move the Cosmic Wheel": [
+    "deepmx_move-the-cosmic-wheel"
+  ],
+  "Overclock": [
+    "deepmx_overclock"
+  ],
+  "Power Word Restore": [
+    "deepmx_power-word-restore"
+  ],
+  "Read Memory": [
+    "deepmx_read-memory"
+  ],
+  "Repair Metal": [
+    "deepmx_repair-metal"
+  ],
+  "Risen Road": [
+    "deepmx_risen-road"
+  ],
+  "Robe of Shards": [
+    "deepmx_robe-of-shards"
+  ],
+  "Shadow Realm Gateway": [
+    "deepmx_shadow-realm-gateway"
+  ],
+  "Shield of Star and Shadow": [
+    "deepmx_shield-of-star-and-shadow"
+  ],
+  "Snowblind Stare": [
+    "deepmx_snowblind-stare"
+  ],
+  "Soothsayer's Shield": [
+    "deepmx_soothsayers-shield"
+  ],
+  "Soul of the Machine": [
+    "deepmx_soul-of-the-machine"
+  ],
+  "Sphere of Order": [
+    "deepmx_sphere-of-order"
+  ],
+  "Spire of Stone": [
+    "deepmx_spire-of-stone"
+  ],
+  "Strength of the Underworld": [
+    "deepmx_strength-of-the-underworld"
+  ],
+  "Summon Old One's Avatar": [
+    "deepmx_summon-old-ones-avatar"
+  ],
+  "Tick Stop": [
+    "deepmx_tick-stop"
+  ],
+  "Timeless Engine": [
+    "deepmx_timeless-engine"
+  ],
+  "Winding Key": [
+    "deepmx_winding-key"
+  ],
+  "Wotan's Rede": [
+    "deepmx_wotans-rede"
+  ],
+  "Write Memory": [
+    "deepmx_write-memory"
+  ],
+  "Ambush": [
+    "kp_ambush"
+  ],
+  "Blood Strike": [
+    "kp_blood-strike"
+  ],
+  "Conjure Manabane Swarm": [
+    "kp_conjure-manabane-swarm"
+  ],
+  "Curse of Formlessness": [
+    "kp_curse-of-formlessness"
+  ],
+  "Delay Passing": [
+    "kp_delay-passing"
+  ],
+  "Doom of Ancient Decrepitude": [
+    "kp_doom-of-ancient-decrepitude"
+  ],
+  "Doom of Voracity": [
+    "kp_doom-of-voracity"
+  ],
+  "Feed the Worms": [
+    "kp_feed-the-worms"
+  ],
+  "Greater Ley Protection": [
+    "kp_greater-ley-protection"
+  ],
+  "Hirvsth's Call": [
+    "kp_hirvsths-call"
+  ],
+  "Incantation of Lies Made Truth": [
+    "kp_incantation-of-lies-made-truth"
+  ],
+  "Jeweled Fissure": [
+    "kp_jeweled-fissure"
+  ],
+  "Lesser Ley Protection": [
+    "kp_lesser-ley-protection"
+  ],
+  "Ley Disturbance": [
+    "kp_ley-disturbance"
+  ],
+  "Locate Red Portal": [
+    "kp_locate-red-portal"
+  ],
+  "Moon's Respite": [
+    "kp_moons-respite"
+  ],
+  "Morphic Flux": [
+    "kp_morphic-flux"
+  ],
+  "Open Red Portal": [
+    "kp_open-red-portal"
+  ],
+  "Perun's Doom": [
+    "kp_peruns-doom"
+  ],
+  "Reset Red Portal": [
+    "kp_reset-red-portal"
+  ],
+  "Sanguine Spear": [
+    "kp_sanguine-spear"
+  ],
+  "Scattered Images": [
+    "kp_scattered-images"
+  ],
+  "Seal Red Portal": [
+    "kp_seal-red-portal"
+  ],
+  "Selfish Wish": [
+    "kp_selfish-wish"
+  ],
+  "Shadow Spawn": [
+    "kp_shadow-spawn"
+  ],
+  "Shadow Tree": [
+    "kp_shadow-tree"
+  ],
+  "Shadow's Brand": [
+    "kp_shadows-brand"
+  ],
+  "Stigmata of the Red Goddess": [
+    "kp_stigmata-of-the-red-goddess"
+  ],
+  "The Black God's Blessing": [
+    "kp_the-black-gods-blessing"
+  ],
+  "Wield Soul": [
+    "kp_wield-soul"
+  ],
+  "Winged Spies": [
+    "kp_winged-spies"
+  ],
+  "Eye bite": [
+    "open5e_eye-bite"
+  ],
+  "Ray of Sickness": [
+    "open5e_ray-of-sickness",
+    "srd-2024_ray-of-sickness"
+  ],
+  "Aura of Life": [
+    "srd-2024_aura-of-life"
+  ],
+  "Befuddlement": [
+    "srd-2024_befuddlement"
+  ],
+  "Chromatic Orb": [
+    "srd-2024_chromatic-orb"
+  ],
+  "Compulsion": [
+    "srd-2024_compulsion",
+    "srd_compulsion"
+  ],
+  "Dissonant Whispers": [
+    "srd-2024_dissonant-whispers"
+  ],
+  "Divine Smite": [
+    "srd-2024_divine-smite"
+  ],
+  "Dragon's Breath": [
+    "srd-2024_dragons-breath"
+  ],
+  "Eldritch Blast": [
+    "srd-2024_eldritch-blast",
+    "srd_eldritch-blast"
+  ],
+  "Elementalism": [
+    "srd-2024_elementalism"
+  ],
+  "Ensnaring Strike": [
+    "srd-2024_ensnaring-strike"
+  ],
+  "Hellish Rebuke": [
+    "srd-2024_hellish-rebuke",
+    "srd_hellish-rebuke"
+  ],
+  "Hex": [
+    "srd-2024_hex"
+  ],
+  "Hunter's Mark": [
+    "srd-2024_hunters-mark",
+    "srd_hunters-mark"
+  ],
+  "Ice Knife": [
+    "srd-2024_ice-knife"
+  ],
+  "Meld into Stone": [
+    "srd-2024_meld-into-stone",
+    "srd_meld-into-stone"
+  ],
+  "Mind Spike": [
+    "srd-2024_mind-spike"
+  ],
+  "Pass without Trace": [
+    "srd-2024_pass-without-trace",
+    "srd_pass-without-trace"
+  ],
+  "Phantasmal Force": [
+    "srd-2024_phantasmal-force"
+  ],
+  "Poison Spray": [
+    "srd-2024_poison-spray",
+    "srd_poison-spray"
+  ],
+  "Power Word Heal": [
+    "srd-2024_power-word-heal"
+  ],
+  "Searing Smite": [
+    "srd-2024_searing-smite"
+  ],
+  "Shining Smite": [
+    "srd-2024_shining-smite"
+  ],
+  "Sorcerous Burst": [
+    "srd-2024_sorcerous-burst"
+  ],
+  "Starry Wisp": [
+    "srd-2024_starry-wisp"
+  ],
+  "Summon Dragon": [
+    "srd-2024_summon-dragon"
+  ],
+  "Thunderwavea": [
+    "srd-2024_thunderwavea"
+  ],
+  "Tsunami": [
+    "srd-2024_tsunami"
+  ],
+  "Vitriolic Sphere": [
+    "srd-2024_vitriolic-sphere"
+  ],
+  "Branding Smite": [
+    "srd_branding-smite"
+  ],
+  "Ambush Chute": [
+    "toh_ambush-chute"
+  ],
+  "Armored Formation": [
+    "toh_armored-formation"
+  ],
+  "Babble": [
+    "toh_babble"
+  ],
+  "Battle Mind": [
+    "toh_battle-mind"
+  ],
+  "Beast Within": [
+    "toh_beast-within"
+  ],
+  "Betraying Bauble": [
+    "toh_betraying-bauble"
+  ],
+  "Bloodlust": [
+    "toh_bloodlust"
+  ],
+  "Blunted Edge": [
+    "toh_blunted-edge"
+  ],
+  "Bolster Fortifications": [
+    "toh_bolster-fortifications"
+  ],
+  "Bound Haze": [
+    "toh_bound-haze"
+  ],
+  "Burst Stone": [
+    "toh_burst-stone"
+  ],
+  "Butterfly Effect": [
+    "toh_butterfly-effect"
+  ],
+  "Calm Beasts": [
+    "toh_calm-beasts"
+  ],
+  "Clear the Board": [
+    "toh_clear-the-board"
+  ],
+  "Conjure Construct": [
+    "toh_conjure-construct"
+  ],
+  "Conjure Spectral Allies": [
+    "toh_conjure-spectral-allies"
+  ],
+  "Convey Inner Peace": [
+    "toh_convey-inner-peace"
+  ],
+  "Crown of Thorns": [
+    "toh_crown-of-thorns"
+  ],
+  "Damaging Intel": [
+    "toh_damaging-intel"
+  ],
+  "Deadly Salvo": [
+    "toh_deadly-salvo"
+  ],
+  "Divine Retribution": [
+    "toh_divine-retribution"
+  ],
+  "Dreamwine": [
+    "toh_dreamwine"
+  ],
+  "Emerald Eyes": [
+    "toh_emerald-eyes"
+  ],
+  "Enchanted Bloom": [
+    "toh_enchanted-bloom"
+  ],
+  "Eruption": [
+    "toh_eruption"
+  ],
+  "Feint": [
+    "toh_feint"
+  ],
+  "Fey Food": [
+    "toh_fey-food"
+  ],
+  "Fey-Touched Blade": [
+    "toh_fey-touched-blade"
+  ],
+  "Forced Reposition": [
+    "toh_forced-reposition"
+  ],
+  "Furious Wail": [
+    "toh_furious-wail"
+  ],
+  "Fuse Armor": [
+    "toh_fuse-armor"
+  ],
+  "Gale": [
+    "toh_gale"
+  ],
+  "Glare": [
+    "toh_glare"
+  ],
+  "High Ground": [
+    "toh_high-ground"
+  ],
+  "Immolating Gibbet": [
+    "toh_immolating-gibbet"
+  ],
+  "Inexorable Summons": [
+    "toh_inexorable-summons"
+  ],
+  "Instant Armored Vehicle": [
+    "toh_instant-armored-vehicle"
+  ],
+  "Invested Champion": [
+    "toh_invested-champion"
+  ],
+  "Iron Gut": [
+    "toh_iron-gut"
+  ],
+  "Jagged Forcelance": [
+    "toh_jagged-forcelance"
+  ],
+  "Jarring Growl": [
+    "toh_jarring-growl"
+  ],
+  "Lance": [
+    "toh_lance"
+  ],
+  "Less Fool, I": [
+    "toh_less-fool-i"
+  ],
+  "Life Burst": [
+    "toh_life-burst"
+  ],
+  "Lightless Torch": [
+    "toh_lightless-torch"
+  ],
+  "Long Game": [
+    "toh_long-game"
+  ],
+  "Magma Spray": [
+    "toh_magma-spray"
+  ],
+  "Mantle of the Brave": [
+    "toh_mantle-of-the-brave"
+  ],
+  "Martyr's Rally": [
+    "toh_martyrs-rally"
+  ],
+  "Mass Faerie Fire": [
+    "toh_mass-faerie-fire"
+  ],
+  "Misdirection": [
+    "toh_misdirection"
+  ],
+  "Mud": [
+    "toh_mud"
+  ],
+  "Muted Foe": [
+    "toh_muted-foe"
+  ],
+  "Never Surrender": [
+    "toh_never-surrender"
+  ],
+  "Oathbound Implement": [
+    "toh_oathbound-implement"
+  ],
+  "Outmaneuver": [
+    "toh_outmaneuver"
+  ],
+  "Oversized Paws": [
+    "toh_oversized-paws"
+  ],
+  "Pincer": [
+    "toh_pincer"
+  ],
+  "Piper's Lure": [
+    "toh_pipers-lure"
+  ],
+  "Portal Jaunt": [
+    "toh_portal-jaunt"
+  ],
+  "Portal Trap": [
+    "toh_portal-trap"
+  ],
+  "Power Word Fling": [
+    "toh_power-word-fling"
+  ],
+  "Power Word Rend": [
+    "toh_power-word-rend"
+  ],
+  "Reaper's Knell": [
+    "toh_reapers-knell"
+  ],
+  "Rebounding Bolt": [
+    "toh_rebounding-bolt"
+  ],
+  "Repulsing Wall": [
+    "toh_repulsing-wall"
+  ],
+  "Retribution": [
+    "toh_retribution"
+  ],
+  "Rockfall Ward": [
+    "toh_rockfall-ward"
+  ],
+  "Sacrifice Pawn": [
+    "toh_sacrifice-pawn"
+  ],
+  "Sacrificial Healing": [
+    "toh_sacrificial-healing"
+  ],
+  "Safe Transposition": [
+    "toh_safe-transposition"
+  ],
+  "Secret Blind": [
+    "toh_secret-blind"
+  ],
+  "Shared Frenzy": [
+    "toh_shared-frenzy"
+  ],
+  "Shocking Volley": [
+    "toh_shocking-volley"
+  ],
+  "Sightburst": [
+    "toh_sightburst"
+  ],
+  "Silvershout": [
+    "toh_silvershout"
+  ],
+  "Smelting Blast": [
+    "toh_smelting-blast"
+  ],
+  "Sneer": [
+    "toh_sneer"
+  ],
+  "Spiked Barricade": [
+    "toh_spiked-barricade"
+  ],
+  "Spite": [
+    "toh_spite"
+  ],
+  "Steam Gout": [
+    "toh_steam-gout"
+  ],
+  "Stone Aegis": [
+    "toh_stone-aegis"
+  ],
+  "Stone Fetch": [
+    "toh_stone-fetch"
+  ],
+  "Sudden Slue": [
+    "toh_sudden-slue"
+  ],
+  "Sudden Stampede": [
+    "toh_sudden-stampede"
+  ],
+  "Toadstool Ring": [
+    "toh_toadstool-ring"
+  ],
+  "Toothless Beast": [
+    "toh_toothless-beast"
+  ],
+  "Trollish Charge": [
+    "toh_trollish-charge"
+  ],
+  "Vine Carpet": [
+    "toh_vine-carpet"
+  ],
+  "War Horn": [
+    "toh_war-horn"
+  ],
+  "Wild Hunt": [
+    "toh_wild-hunt"
+  ],
+  "Abrupt Hug": [
+    "wz_abrupt-hug"
+  ],
+  "Avert Evil Eye": [
+    "wz_avert-evil-eye"
+  ],
+  "Bardo": [
+    "wz_bardo"
+  ],
+  "Battle Chant": [
+    "wz_battle-chant"
+  ],
+  "Bombardment of Stings": [
+    "wz_bombardment-of-stings"
+  ],
+  "Charming Aesthetics": [
+    "wz_charming-aesthetics"
+  ],
+  "Child of Light and Darkness": [
+    "wz_child-of-light-and-darkness"
+  ],
+  "Commander's Pavilion": [
+    "wz_commanders-pavilion"
+  ],
+  "Devouring Darkness": [
+    "wz_devouring-darkness"
+  ],
+  "Door of the Far Traveler": [
+    "wz_door-of-the-far-traveler"
+  ],
+  "Eternal Echo": [
+    "wz_eternal-echo"
+  ],
+  "Ethereal Stairs": [
+    "wz_ethereal-stairs"
+  ],
+  "Exchanged Knowledge": [
+    "wz_exchanged-knowledge"
+  ],
+  "Hedgehog Dozen": [
+    "wz_hedgehog-dozen"
+  ],
+  "Hypnagogia": [
+    "wz_hypnagogia"
+  ],
+  "Hypnic Jerk": [
+    "wz_hypnic-jerk"
+  ],
+  "Inconspicuous Facade": [
+    "wz_inconspicuous-facade"
+  ],
+  "March of the Dead": [
+    "wz_march-of-the-dead"
+  ],
+  "Mind Maze": [
+    "wz_mind-maze"
+  ],
+  "Mirror Realm": [
+    "wz_mirror-realm"
+  ],
+  "Obfuscate Object": [
+    "wz_obfuscate-object"
+  ],
+  "Order of Revenge": [
+    "wz_order-of-revenge"
+  ],
+  "Pierce the Veil": [
+    "wz_pierce-the-veil"
+  ],
+  "Pratfall": [
+    "wz_pratfall"
+  ],
+  "Putrescent Faerie Circle": [
+    "wz_putrescent-faerie-circle"
+  ],
+  "Reassemble": [
+    "wz_reassemble"
+  ],
+  "Reciprocating Portal": [
+    "wz_reciprocating-portal"
+  ],
+  "Remove Insulation": [
+    "wz_remove-insulation"
+  ],
+  "Revenge's Eye": [
+    "wz_revenges-eye"
+  ],
+  "Rise of the Green": [
+    "wz_rise-of-the-green"
+  ],
+  "Rive": [
+    "wz_rive"
+  ],
+  "Shadow Adaptation": [
+    "wz_shadow-adaptation"
+  ],
+  "Skull Road": [
+    "wz_skull-road"
+  ],
+  "Storm of Axes": [
+    "wz_storm-of-axes"
+  ],
+  "Subliminal Aversion": [
+    "wz_subliminal-aversion"
+  ],
+  "Summon Clockwork Beast": [
+    "wz_summon-clockwork-beast"
+  ],
+  "Suppress Regeneration": [
+    "wz_suppress-regeneration"
+  ],
+  "Threshold Slip": [
+    "wz_threshold-slip"
+  ],
+  "Toxic Pollen": [
+    "wz_toxic-pollen"
+  ],
+  "Vagrant's Nondescript Cloak": [
+    "wz_vagrants-nondescript-cloak"
+  ],
+  "Vengeful Panopy of the Ley Line Ignited": [
+    "wz_vengeful-panopy-of-the-ley-line-ignited"
+  ],
+  "Who Goes There?": [
+    "wz_who-goes-there"
+  ],
+  "Zymurgic Aura": [
+    "wz_zymurgic-aura"
+  ]
+}

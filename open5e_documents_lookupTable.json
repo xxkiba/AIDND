@@ -1,0 +1,69 @@
+{
+  "Adventurer's Guide": [
+    "a5e-ag"
+  ],
+  "Dungeon Delver’s Guide": [
+    "a5e-ddg"
+  ],
+  "Gate Pass Gazette": [
+    "a5e-gpg"
+  ],
+  "Monstrous Menagerie": [
+    "a5e-mm"
+  ],
+  "Black Flag SRD": [
+    "bfrd"
+  ],
+  "Creature Codex": [
+    "ccdx"
+  ],
+  "5e Core Concepts": [
+    "core"
+  ],
+  "Deep Magic for 5th Edition": [
+    "deepm"
+  ],
+  "Deep Magic Extended": [
+    "deepmx"
+  ],
+  "Elderberry Inn Icons": [
+    "elderberry-inn-icons"
+  ],
+  "Kobold Press Compilation": [
+    "kp"
+  ],
+  "Open5e Originals": [
+    "open5e",
+    "open5e-2024"
+  ],
+  "System Reference Document 5.1": [
+    "srd-2014"
+  ],
+  "System Reference Document 5.2": [
+    "srd-2024"
+  ],
+  "Tal'dorei Campaign Setting": [
+    "tdcs"
+  ],
+  "Tome of Beasts": [
+    "tob"
+  ],
+  "Tome of Beasts 1 (2023 Edition)": [
+    "tob-2023"
+  ],
+  "Tome of Beasts 2": [
+    "tob2"
+  ],
+  "Tome of Beasts 3": [
+    "tob3"
+  ],
+  "Tome of Heroes": [
+    "toh"
+  ],
+  "Vault of Magic": [
+    "vom"
+  ],
+  "Warlock Zine": [
+    "wz"
+  ]
+}
