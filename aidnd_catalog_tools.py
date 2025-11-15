@@ -17,15 +17,24 @@ from typing import Dict, Any, List, Optional
 import requests
 
 # -------------------- Paths & Files --------------------
-BASE = Path(".")
+BASE = Path("./dnd_library")
 CACHE_DIR = BASE / "cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
-# Lookup tables (name -> [slug,...]) you built earlier
+# Lookup tables (name -> [slugs...])  ← 加全目录
 LOOKUP_FILES = {
-    "monsters":  BASE / "open5e_monsters_lookupTable.json",
-    "equipment": BASE / "open5e_equipment_lookupTable.json",
-    "spells":    BASE / "open5e_spells_lookupTable.json",
+    "monsters":    BASE / "open5e_monsters_lookupTable.json",
+    "equipment":   BASE / "open5e_equipment_lookupTable.json",
+    "spells":      BASE / "open5e_spells_lookupTable.json",
+    "backgrounds": BASE / "open5e_backgrounds_lookupTable.json",
+    "classes":     BASE / "open5e_classes_lookupTable.json",
+    "conditions":  BASE / "open5e_conditions_lookupTable.json",
+    "documents":   BASE / "open5e_documents_lookupTable.json",
+    "feats":       BASE / "open5e_feats_lookupTable.json",
+    "planes":      BASE / "open5e_planes_lookupTable.json",
+    "races":       BASE / "open5e_races_lookupTable.json",
+    "sections":    BASE / "open5e_sections_lookupTable.json",
+    "spelllist":   BASE / "open5e_spelllist_lookupTable.json",
 }
 
 # JSONL catalogs (each line is a normalized entry with {type, name, slug_or_index, api_url, ...})
@@ -43,6 +52,7 @@ JSONL_FILES = {
     "sections":    BASE / "open5e_sections.jsonl",
     "spelllist":   BASE / "open5e_spelllist.jsonl",
 }
+
 
 # Unified SQLite catalog created by your builder (optional but recommended for fast lookups)
 SQLITE_PATH = BASE / "open5e_catalog.sqlite"
@@ -108,13 +118,16 @@ def _jsonl_find_by_slug_or_name(res_type: str, name_or_slug: str) -> Optional[Di
 
 
 # -------------------- Public tool functions --------------------
-def look_monster_table(query: str, limit: int = 20) -> Dict[str, Any]:
+def look_table(res_type: str, query: str, limit: int = 20) -> Dict[str, Any]:
     """
-    Search the local 'monsters' name->slugs lookup table by simple substring.
+    Generic name->slugs fuzzy lookup for ANY supported type in LOOKUP_FILES.
     Returns: {"matches": [{"name": str, "slugs": [str, ...]} ...]}
     """
-    data = _load_lookup("monsters")
-    q = query.lower().strip()
+    path = LOOKUP_FILES.get(res_type)
+    if not path or not path.exists():
+        return {"error": f"lookup table not found for type: {res_type}"}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    q = (query or "").lower().strip()
     out = []
     for name, slugs in data.items():
         if q in name.lower():
@@ -122,6 +135,10 @@ def look_monster_table(query: str, limit: int = 20) -> Dict[str, Any]:
             if len(out) >= limit:
                 break
     return {"matches": out}
+
+def look_monster_table(query: str, limit: int = 20) -> Dict[str, Any]:
+    """Backward-compatible alias for monsters lookup."""
+    return look_table("monsters", query, limit)
 
 
 def search_table(res_type: str, name_or_slug: str, prefer_doc: Optional[str] = None) -> Dict[str, Any]:

@@ -1,0 +1,38 @@
+{
+  "slug": "srd-2014",
+  "api_url": "https://api.open5e.com/v2/documents/srd-2014/",
+  "data": {
+    "url": "https://api.open5e.com/v2/documents/srd-2014/",
+    "key": "srd-2014",
+    "licenses": [
+      {
+        "name": "Creative Commons Attribution 4.0",
+        "key": "cc-by-40",
+        "url": "https://api.open5e.com/v2/licenses/cc-by-40/"
+      },
+      {
+        "name": "OPEN GAME LICENSE Version 1.0a",
+        "key": "ogl-10a",
+        "url": "https://api.open5e.com/v2/licenses/ogl-10a/"
+      }
+    ],
+    "publisher": {
+      "name": "Wizards of the Coast",
+      "key": "wizards-of-the-coast",
+      "url": "https://api.open5e.com/v2/publishers/wizards-of-the-coast/"
+    },
+    "gamesystem": {
+      "name": "5th Edition 2014",
+      "key": "5e-2014",
+      "url": "https://api.open5e.com/v2/gamesystems/5e-2014/"
+    },
+    "display_name": "5e 2014 Rules",
+    "name": "System Reference Document 5.1",
+    "desc": "The System Reference Document (SRD) contains guidelines for publishing content under the Open-Gaming License (OGL) or Creative Commons. The Dungeon Masters Guild also provides self-publishing opportunities for individuals and groups.",
+    "author": "Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.",
+    "publication_date": "2023-01-23T00:00:00",
+    "permalink": "https://dnd.wizards.com/resources/systems-reference-document",
+    "distance_unit": "feet",
+    "weight_unit": "lb"
+  }
+}
